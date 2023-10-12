@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Media Computer Science at {{year}}
+    - course: MSc in Media Computer Science
       institution: Saarland University
       year: October 2020 - March 2024
     - course: BEng in Computer Engineering 
