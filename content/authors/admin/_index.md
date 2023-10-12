@@ -35,7 +35,7 @@ education:
   courses:
     - course: MSc in Media Computer Science
       institution: Saarland University
-      - year: October 2020 - March 2024
+      year: October 2020 - March 2024
     - course: BEng in Computer Engineering 
       institution: Pune University
       year: June 2011 - May 2015
