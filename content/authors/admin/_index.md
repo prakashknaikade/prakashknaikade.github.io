@@ -18,30 +18,30 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Saarland University
+    url: https://saarland-informatics-campus.de/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests span in the broad areas of 3D-Reconstruction, Neural Rendering, Motion Capture, Generative Models, Animation, AR/VR, and generally Computer Graphics, Computer Vision, & Deep Learning to solve the real-world problems with impactful solutions for VFX, Gaming and Entertainment Industry.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Computer Graphics
+  - Deep/Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Media Computer Science
+      institution: Saarland University
+      year: 2020-2024
+    - course: BEng in Computer Engineering 
+      institution: Pune University
+      year: 2011-2015
+    - course: Higher Secondary Certificate Examination 
+      institution: Maharashtra State Board 
+      year: 2009-2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,22 +50,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: prakashknaikade@gmail.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=3pyPb_QAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/prakashknaikade
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/prakashknaikade/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Prakash Naikade is a student of Media Computer Science at the Saarland University. His research interests span in the broad areas of 3D-Reconstruction, Neural Rendering, Motion Capture, Generative Models, Animation, AR/VR, and generally Computer Graphics, Computer Vision, & Deep Learning to solve the real-world problems with impactful solutions for VFX, Gaming and Entertainment Industry.
 {style="text-align: justify;"}
