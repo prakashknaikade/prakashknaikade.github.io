@@ -33,15 +33,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Media Computer Science
+    - course: MSc in Media Computer Science at {{year}}
       institution: Saarland University
-      institution: October 2020 - March 2024
+      year: October 2020 - March 2024
     - course: BEng in Computer Engineering 
       institution: Pune University
-      institution: June 2011 - May 2015
+      year: June 2011 - May 2015
     - course: Higher Secondary Certificate Examination 
       institution: Maharashtra State Board 
-      institution: May 2009 - May 2011
+      year: May 2009 - May 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
