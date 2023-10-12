@@ -35,13 +35,13 @@ education:
   courses:
     - course: MSc in Media Computer Science
       institution: Saarland University
-      year: October 2020 - March 2024
+      institution: October 2020 - March 2024
     - course: BEng in Computer Engineering 
       institution: Pune University
-      year: June 2011 - May 2015
+      institution: June 2011 - May 2015
     - course: Higher Secondary Certificate Examination 
       institution: Maharashtra State Board 
-      year: May 2009 - May 2011
+      institution: May 2009 - May 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
