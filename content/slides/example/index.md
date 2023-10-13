@@ -47,7 +47,6 @@ slides:
 Inline code: `variable`
 
 Code block:
-
 ```python
 porridge = "blueberry"
 if porridge == "blueberry":
