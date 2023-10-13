@@ -48,7 +48,8 @@ Inline code: `variable`
 
 Code block:
 
-```python
+```
+python
 porridge = "blueberry"
 if porridge == "blueberry":
     print("Eating...")
@@ -97,7 +98,8 @@ A fragment can accept two optional parameters:
 
 Add speaker notes to your presentation
 
-```markdown
+```
+markdown
 {{%/* speaker_note */%}}
 
 - Only the speaker can read these notes
@@ -138,7 +140,8 @@ Press the `S` key to view the speaker notes!
 
 Customize the slide style and background
 
-```markdown
+```
+markdown
 {{</* slide background-image="/media/boards.jpg" */>}}
 {{</* slide background-color="#0000FF" */>}}
 {{</* slide class="my-style" */>}}
@@ -152,7 +155,8 @@ Let's make headers navy colored.
 
 Create `assets/css/reveal_custom.css` with:
 
-```css
+```
+css
 .reveal section h1,
 .reveal section h2,
 .reveal section h3 {
