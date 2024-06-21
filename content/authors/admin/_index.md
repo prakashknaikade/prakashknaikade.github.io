@@ -59,15 +59,15 @@ education:
     date_start: 2020-01-10
     date_end: 2024-08-16
     summary: |
-      Thesis: Working on Radiance Field methods for Novel View Synthesis of structural-color objects created by laser marking. Facilitating interactive visualization for potential users to better understand the intricacies of view-dependent structural-colors of laser-printed images & paintings on metal plates.
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
-    |
       Courses included:
       - Computer Graphics, Image Processing & Computer Vision, Neural Networks: Theory & Implementation, High-Level Computer Vision, Statistics with R, Adversarial
         Reinforcement Learning, Human Computer Interaction, Games & Interactive Media
       - [Audited] Geometric Modeling, Machine Learning, AI, Ethics for Nerds
+
+      Thesis: Working on Radiance Field methods for Novel View Synthesis of structural-color objects created by laser marking. Facilitating interactive visualization for potential users to better understand the intricacies of view-dependent structural-colors of laser-printed images & paintings on metal plates.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
 
   - area: BEng Computer Engineering
     institution: Pune University
