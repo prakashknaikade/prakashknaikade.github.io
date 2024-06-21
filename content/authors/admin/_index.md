@@ -183,7 +183,7 @@ skills:
         percent: 40
         icon: circle-stack
 
-skills:
+hskills:
   - name: hobbies1
     items:
       - name: Python
