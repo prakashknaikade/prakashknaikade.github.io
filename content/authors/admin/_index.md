@@ -92,7 +92,7 @@ work:
   - position: Research Assistant
     company_name: Max Planck Institute for Informatics - AIDAM Group
     location: Saarbrücken, Germany
-    company_url: 'https://aidam.mpi-inf.mpg.de/?view=home'
+    company_url: https://aidam.mpi-inf.mpg.de/?view=home
     company_logo: 'https://www.mpi-inf.mpg.de/typo3conf/ext/mpi_inf_site_package/Resources/Public/Images/Core/mpi-logo-en.svg'
     date_start: 2023-01-08
     date_end: ''
