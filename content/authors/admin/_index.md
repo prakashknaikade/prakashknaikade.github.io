@@ -139,7 +139,7 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-techskills:
+skills:
   - name: Programming
     items:
       - name: Python
@@ -156,20 +156,18 @@ techskills:
         icon: circle-stack
 
 hobbies:
-  - name: 'xyz'
-      items:
-        - name: Hiking
-          description: ''
-          percent: 60
-          icon: person-simple-walk
-        - name: Cats
-          description: ''
-          percent: 100
-          icon: cat
-        - name: Photography
-          description: ''
-          percent: 80
-          icon: camera
+  - name: Hiking
+    description: ''
+    percent: 60
+    icon: person-simple-walk
+  - name: Cats
+    description: ''
+    percent: 100
+    icon: cat
+  - name: Photography
+    description: ''
+    percent: 80
+    icon: camera
 
 languages:
   - name: English
