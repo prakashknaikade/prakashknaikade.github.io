@@ -156,6 +156,7 @@ skills:
         icon: circle-stack
 
 hobbies:
+- name: ''
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
