@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prakash Kondibhau Naikade
+title: Prakash Naikade
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -139,8 +139,8 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-Technical skills:
-  - name: Technical Skills
+skills:
+  - name: Programming
     items:
       - name: Python
         description: ''
