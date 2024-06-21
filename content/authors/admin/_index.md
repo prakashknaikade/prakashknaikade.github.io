@@ -11,7 +11,7 @@ last_name: Naikade
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📽
 
 # Is this the primary user of the site?
 superuser: true
@@ -155,20 +155,21 @@ skills:
         percent: 40
         icon: circle-stack
 
-hobbies:
-  items:
-    - name: Hiking
-      description: ''
-      percent: 60
-      icon: person-simple-walk
-    - name: Cats
-      description: ''
-      percent: 100
-      icon: cat
-    - name: Photography
-      description: ''
-      percent: 80
-      icon: camera
+hobby:
+  -name: ''
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
 languages:
   - name: English
