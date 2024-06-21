@@ -93,15 +93,15 @@ work:
     company_name: Max Planck Institute for Informatics - AIDAM Group
     location: Saarbrücken, Germany
     company_url: https://aidam.mpi-inf.mpg.de/?view=home
-    company_logo: 'https://www.mpi-inf.mpg.de/typo3conf/ext/mpi_inf_site_package/Resources/Public/Images/Core/mpi-logo-en.svg'
+    company_logo: https://www.mpi-inf.mpg.de/typo3conf/ext/mpi_inf_site_package/Resources/Public/Images/Core/mpi-logo-en.svg
     date_start: 2023-01-08
     date_end: ''
-    summary: |2-
+    summary: |
       Working on Radiance Field methods for Novel View Synthesis of structural-color objects created by laser marking. Facilitating interactive visualization for potential users to better understand the intricacies of view-dependent structural-colors of laser-printed images & paintings on metal plates.
   - position: Junior Researcher
     company_name: August-Wilhelm Scheer Institute - Digital Health Lab
-    company_url: 'https://www.aws-institut.de/'
-    company_logo: 'https://www.aws-institut.de/wp-content/uploads/2020/05/Logo_Webseite1.svg'
+    company_url: https://www.aws-institut.de/
+    company_logo: https://www.aws-institut.de/wp-content/uploads/2020/05/Logo_Webseite1.svg
     date_start: 2023-09-01
     date_end: ''
     summary: |
@@ -110,17 +110,36 @@ work:
       - Working on human pose estimation, human action recognition, literature reviews, project proposals, & VR tasks.
   - position: Computer Vision Engineer Intern
     company_name: BASF-Coatings GmbH
-    company_url: 'https://www.basf.com/global/en.html'
-    company_logo: 'https://en.wikipedia.org/wiki/BASF#/media/File:BASF-Logo_bw.svg'
+    company_url: https://www.basf.com/global/en.html
+    company_logo: https://en.wikipedia.org/wiki/BASF#/media/File:BASF-Logo_bw.svg
     date_start: 2023-03-01
     date_end: 2023-05-31
     summary: |
       Responsibilities include:
       - Worked on development of dataset and algorithms for adhesive tests' detection & corrosion detection on images of test panels of metal substrates using YOLOv8 &UNet for automation project.
+  - position: Computer Vision Engineer Intern
+    company_name: Fenris GmbH
+    company_url: https://fenris-group.com/
+    company_logo: https://fenris-group.com/wp-content/uploads/2021/12/cropped-Fenris-Logo_176x60.png
+    date_start: 2022-05-01
+    date_end: 2023-09-30
+    summary: |
+      Responsibilities include:
+      - Contributed to marker-less motion capture solutions using single & multiple cameras, for athlete motion tracking and analysis. 
+      - Tasks included literature survey, camera calibration, deep learning based human pose estimation & golf sequence detection, estimating joint angles from 3D body poses, comparing two pose sequences and visualization of results in Blender and Unity.
+  - position: Indian Civil Services Exam Preparation
+    company_name: ''
+    company_url: ''
+    company_logo: ''
+    date_start: 2015-06-01
+    date_end: 2019-07-30
+    summary: |
+      During the preparation of this exam, I gained Under-Graduate level knowledge of Anthropology, Polity, Governance, Indian Constitution, Social Justice, International Relations, Economics, Indian and World Geography, Indian and World History, Indian Culture and Society, Environment, Ethics, etc. (Passing percentage ≈ 0.1%)
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
+Technical skills:
   - name: Technical Skills
     items:
       - name: Python
@@ -135,7 +154,8 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+
+hobbies:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -154,11 +174,13 @@ skills:
 
 languages:
   - name: English
+    percent: 95
+  - name: Hindi
+    percent: 95
+  - name: Marathi
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: German
+    percent: 15
 
 # Awards.
 #   Add/remove as many awards below as you like.
