@@ -3,7 +3,7 @@
 title: प्रकाश
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'Prakash Kondibhau Naikade'
 
 # Full name (for SEO)
 first_name: Prakash Kondibhau
