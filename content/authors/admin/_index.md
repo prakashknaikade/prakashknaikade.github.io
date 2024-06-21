@@ -213,4 +213,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Prakash Naikade is Computer Vision and Machine Learning Research Engineer. He is passionate about Machine Learning, especially Computer Vision & LLMs. He has hands on experience from academia and industry. His research interests span in the broad areas of Generative AI, LLMs, Neural Rendering, 3D-Reconstruction, Radiance Field Methods, Novel View Synthesis, Motion Capture, Digital Twins, AR/VR, and generally Computer Vision, Computer Graphics, Deep/Machine Learning & Data Science, to solve the real world problems with impactful AI aided solutions for Industries.
