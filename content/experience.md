@@ -20,10 +20,14 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Technical Skills
       username: admin
     design:
       show_skill_percentage: false
+  - block: resume-awards
+    content:
+      title: Hobbies
+      username: admin
   - block: resume-awards
     content:
       title: Awards
