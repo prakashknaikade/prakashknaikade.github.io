@@ -24,6 +24,12 @@ sections:
       username: admin
     design:
       show_skill_percentage: true
+  - block: resume-skills
+    content:
+      title: Hobbies
+      username: admin
+    design:
+      show_skill_percentage: true
   - block: resume-awards
     content:
       title: Awards
