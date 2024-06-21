@@ -1,9 +1,9 @@
 ---
 # Display name
-title: प्रकाश
+title: Prakash Kondibhau Naikade
 
 # Name pronunciation (optional)
-name_pronunciation: 'Prakash Kondibhau Naikade'
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Prakash Kondibhau
