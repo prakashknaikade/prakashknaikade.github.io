@@ -23,7 +23,7 @@ sections:
       title: Technical Skills
       username: admin
     design:
-      show_skill_percentage: false
+      show_skill_percentage: true
   - block: resume-hobbies
     content:
       title: Hobbies
