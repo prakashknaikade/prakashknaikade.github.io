@@ -6,7 +6,7 @@ title: प्रकाश
 name_pronunciation: Prakash
 
 # Full name (for SEO)
-first_name: Prakash Kondibhau
+first_name: Prakash 
 last_name: Naikade
 
 # Status emoji
@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/prakashknaikade
   - icon: brands/linkedin
-    url: https://www.linkedin.com/prakashknaikade
+    url: https://www.linkedin.com/in/prakashknaikade/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=3pyPb_QAAAAJ&hl=en
 
