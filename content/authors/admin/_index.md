@@ -3,10 +3,10 @@
 title: प्रकाश
 
 # Name pronunciation (optional)
-name_pronunciation: Prakash
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Prakash 
+first_name: Prakash Kondibhau
 last_name: Naikade
 
 # Status emoji
@@ -76,10 +76,11 @@ education:
     summary: |
       Grade: 65% (First Class)
 
-      Thesis:  Secure Data Storage on Multi-cloud Using DNA Based Cryptography - This project enables new perspective on DNA based cryptography, which ensures secure data storage on multi-cloud.
-      button:
-       text: 'Read Thesis'
-       url: 'https://github.com/prakashknaikade/Bachelor-Thesis'
+      Thesis:  Secure Data Storage on Multi-cloud Using DNA Based Cryptography - This project enables new perspective on DNA based cryptography, which ensures secure data storage on multi-cloud. 
+      
+    button:
+      text: 'Read Thesis'
+      url: 'https://github.com/prakashknaikade/Bachelor-Thesis'
 
       Courses included:
       - Data Structures and Algorithms, Design & Analysis of Algorithms, Software Architecture, Software Engineering, Software Testing & Quality Assurance
