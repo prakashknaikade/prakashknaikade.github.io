@@ -77,6 +77,9 @@ education:
       Grade: 65% (First Class)
 
       Thesis:  Secure Data Storage on Multi-cloud Using DNA Based Cryptography - This project enables new perspective on DNA based cryptography, which ensures secure data storage on multi-cloud.
+      button:
+       text: 'Read Thesis'
+       url: 'https://github.com/prakashknaikade/Bachelor-Thesis'
 
       Courses included:
       - Data Structures and Algorithms, Design & Analysis of Algorithms, Software Architecture, Software Engineering, Software Testing & Quality Assurance
@@ -85,28 +88,34 @@ education:
       - Distributed Operating Systems, Advanced Computer Architecture, Theory of Computation
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Research Assistant
+    company_name: Max Planck Institute for Informatics - AIDAM Group
+    location: Saarbrücken, Germany
+    company_url: 'https://aidam.mpi-inf.mpg.de/?view=home'
+    company_logo: 'https://www.mpi-inf.mpg.de/typo3conf/ext/mpi_inf_site_package/Resources/Public/Images/Core/mpi-logo-en.svg'
+    date_start: 2023-01-08
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Working on Radiance Field methods for Novel View Synthesis of structural-color objects created by laser marking. Facilitating interactive visualization for potential users to better understand the intricacies of view-dependent structural-colors of laser-printed images & paintings on metal plates.
+  - position: Junior Researcher
+    company_name: August-Wilhelm Scheer Institute - Digital Health Lab
+    company_url: 'https://www.aws-institut.de/'
+    company_logo: 'https://www.aws-institut.de/wp-content/uploads/2020/05/Logo_Webseite1.svg'
+    date_start: 2023-09-01
+    date_end: ''
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Contributing to the MediHopps & VuLCAn project
+      - Working on human pose estimation, human action recognition, literature reviews, project proposals, & VR tasks.
+  - position: Computer Vision Engineer Intern
+    company_name: BASF-Coatings GmbH
+    company_url: 'https://www.basf.com/global/en.html'
+    company_logo: 'https://en.wikipedia.org/wiki/BASF#/media/File:BASF-Logo_bw.svg'
+    date_start: 2023-03-01
+    date_end: 2023-05-31
+    summary: |
+      Responsibilities include:
+      - Worked on development of dataset and algorithms for adhesive tests' detection & corrosion detection on images of test panels of metal substrates using YOLOv8 &UNet for automation project.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
