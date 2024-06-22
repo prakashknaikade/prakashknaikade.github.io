@@ -20,7 +20,7 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Technical Skills
+      title: Skills and Hobbies
       username: admin
     design:
       show_skill_percentage: true
