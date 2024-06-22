@@ -27,22 +27,7 @@ sections:
   - block: resume-hobbies
     content:
       title: Hobbies
-      items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-      username: admin
-    design:
-      show_skill_percentage: true
+      text: Movies, Music
   - block: resume-awards
     content:
       title: Awards
