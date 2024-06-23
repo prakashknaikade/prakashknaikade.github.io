@@ -213,30 +213,64 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+    certificate_url: https://www.coursera.org/account/accomplishments/records/VXN5JM43EK9L
+    date: '2021-03-07'
     awarder: Coursera
     icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
+
+  - title: 'Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization'
+    certificate_url: https://www.coursera.org/account/accomplishments/records/VXN5JM43EK9L
+    date: '2021-03-07'
+    awarder: Coursera
+    icon: coursera
+  
+  - title: Structuring Machine Learning Projects
+    certificate_url: https://www.coursera.org/account/accomplishments/verify/98GLTU8W3HSF
+    date: '2021-03-07'
+    awarder: Coursera
+    icon: coursera
+
+  - title: Introduction to R
+    certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/53b17794178df29bfeba24a316256837a0dcc40a?raw=1
+    date: '2021-10-24'
     awarder: datacamp
     icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
+  - title: Intermediate R
+    certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/36da9e251c5596e368ce08959ff676140e802b7f?raw=1
+    date: '2021-10-24'
+    awarder: datacamp
+    icon: datacamp
+
+  - title: Introduction to Data in R
+    certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/a8947dc5ed19b4e7eb5331790dbdc646e78b7188?raw=1
+    date: '2021-11-01'
+    awarder: datacamp
+    icon: datacamp
+  
+  - title: AWS Machine Learning Foundations
+    certificate_url: confirm.udacity.com/PSSTL7PE
+    date: '2021-11-01'
+    awarder: udacity
+    icon: udacity
+
+  title: : Graph Analytics
+    certificate_url: confirm.udacity.com/PSSTL7PE
+    date: '2021-11-01'
+    awarder: memgraph
+    icon: memgraph
+
+  - title: Python, Intro to Machine Learning, Pandas, Feature Engineering, Data Visualization, Data Cleaning, Intermediate 
+    Machine Learning, Intro to SQL, Intro to Game AI and Reinforcement Learning, Time Series
+    certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/python
+    certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/intro-to-machine-learning
+    certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/pandas
+    certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/intermediate-machine-learning
+    certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/intro-to-sql
+    certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/intro-to-game-ai-and-reinforcement-learning
+    date: '2021-12-01'
+    awarder: kaggle
+    icon: kaggle
 ---
 
 ## About Me
