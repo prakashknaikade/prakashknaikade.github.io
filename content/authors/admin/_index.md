@@ -275,7 +275,7 @@ awards:
     icon: linkedin
     summary: ''
 
-  - title: 'Python'
+  - title: Python
     certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/python
     date: '2021-06-04'
     awarder: kaggle
@@ -289,7 +289,7 @@ awards:
     icon: ''
     summary: ''
 
-  - title: 'Pandas'
+  - title: Pandas
     certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/pandas
     date: '2021-09-19'
     awarder: kaggle
@@ -317,7 +317,7 @@ awards:
     icon: ''
     summary: ''
 
-  title: 'Intro to Game AI and Reinforcement Learning'
+  - title: 'Intro to Game AI and Reinforcement Learning'
     certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/intro-to-game-ai-and-reinforcement-learning
     date: '20212-01-04'
     awarder: kaggle
