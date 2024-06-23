@@ -265,7 +265,14 @@ awards:
     certificate_url: https://public-assets.memgraph.com/certificates/gapd-2021/4564901.pdf
     date: '2021-11-01'
     awarder: memgraph
-    icon: memgraph
+    icon: ''
+    summary: ''
+  
+  title: : 'PyTorch Essential Training: Deep Learning (2019)'
+    certificate_url: https://www.linkedin.com/learning/certificates/4e21ae26638e29df189f2d53d77ec4012207ac83b2910d0d7991d2afb72ea0e4
+    date: '2021-03-25'
+    awarder: linkedin
+    icon: linkedin
     summary: ''
 
   # - title: Python, Intro to Machine Learning, Pandas, Feature Engineering, Data Visualization, Data Cleaning, Intermediate 
