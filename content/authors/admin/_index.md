@@ -285,7 +285,7 @@ awards:
     # certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/intro-to-game-ai-and-reinforcement-learning
     date: '2021-12-01'
     awarder: kaggle
-    icon: kaggle
+    icon: ''
 ---
 
 ## About Me
