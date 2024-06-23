@@ -146,28 +146,32 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: C#
+      - name: 'C#, C++'
         description: ''
         percent: 60
         icon: code-bracket
-      - name: C++
+      - name: 'R, MATLAB, C, SQL'
         description: ''
         percent: 60
         icon: code-bracket
-  - name: hobbies
+  - name: Packages
     items:
-      - name: Hiking
+      - name: 'PyTorch, TensorFlow, Keras'
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        percent: ''
+        icon: code-bracket
+      - name: 'OpenCV, Scikit-Learn, SciPy'
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: ''
+        icon: code-bracket
+      - name: 'NumPy, Pandas'
         description: ''
-        percent: 80
-        icon: camera
+        percent: ''
+        icon: code-bracket
+      - name: 'Matplotlib, Seaborn'
+        description: ''
+        percent: ''
+        icon: code-bracket
   - name: Programming
     items:
       - name: Python
