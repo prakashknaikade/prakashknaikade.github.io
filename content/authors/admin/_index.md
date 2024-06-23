@@ -282,19 +282,19 @@ awards:
     icon: ''
     summary: ''
 
-  # - title: 'Intro to Machine Learning'
-  #   certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/intro-to-machine-learning
-  #   date: '2021-12-01'
-  #   awarder: kaggle
-  #   icon: ''
-  #   summary: ''
+  - title: 'Intro to Machine Learning'
+    certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/intro-to-machine-learning
+    date: '2021-12-01'
+    awarder: kaggle
+    icon: ''
+    summary: ''
 
-  # - title: Pandas
-  #   certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/pandas
-  #   date: '2021-09-19'
-  #   awarder: kaggle
-  #   icon: ''
-  #   summary: ''
+  - title: Pandas
+    certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/pandas
+    date: '2021-09-19'
+    awarder: kaggle
+    icon: ''
+    summary: ''
 
   # - title: 'Intermediate Machine Learning'
   #   certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/intermediate-machine-learning
