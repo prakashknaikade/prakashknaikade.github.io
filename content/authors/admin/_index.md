@@ -275,17 +275,17 @@ awards:
     icon: linkedin
     summary: ''
 
-  - title: Python, Intro to Machine Learning, Pandas, Feature Engineering, Data Visualization, Data Cleaning, Intermediate 
-    Machine Learning, Intro to SQL, Intro to Game AI and Reinforcement Learning, Time Series
-    certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/python
-    certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/intro-to-machine-learning
-    certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/pandas
-    certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/intermediate-machine-learning
-    certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/intro-to-sql
-    certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/intro-to-game-ai-and-reinforcement-learning
-    date: '2021-12-01'
-    awarder: kaggle
-    icon: kaggle
+  # - title: Python, Intro to Machine Learning, Pandas, Feature Engineering, Data Visualization, Data Cleaning, Intermediate 
+  #   Machine Learning, Intro to SQL, Intro to Game AI and Reinforcement Learning, Time Series
+  #   certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/python
+  #   certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/intro-to-machine-learning
+  #   certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/pandas
+  #   certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/intermediate-machine-learning
+  #   certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/intro-to-sql
+  #   certificate_url: https://www.kaggle.com/learn/certification/prakashnaikade/intro-to-game-ai-and-reinforcement-learning
+  #   date: '2021-12-01'
+  #   awarder: kaggle
+  #   icon: kaggle
 ---
 
 ## About Me
