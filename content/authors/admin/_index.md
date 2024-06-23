@@ -261,8 +261,8 @@ awards:
     icon: ''
     summary: ''
 
-  - title: : Graph Analytics
-    certificate_url: ''
+  - title: Graph Analytics for Python Developers
+    certificate_url: https://email.memgraph.com/e/c/eyJlbWFpbF9pZCI6IlJPLWFCZ0FBQVh5QVUzZDZ4OUFmb1JBeXdnOUVLUT09IiwiaHJlZiI6Imh0dHBzOi8vcHVibGljLWFzc2V0cy5tZW1ncmFwaC5jb20vY2VydGlmaWNhdGVzL2dhcGQtMjAyMS80NTY0OTAxLnBkZiIsImludGVybmFsIjoiZWY5YTA2MDA4ZjBmOTAwZiIsImxpbmtfaWQiOjE0NTZ9/7a533e419e7b6d445e8b31147c4abd33c60523ed8dad19b1d9dfa5ca34486fd3
     date: '2021-01-01'
     awarder: memgraph
     icon: ''
