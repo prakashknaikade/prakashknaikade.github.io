@@ -177,7 +177,7 @@ skills:
       - name: Jupyter Notebook, Git, Azure 
         description: ''
         percent: ''
-        icon: git
+        icon: devicon/git
       - name: Unity 3D
         description: ''
         percent: ''
