@@ -335,7 +335,7 @@ awards:
     certificate_url: https://drive.google.com/file/d/1fM8SN1LCe8FQGWuBSA1JXChVAH5fg8dS/view
     date: '2021-03-25'
     awarder: ISZ Saar, Saarland University
-    icon: 
+    icon: ''
     summary: ''
 ---
 
