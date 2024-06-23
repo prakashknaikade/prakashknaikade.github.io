@@ -258,15 +258,15 @@ awards:
     certificate_url: confirm.udacity.com/PSSTL7PE
     date: '2021-11-01'
     awarder: udacity
-    icon: udacity
+    icon: ''
     summary: ''
 
-  # title: : Graph Analytics
-  #   certificate_url: https://public-assets.memgraph.com/certificates/gapd-2021/4564901.pdf
-  #   date: '2021-11-01'
-  #   awarder: memgraph
-  #   icon: memgraph
-  #   summary: ''
+  title: : Graph Analytics
+    certificate_url: https://public-assets.memgraph.com/certificates/gapd-2021/4564901.pdf
+    date: '2021-11-01'
+    awarder: memgraph
+    icon: memgraph
+    summary: ''
 
   # - title: Python, Intro to Machine Learning, Pandas, Feature Engineering, Data Visualization, Data Cleaning, Intermediate 
   #   Machine Learning, Intro to SQL, Intro to Game AI and Reinforcement Learning, Time Series
