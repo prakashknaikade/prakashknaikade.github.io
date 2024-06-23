@@ -219,54 +219,54 @@ awards:
     icon: coursera
     summary: ''
 
-  - title: 'Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization'
-    certificate_url: https://www.coursera.org/account/accomplishments/records/VXN5JM43EK9L
-    date: '2021-03-07'
-    awarder: Coursera
-    icon: coursera
-    summary: ''
+  # - title: 'Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization'
+  #   certificate_url: https://www.coursera.org/account/accomplishments/records/VXN5JM43EK9L
+  #   date: '2021-03-07'
+  #   awarder: Coursera
+  #   icon: coursera
+  #   summary: ''
 
-  - title: Structuring Machine Learning Projects
-    certificate_url: https://www.coursera.org/account/accomplishments/verify/98GLTU8W3HSF
-    date: '2021-03-07'
-    awarder: Coursera
-    icon: coursera
-    summary: ''
+  # - title: Structuring Machine Learning Projects
+  #   certificate_url: https://www.coursera.org/account/accomplishments/verify/98GLTU8W3HSF
+  #   date: '2021-03-07'
+  #   awarder: Coursera
+  #   icon: coursera
+  #   summary: ''
 
-  - title: Introduction to R
-    certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/53b17794178df29bfeba24a316256837a0dcc40a?raw=1
-    date: '2021-10-24'
-    awarder: datacamp
-    icon: datacamp
-    summary: ''
+  # - title: Introduction to R
+  #   certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/53b17794178df29bfeba24a316256837a0dcc40a?raw=1
+  #   date: '2021-10-24'
+  #   awarder: datacamp
+  #   icon: datacamp
+  #   summary: ''
 
-  - title: Intermediate R
-    certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/36da9e251c5596e368ce08959ff676140e802b7f?raw=1
-    date: '2021-10-24'
-    awarder: datacamp
-    icon: datacamp
-    summary: ''
+  # - title: Intermediate R
+  #   certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/36da9e251c5596e368ce08959ff676140e802b7f?raw=1
+  #   date: '2021-10-24'
+  #   awarder: datacamp
+  #   icon: datacamp
+  #   summary: ''
 
-  - title: Introduction to Data in R
-    certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/a8947dc5ed19b4e7eb5331790dbdc646e78b7188?raw=1
-    date: '2021-11-01'
-    awarder: datacamp
-    icon: datacamp
-    summary: ''
+  # - title: Introduction to Data in R
+  #   certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/a8947dc5ed19b4e7eb5331790dbdc646e78b7188?raw=1
+  #   date: '2021-11-01'
+  #   awarder: datacamp
+  #   icon: datacamp
+  #   summary: ''
   
-  - title: AWS Machine Learning Foundations
-    certificate_url: confirm.udacity.com/PSSTL7PE
-    date: '2021-11-01'
-    awarder: udacity
-    icon: udacity
-    summary: ''
+  # - title: AWS Machine Learning Foundations
+  #   certificate_url: confirm.udacity.com/PSSTL7PE
+  #   date: '2021-11-01'
+  #   awarder: udacity
+  #   icon: udacity
+  #   summary: ''
 
-  title: : Graph Analytics
-    certificate_url: https://public-assets.memgraph.com/certificates/gapd-2021/4564901.pdf
-    date: '2021-11-01'
-    awarder: memgraph
-    icon: memgraph
-    summary: ''
+  # title: : Graph Analytics
+  #   certificate_url: https://public-assets.memgraph.com/certificates/gapd-2021/4564901.pdf
+  #   date: '2021-11-01'
+  #   awarder: memgraph
+  #   icon: memgraph
+  #   summary: ''
 
   # - title: Python, Intro to Machine Learning, Pandas, Feature Engineering, Data Visualization, Data Cleaning, Intermediate 
   #   Machine Learning, Intro to SQL, Intro to Game AI and Reinforcement Learning, Time Series
