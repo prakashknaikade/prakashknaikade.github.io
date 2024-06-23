@@ -181,11 +181,11 @@ skills:
       - name: Unity 3D
         description: ''
         percent: ''
-        icon: 'devicon/unity, devicon/blender'
+        icon: 'devicon/unity'
       - name: Blender
         description: ''
         percent: ''
-        icon: blender
+        icon: 'devicon/blender'
       - name: MS office, LATEX 
         description: ''
         percent: ''
