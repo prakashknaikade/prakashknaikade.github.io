@@ -172,20 +172,24 @@ skills:
         description: ''
         percent: ''
         icon: code-bracket
-  - name: Programming
+  - name: Tools
     items:
-      - name: Python
+      - name: Jupyter Notebook, Git, Azure 
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+        percent: ''
+        icon: git
+      - name: Unity 3D
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: ''
+        icon: 'unity, blender'
+      - name: Blender
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: ''
+        icon: blender
+      - name: MS office, LATEX 
+        description: ''
+        percent: ''
+        icon: latex
   - name: Programming
     items:
       - name: Python
