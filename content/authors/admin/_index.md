@@ -256,14 +256,14 @@ awards:
   
   - title: AWS Machine Learning Foundations
     certificate_url: confirm.udacity.com/PSSTL7PE
-    date: '2021-11-01'
+    date: '2021-10-22'
     awarder: udacity
     icon: ''
     summary: ''
 
   title: : Graph Analytics
     certificate_url: https://public-assets.memgraph.com/certificates/gapd-2021/4564901.pdf
-    date: '2021-11-01'
+    date: '2021-01-01'
     awarder: memgraph
     icon: ''
     summary: ''
