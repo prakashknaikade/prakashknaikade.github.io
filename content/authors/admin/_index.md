@@ -255,18 +255,18 @@ awards:
     summary: ''
   
   - title: AWS Machine Learning Foundations
-    certificate_url: confirm.udacity.com/PSSTL7PE
+    certificate_url: https://learn.udacity.com/view-certificate/nd065
     date: '2021-10-22'
     awarder: udacity
     icon: ''
     summary: ''
 
-  # - title: : Graph Analytics
-  #   certificate_url: https://public-assets.memgraph.com/certificates/gapd-2021/4564901.pdf
-  #   date: '2021-01-01'
-  #   awarder: memgraph
-  #   icon: ''
-  #   summary: ''
+  - title: : Graph Analytics
+    certificate_url: https://email.memgraph.com/e/c/eyJlbWFpbF9pZCI6IlJPLWFCZ0FBQVh5a1lBcG1MdGFaTHJsQVZDeE1pZz09IiwiaHJlZiI6Imh0dHBzOi8vcHVibGljLWFzc2V0cy5tZW1ncmFwaC5jb20vY2VydGlmaWNhdGVzL2dhcGQtMjAyMS80NTY0OTAxLnBkZiIsImludGVybmFsIjoiZWY5YTA2MDA4ZjBmOTAwZiIsImxpbmtfaWQiOjE0NTZ9/14e579a4d6cc63dc70b92b66802c91a5ad245d84b56f290ab0b06e54d40420e9
+    date: '2021-01-01'
+    awarder: memgraph
+    icon: ''
+    summary: ''
   
   # - title: : 'PyTorch Essential Training: Deep Learning (2019)'
   #   certificate_url: https://www.linkedin.com/learning/certificates/4e21ae26638e29df189f2d53d77ec4012207ac83b2910d0d7991d2afb72ea0e4
