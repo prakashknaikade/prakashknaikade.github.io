@@ -262,7 +262,7 @@ awards:
     summary: ''
 
   - title: : Graph Analytics
-    certificate_url: https://email.memgraph.com/e/c/eyJlbWFpbF9pZCI6IlJPLWFCZ0FBQVh5a1lBcG1MdGFaTHJsQVZDeE1pZz09IiwiaHJlZiI6Imh0dHBzOi8vcHVibGljLWFzc2V0cy5tZW1ncmFwaC5jb20vY2VydGlmaWNhdGVzL2dhcGQtMjAyMS80NTY0OTAxLnBkZiIsImludGVybmFsIjoiZWY5YTA2MDA4ZjBmOTAwZiIsImxpbmtfaWQiOjE0NTZ9/14e579a4d6cc63dc70b92b66802c91a5ad245d84b56f290ab0b06e54d40420e9
+    certificate_url: ''
     date: '2021-01-01'
     awarder: memgraph
     icon: ''
