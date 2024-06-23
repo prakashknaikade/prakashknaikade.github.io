@@ -217,7 +217,8 @@ awards:
     date: '2021-03-07'
     awarder: Coursera
     icon: coursera
-
+    summary: ''
+    
   - title: 'Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization'
     certificate_url: https://www.coursera.org/account/accomplishments/records/VXN5JM43EK9L
     date: '2021-03-07'
