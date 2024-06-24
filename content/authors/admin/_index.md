@@ -62,6 +62,7 @@ education:
     date_end: 2024-08-16
     summary: |
       Grade: 1.8/1.0
+
       Courses included:
       - Computer Graphics, Image Processing & Computer Vision, Neural Networks: Theory & Implementation, High-Level Computer Vision, Statistics with R, Adversarial
         Reinforcement Learning, Human Computer Interaction, Games & Interactive Media
@@ -78,6 +79,7 @@ education:
     date_end: 2015-05-31
     summary: |
       Grade: 65% (First Class)
+      
       Courses included:
       - Data Structures and Algorithms, Design & Analysis of Algorithms, Software Architecture, Software Engineering, Software Testing & Quality Assurance
       - Database Management Systems, Data Communications, Computer Networks, Cloud Computing
