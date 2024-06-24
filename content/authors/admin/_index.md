@@ -20,7 +20,8 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Computer Vision and Machine Learning Research Engineer
+role: Computer Vision and Machine Learning 
+                Research Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
