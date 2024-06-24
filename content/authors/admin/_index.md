@@ -210,8 +210,10 @@ skills:
         icon: devicon/windows11
       - name: 'Shell/Dos Scripting'
         description: ''
-        percent: 40
+        percent: ''
         icon: devicon/bash
+        
+hobbies:
 
 languages:
   - name: English
