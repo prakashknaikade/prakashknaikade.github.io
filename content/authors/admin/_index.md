@@ -214,6 +214,15 @@ skills:
         icon: devicon/bash
 
 hobbies:
+  - name: Hiking
+    description: ''
+    icon: 'devicon/leaf'  # Use an appropriate icon from your available set
+  - name: Cycling
+    description: ''
+    icon: 'devicon/bicycle'
+  - name: Running
+    description: ''
+    icon: 'devicon/running'
 
 languages:
   - name: English
