@@ -84,11 +84,11 @@ education:
       text: 'Read Thesis'
       url: 'https://github.com/prakashknaikade/Bachelor-Thesis'
 
-      Courses included:
-      - Data Structures and Algorithms, Design & Analysis of Algorithms, Software Architecture, Software Engineering, Software Testing & Quality Assurance
-      - Database Management Systems, Data Communications, Computer Networks, Cloud Computing
-      - Microprocessors and Microcontrollers, Digital Electronics and Logic Design, Microprocessors and Interfacing Techniques
-      - Distributed Operating Systems, Advanced Computer Architecture, Theory of Computation
+    Courses included:
+    - Data Structures and Algorithms, Design & Analysis of Algorithms, Software Architecture, Software Engineering, Software Testing & Quality Assurance
+    - Database Management Systems, Data Communications, Computer Networks, Cloud Computing
+    - Microprocessors and Microcontrollers, Digital Electronics and Logic Design, Microprocessors and Interfacing Techniques
+    - Distributed Operating Systems, Advanced Computer Architecture, Theory of Computation
 
 work:
   - position: Research Assistant
@@ -129,6 +129,9 @@ work:
       Responsibilities include:
       - Contributed to marker-less motion capture solutions using single & multiple cameras, for athlete motion tracking and analysis. 
       - Tasks included literature survey, camera calibration, deep learning based human pose estimation & golf sequence detection, estimating joint angles from 3D body poses, comparing two pose sequences and visualization of results in Blender and Unity.
+    button:
+      text: 'See Certificate'
+      url: 'https://www.linkedin.com/in/prakashknaikade/overlay/1635530360374/single-media-viewer?type=DOCUMENT&profileId=ACoAABJRwZ4B2CDZ4Nzase-d6rMJGKCC3MPTD-Q&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsPESA4c5SJavFT0GKOnYgQ%3D%3D'
   - position: Indian Civil Services Exam Preparation
     company_name: ''
     company_url: ''
