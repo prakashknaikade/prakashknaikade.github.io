@@ -145,7 +145,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: 'devicon/python'
       - name: 'C#, C++'
         description: ''
         percent: 60
@@ -174,10 +174,18 @@ skills:
         icon: code-bracket
   - name: Tools
     items:
-      - name: Jupyter Notebook, Git, Azure 
+      - name: Git
         description: ''
         percent: ''
         icon: devicon/git
+      - name: Jupyter Notebook
+        description: ''
+        percent: ''
+        icon: devicon/jupyter
+      - name: Azure DevOps 
+        description: ''
+        percent: ''
+        icon: devicon/azuredevops
       - name: Unity 3D
         description: ''
         percent: ''
@@ -186,24 +194,24 @@ skills:
         description: ''
         percent: ''
         icon: 'devicon/blender'
-      - name: MS office, LATEX 
+      - name: LATEX, MS office 
+        description: ''
+        percent: 
+        icon: 'devicon/latex'
+  - name: OS
+    items:
+      - name: Linux
         description: ''
         percent: ''
-        icon: latex
-  - name: Programming
-    items:
-      - name: Python
+        icon: devicon/linux
+      - name: Windows
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: ''
+        icon: devicon/windows11
+      - name: 'Shell/Dos Scripting'
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: devicon/bash
 
 languages:
   - name: English
