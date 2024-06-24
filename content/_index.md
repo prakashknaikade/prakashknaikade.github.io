@@ -37,7 +37,7 @@ sections:
       text: |-
         I am junior researcher at August-Wilhelm Scheer Institute. I woked on my master thesis at Max Planck Institute for Informatics.
 
-        My research interests span in the broad areas of Neural Rendering, 3D-Reconstruction, Radiance Field Methods, Novel View Synthesis, Motion Capture, Digital Twins, AR/VR, Generative AI, LLMs, and generally Computer Vision, Computer Graphics, Deep/Machine Learning & Data Science, to solve the real world problems with impactful AI aided solutions.
+        My research interests span in the broad areas of Neural Rendering, Radiance Field Methods, Novel View Synthesis, Motion Capture, 3D-Reconstruction, Digital Twins, AR/VR, Generative AI, LLMs, and generally Computer Vision, Computer Graphics, Deep/Machine Learning & Data Science, to solve the real world problems with impactful AI aided solutions.
         
         Please reach out to collaborate 😃
     design:
