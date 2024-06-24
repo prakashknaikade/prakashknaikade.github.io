@@ -212,12 +212,12 @@ skills:
         description: ''
         percent: ''
         icon: devicon/bash
-        
-hobbies:
+
+# hobbies:
 
 languages:
   - name: English
-    percent: 95
+    percent: 90
   - name: Hindi
     percent: 95
   - name: Marathi
