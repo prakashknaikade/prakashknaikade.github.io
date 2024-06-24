@@ -69,9 +69,9 @@ education:
       - [Audited] Geometric Modeling, Machine Learning, AI, Ethics for Nerds
 
       Thesis: Working on Radiance Field methods for Novel View Synthesis of structural-color objects created by laser marking. Facilitating interactive visualization for potential users to better understand the intricacies of view-dependent structural-colors of laser-printed images & paintings on metal plates.
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
+    button:
+    text: 'Read Thesis'
+    url: ''
 
   - area: BEng Computer Engineering
     institution: Pune University
@@ -86,7 +86,7 @@ education:
       - Microprocessors and Microcontrollers, Digital Electronics and Logic Design, Microprocessors and Interfacing Techniques
       - Distributed Operating Systems, Advanced Computer Architecture, Theory of Computation
 
-    Thesis: Secure Data Storage on Multi-cloud Using DNA Based Cryptography - This project enables new perspective on DNA based cryptography, which ensures secure data storage on multi-cloud. 
+      Thesis: Secure Data Storage on Multi-cloud Using DNA Based Cryptography - This project enables new perspective on DNA based cryptography, which ensures secure data storage on multi-cloud. 
     button:
       text: 'Read Thesis'
       url: 'https://github.com/prakashknaikade/Bachelor-Thesis'
