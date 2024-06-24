@@ -24,6 +24,8 @@ role: Computer Vision and Machine Learning <br> Research Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - name: Max Planck Institute for Informatics
+    url: https://www.mpi-inf.mpg.de/home
   - name: Saarland University
     url: https://saarland-informatics-campus.de/en/
 
