@@ -1,0 +1,20 @@
+{{- define "blox/community/resume-hobbies" -}}
+<section id="hobbies" class="blox-section">
+  <h2 class="section-title">{{ .Params.title | default "Hobbies" }}</h2>
+  <div class="hobbies-list">
+    {{ range .Site.Params.hobbies }}
+      <div class="hobby-category">
+        <h3>{{ .name }}</h3>
+        <ul>
+          {{ range .items }}
+            <li>
+              <i class="icon {{ .icon }}"></i>
+              <strong>{{ .name }}</strong> - {{ .description }}
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+    {{ end }}
+  </div>
+</section>
+{{- end -}}
