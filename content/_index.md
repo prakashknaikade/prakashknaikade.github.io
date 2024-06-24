@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am junior researcher at August-Wilhelm Scheer Institute. I woked on my master thesis at Max Planck Institute for Informatics.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research interests span in the broad areas of Neural Rendering, 3D-Reconstruction, Radiance Field Methods, Novel View Synthesis, Motion Capture, Digital Twins, AR/VR, Generative AI, LLMs, and generally Computer Vision, Computer Graphics, Deep/Machine Learning & Data Science, to solve the real world problems with impactful AI aided solutions.
         
         Please reach out to collaborate 😃
     design:
