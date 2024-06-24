@@ -79,7 +79,7 @@ education:
     date_end: 2015-05-31
     summary: |
       Grade: 65% (First Class)
-      
+
       Courses included:
       - Data Structures and Algorithms, Design & Analysis of Algorithms, Software Architecture, Software Engineering, Software Testing & Quality Assurance
       - Database Management Systems, Data Communications, Computer Networks, Cloud Computing
@@ -374,4 +374,4 @@ awards:
 
 ## About Me
 
-Prakash Naikade is Computer Vision and Machine Learning Research Engineer. He is passionate about Machine Learning, especially Computer Vision & LLMs. He has hands on experience from academia and industry. His research interests span in the broad areas of Generative AI, LLMs, Neural Rendering, 3D-Reconstruction, Radiance Field Methods, Novel View Synthesis, Motion Capture, Digital Twins, AR/VR, and generally Computer Vision, Computer Graphics, Deep/Machine Learning & Data Science, to solve the real world problems with impactful AI aided solutions for Industries.
+Prakash Naikade is Computer Vision and Machine Learning Research Engineer. He is passionate about Machine Learning, especially Computer Vision & LLMs. He has hands on experience from academia and industry. His research interests are in Computer Vision, Computer Graphics, Deep/Machine Learning & Data Science, to solve the real world problems with impactful AI aided solutions for Industries.
