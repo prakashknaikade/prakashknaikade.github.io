@@ -213,7 +213,7 @@ skills:
         percent: ''
         icon: devicon/bash
 
-# hobbies:
+hobbies:
 
 languages:
   - name: English
