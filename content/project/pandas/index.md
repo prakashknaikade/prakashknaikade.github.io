@@ -1,13 +1,12 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title:  Human Action Recognition (HAR)
+date: 2023-08-23
+external_link: https://github.com/p0l4r/Human-Action-Recognition-HLCV-Summer-2022
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - HAR
+  - CV
+  - Deep Learning
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
-
+Investigating the performance of different deep learning models and their ensembles used for HAR in still images.
 <!--more-->

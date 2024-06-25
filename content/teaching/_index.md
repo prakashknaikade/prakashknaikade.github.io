@@ -16,7 +16,7 @@ sections:
       title: Teaching
       filters:
         folders:
-          - teaching
+          - teaching_n
     design:
       view: article-grid
       columns: 2

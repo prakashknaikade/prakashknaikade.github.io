@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Job | PrakashNaikade</title>
+    <link>http://localhost:1313/tags/job/</link>
+      <atom:link href="http://localhost:1313/tags/job/index.xml" rel="self" type="application/rss+xml" />
+    <description>Job</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
+      <title>Job</title>
+      <link>http://localhost:1313/tags/job/</link>
+    </image>
+    
+    <item>
+      <title>🧠 Open to work</title>
+      <link>http://localhost:1313/post_n/job/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post_n/job/</guid>
+      <description>&lt;p&gt;I am a passionate AI researcher with extensive experience and interests in the expansive fields of Neural Rendering, Radiance Field Methods, Novel View Synthesis, Motion Capture, 3D-Reconstruction, and Digital Twins. My expertise also covers cutting-edge areas such as AR/VR, Generative AI, Large Language Models (LLMs), Human-Computer Interaction (HCI), and broadly within Computer Vision, Computer Graphics, Deep Learning, Machine Learning, and Data Science. I am driven to apply my skills to solve real-world problems with impactful, AI-aided solutions.&lt;/p&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 Neural Rendering &amp;amp; Radiance Field Methods: Developing advanced techniques for realistic rendering and visualization of 3D scenes from sparse data.&lt;/li&gt;
+&lt;li&gt;👉 Novel View Synthesis: Creating new perspectives of scenes using machine learning models.&lt;/li&gt;
+&lt;li&gt;👉 Motion Capture &amp;amp; 3D Reconstruction: Innovating in the capture and reconstruction of dynamic 3D environments and human motions.&lt;/li&gt;
+&lt;li&gt;👉 Digital Twins &amp;amp; AR/VR: Building digital replicas and immersive experiences for enhanced interaction and simulation.&lt;/li&gt;
+&lt;li&gt;👉 Generative AI &amp;amp; LLMs: Leveraging generative models and large language models for creative and predictive tasks.&lt;/li&gt;
+&lt;li&gt;👉 Human-Computer Interaction: Enhancing user interfaces and interactions through intelligent design and feedback.&lt;/li&gt;
+&lt;li&gt;👉 Computer Vision &amp;amp; Computer Graphics: Pioneering in the analysis, interpretation, and generation of visual data.&lt;/li&gt;
+&lt;li&gt;👉 Deep/Machine Learning &amp;amp; Data Science: Applying sophisticated algorithms and data-driven methods to extract insights and drive innovation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-i-offer&#34;&gt;What I Offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 Innovative Solutions: Proven ability to develop and deploy AI-driven solutions that address complex problems and improve efficiency.&lt;/li&gt;
+&lt;li&gt;👉 Collaborative Mindset: Experience working in interdisciplinary teams to push the boundaries of technology and research.&lt;/li&gt;
+&lt;li&gt;👉 Research Excellence: Strong track record of publications, presentations, and contributions to the scientific community.&lt;/li&gt;
+&lt;li&gt;👉 Technical Proficiency: Proficient in programming languages such as Python, C++, and tools like TensorFlow, PyTorch, and more.&lt;/li&gt;
+&lt;li&gt;👉 Problem-Solving Skills: Adept at identifying challenges and devising creative, effective solutions using AI and machine learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;looking-for&#34;&gt;Looking For:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 Research Opportunities: Positions in academia, industry, or research institutions where I can contribute to and lead groundbreaking AI projects.&lt;/li&gt;
+&lt;li&gt;👉 Collaborative Projects: Partnerships with like-minded researchers and organizations aimed at pushing the frontiers of AI and computer vision.&lt;/li&gt;
+&lt;li&gt;👉 Innovative Environments: Workplaces that value creativity, innovation, and the application of AI to solve real-world problems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contact&#34;&gt;Contact:&lt;/h2&gt;
+&lt;p&gt;If you are looking for a dedicated researcher with a deep understanding of advanced AI and computer vision techniques, I would love to connect. Please feel free to reach out to discuss potential opportunities and collaborations.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
