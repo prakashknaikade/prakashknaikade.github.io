@@ -24,12 +24,6 @@ sections:
       username: admin
     design:
       show_skill_percentage: true
-  - block: resume-hobbies  # New block for hobbies
-    content:
-      title: Hobbies
-      username: admin
-    design:
-      show_hobby_icons: true 
   - block: resume-languages
     content:
       title: Languages
