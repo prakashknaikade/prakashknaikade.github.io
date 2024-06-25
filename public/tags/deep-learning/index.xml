@@ -14,9 +14,9 @@
     
     <item>
       <title>Human Action Recognition (HAR)</title>
-      <link>http://localhost:1313/project/pandas/</link>
+      <link>http://localhost:1313/project/har/</link>
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
+      <guid>http://localhost:1313/project/har/</guid>
       <description>&lt;p&gt;Investigating the performance of different deep learning models and their ensembles used for HAR in still images.&lt;/p&gt;</description>
     </item>
     
