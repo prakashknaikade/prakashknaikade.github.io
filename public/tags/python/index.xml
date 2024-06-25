@@ -138,5 +138,21 @@ data.head()
 </description>
     </item>
     
+    <item>
+      <title>Easy Flappy Bird</title>
+      <link>http://localhost:1313/project/easy-flappy-bird/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/easy-flappy-bird/</guid>
+      <description>&lt;p&gt;This repo is simple implementation of Flappy Bird game using Unity and C# for learning purpose.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Synthetic Dataset Creation</title>
+      <link>http://localhost:1313/project/synthetic-dataset/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/synthetic-dataset/</guid>
+      <description>&lt;p&gt;This repo is simple demo of synthetic data creation using Blender and Python.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>

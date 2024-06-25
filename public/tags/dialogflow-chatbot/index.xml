@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dialogflow Chatbot | PrakashNaikade</title>
+    <link>http://localhost:1313/tags/dialogflow-chatbot/</link>
+      <atom:link href="http://localhost:1313/tags/dialogflow-chatbot/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dialogflow Chatbot</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
+      <title>Dialogflow Chatbot</title>
+      <link>http://localhost:1313/tags/dialogflow-chatbot/</link>
+    </image>
+    
+    <item>
+      <title>Chatbot - Villa Nennig</title>
+      <link>http://localhost:1313/project/chatbot/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/chatbot/</guid>
+      <description>&lt;p&gt;This chatbot helps the user throughout their journey of visiting a museum of the Roman Villa Nennig! We developed this chatbot using Google Cloud, Dialogflow Essentials and Telegram.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

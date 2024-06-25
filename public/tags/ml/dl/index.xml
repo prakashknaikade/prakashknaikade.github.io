@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML/DL | PrakashNaikade</title>
+    <link>http://localhost:1313/tags/ml/dl/</link>
+      <atom:link href="http://localhost:1313/tags/ml/dl/index.xml" rel="self" type="application/rss+xml" />
+    <description>ML/DL</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
+      <title>ML/DL</title>
+      <link>http://localhost:1313/tags/ml/dl/</link>
+    </image>
+    
+    <item>
+      <title>Object Detection</title>
+      <link>http://localhost:1313/project/object-detection/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/object-detection/</guid>
+      <description>&lt;p&gt;In this notebook we will go over on how to train a object detection model on custom dataset using TensorFlow Object Detection API 2. For this purpose I used Oxford Pets dataset. We will monitor model training using TensorBoard.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Covid19 Detection</title>
+      <link>http://localhost:1313/project/covid19_detection/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/covid19_detection/</guid>
+      <description>&lt;p&gt;This project is aimed at covid19 detection using pretrained ResNet50 model.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chatbot - Villa Nennig</title>
+      <link>http://localhost:1313/project/chatbot/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/chatbot/</guid>
+      <description>&lt;p&gt;This chatbot helps the user throughout their journey of visiting a museum of the Roman Villa Nennig! We developed this chatbot using Google Cloud, Dialogflow Essentials and Telegram.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ludwig-Palette: an AR painting game</title>
+      <link>http://localhost:1313/project/ludwig-palette/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/ludwig-palette/</guid>
+      <description>&lt;p&gt;Objective of game is to help visitors of the Ludwig church, a historical church in Saarbrücken, explore the environment of the church in an entertaining way, we have created an AR-enabled painting app to be played inside the church. Players of this game need to walk to the different areas of the church while painting the surfaces. The app is developed using Unity and Vuforia engine.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Image Segmentation</title>
+      <link>http://localhost:1313/project/image-segmentation/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/image-segmentation/</guid>
+      <description>&lt;p&gt;This computer vision project is the pytorch implementations of UNet architecture for image segmenation on psacalVOC dataset to understand how CNNs are utilized for segmentation task.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
