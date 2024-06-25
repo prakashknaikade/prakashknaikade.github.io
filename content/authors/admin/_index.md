@@ -374,4 +374,4 @@ awards:
 
 ## About Me
 
-Prakash Naikade is Computer Vision and Machine Learning Research Engineer. He is passionate about Machine Learning, especially Computer Vision & LLMs. He has hands on experience from academia and industry. His research interests are in Computer Vision, Computer Graphics, Deep/Machine Learning & Data Science, to solve the real world problems with impactful AI aided solutions for Industries.
+Prakash Naikade is Computer Vision and Machine Learning Research Engineer. He is passionate about Machine Learning, especially Computer Vision & LLMs. He has hands on experience from academia and industry. His research interests are in Computer Vision, Computer Graphics, Deep/Machine Learning & Data Science, to solve the real world problems with impactful AI aided solutions.

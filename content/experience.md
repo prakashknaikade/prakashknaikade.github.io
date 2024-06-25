@@ -30,12 +30,12 @@ sections:
       username: admin
     design:
       show_hobby_icons: true 
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
   - block: resume-languages
     content:
       title: Languages
+      username: admin
+  - block: resume-awards
+    content:
+      title: Certifications
       username: admin
 ---
