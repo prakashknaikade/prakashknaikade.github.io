@@ -1,16 +1,51 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
-date: 2023-10-24
+title: Research-Papers-I-Read
+summary: This blog contains summary of research papers I read and/or presented.
+date: 2024-06-01
 type: docs
 math: false
 tags:
-  - JavaScript
-image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  - Research-Papers-I-Read
+# image:
+#   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+**1. Deep SDF: Learning Continuous Signed Distance Functions for Shape Rpresenation**
+<br>[Read Summary](https://github.com/prakashknaikade/Papers-I-Read/blob/main/DeepSDF-Paper.pdf)
+
+**2. AI for Sports: Human Pose Estimation**
+<br>[Read Summary](https://github.com/prakashknaikade/Papers-I-Read/blob/main/Human-Pose-Estimation.pdf)
+
+**3. Long-term Human Motion Prediction with Scene Context**
+<br>[Read Summary](https://github.com/prakashknaikade/Papers-I-Read/blob/main/Human-Motion-Prediction.pdf)
+
+**4. PoseFix: Correcting 3D Human Poses with Natural Language**
+<br>[Read Summary](https://github.com/prakashknaikade/Papers-I-Read/blob/main/PoseFix_Correcting-3D-Human-Poses-with-Natural-Language.pdf)
+
+**5. PoseFix: Correcting 3D Human Poses with Natural Language**
+<br>[Read Summary](https://github.com/prakashknaikade/Papers-I-Read/blob/main/PoseFix_Correcting-3D-Human-Poses-with-Natural-Language.pdf)
+
+**6. Corrosion Detection and Progression Using Computer Vision**
+<br>[Read Summary](https://github.com/prakashknaikade/Papers-I-Read/blob/main/PoseFix_Correcting-3D-Human-Poses-with-Natural-Language.pdf)
+
+**7. Tactics of Adversarial Attack on Deep Reinforcement Learning Agents**
+<br>[Read Summary](https://github.com/prakashknaikade/Papers-I-Read/blob/main/Tactics-of-Adversarial-Attack-on-Deep-Reinforcement-Learning-Agents.pdf)
+
+**8. Novel View Synthesis using Radiance Field Methods: NeRF and Instant-NGP**
+<br>[Read Summary](https://docs.google.com/presentation/d/1HAcz7obNXgOj83u2HZmXaANHG31Tw3cxV1-rgsaYjNU/edit?usp=sharing)
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
@@ -137,4 +172,4 @@ renders as
 
 {{< icon name="python" >}} Python
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->
