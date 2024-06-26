@@ -121,6 +121,9 @@ work:
     summary: |
       Responsibilities include:
       - Worked on development of dataset and algorithms for adhesive tests' detection & corrosion detection on images of test panels of metal substrates using YOLOv8 & UNet for automation project.
+    button:
+      text: 'Certificate'
+      url: 'https://drive.google.com/file/d/1SdwvvyOiM_7EGpIO0wl5Q0k0jDMOGJnV/view?usp=drive_link'
   - position: Computer Vision Engineer Intern
     company_name: Fenris GmbH
     company_url: https://fenris-group.com/
@@ -133,7 +136,7 @@ work:
       - Tasks included literature survey, camera calibration, deep learning based human pose estimation & golf sequence detection, estimating joint angles from 3D body poses, comparing two pose sequences and visualization of results in Blender and Unity.
     button:
       text: 'Certificate'
-      url: 'https://www.linkedin.com/in/prakashknaikade/overlay/1635503289930/single-media-viewer?type=DOCUMENT&profileId=ACoAABJRwZ4B2CDZ4Nzase-d6rMJGKCC3MPTD-Q&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BLj4IRMyVTmKmFAHXtRuWHQ%3D%3D' 
+      url: 'https://drive.google.com/file/d/1xSjhUgqcWS8xBxcKWJaZUypn7IhMS_Po/view?usp=drive_link' 
   - position: Indian Civil Services Exam Preparation
     company_name: ''
     company_url: ''
@@ -361,14 +364,14 @@ awards:
     summary: ''
 
   - title: 'German A1.1'
-    certificate_url: https://drive.google.com/file/d/1fM8SN1LCe8FQGWuBSA1JXChVAH5fg8dS/view
+    certificate_url: https://drive.google.com/file/d/1fM8SN1LCe8FQGWuBSA1JXChVAH5fg8dS/view?usp=drive_link
     date: '2021-03-25'
     awarder: ISZ Saar, Saarland University
     icon: ''
     summary: ''
   
   - title: 'English - C1'
-    certificate_url: https://drive.google.com/file/d/1cqBCr78J3fdPuIgbO_3B5m34u3s-lTDP/view
+    certificate_url: https://drive.google.com/file/d/1cqBCr78J3fdPuIgbO_3B5m34u3s-lTDP/view?usp=drive_link
     date: '2019-09-28'
     awarder: IELTS
     icon: ''
