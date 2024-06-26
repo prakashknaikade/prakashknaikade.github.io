@@ -59,7 +59,7 @@ interests:
 education:
   - area: Master Media Informatics
     institution: Saarland University
-    date_start: 2020-01-10
+    date_start: 2020-10-01
     date_end: 2024-08-16
     summary: |
       Grade: 1.8/1.0
@@ -71,12 +71,12 @@ education:
 
       Thesis: Working on Radiance Field methods for Novel View Synthesis of structural-color objects created by laser marking. Facilitating interactive visualization for potential users to better understand the intricacies of view-dependent structural-colors of laser-printed images & paintings on metal plates.
     button:
-    text: 'Read Thesis'
-    url: ''
+      text: 'Read Thesis'
+      url: ''
 
   - area: BEng Computer Engineering
     institution: Pune University
-    date_start: 2011-01-06
+    date_start: 2011-06-01
     date_end: 2015-05-31
     summary: |
       Grade: 65% (First Class)
@@ -98,7 +98,7 @@ work:
     location: Saarbrücken, Germany
     url: https://aidam.mpi-inf.mpg.de/?view=home
     company_logo: https://www.mpi-inf.mpg.de/typo3conf/ext/mpi_inf_site_package/Resources/Public/Images/Core/mpi-logo-en.svg
-    date_start: 2023-01-08
+    date_start: 2023-08-01
     date_end: ''
     summary: |
       Working on Radiance Field methods for Novel View Synthesis of structural-color objects created by laser marking. Facilitating interactive visualization for potential users to better understand the intricacies of view-dependent structural-colors of laser-printed images & paintings on metal plates.
@@ -110,8 +110,8 @@ work:
     date_end: ''
     summary: |
       Responsibilities include:
-      - Contributing to the MediHopps & VuLCAn project
-      - Working on human pose estimation, human action recognition, literature reviews, project proposals, & VR tasks.
+      - Contributing to the MediHopps & VuLCAn projects.
+      - Working on human pose estimation, human action recognition, literature reviews, project proposals, & some VR tasks.
   - position: Computer Vision Engineer Intern
     company_name: BASF-Coatings GmbH
     company_url: https://www.basf.com/global/en.html
@@ -120,7 +120,7 @@ work:
     date_end: 2023-05-31
     summary: |
       Responsibilities include:
-      - Worked on development of dataset and algorithms for adhesive tests' detection & corrosion detection on images of test panels of metal substrates using YOLOv8 &UNet for automation project.
+      - Worked on development of dataset and algorithms for adhesive tests' detection & corrosion detection on images of test panels of metal substrates using YOLOv8 & UNet for automation project.
   - position: Computer Vision Engineer Intern
     company_name: Fenris GmbH
     company_url: https://fenris-group.com/
@@ -131,7 +131,9 @@ work:
       Responsibilities include:
       - Contributed to marker-less motion capture solutions using single & multiple cameras, for athlete motion tracking and analysis. 
       - Tasks included literature survey, camera calibration, deep learning based human pose estimation & golf sequence detection, estimating joint angles from 3D body poses, comparing two pose sequences and visualization of results in Blender and Unity.
-    certificate_url: https://www.linkedin.com/in/prakashknaikade/overlay/1635503289930/single-media-viewer?type=DOCUMENT&profileId=ACoAABJRwZ4B2CDZ4Nzase-d6rMJGKCC3MPTD-Q&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BLj4IRMyVTmKmFAHXtRuWHQ%3D%3D 
+    button:
+      text: 'Certificate'
+      url: 'https://www.linkedin.com/in/prakashknaikade/overlay/1635503289930/single-media-viewer?type=DOCUMENT&profileId=ACoAABJRwZ4B2CDZ4Nzase-d6rMJGKCC3MPTD-Q&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BLj4IRMyVTmKmFAHXtRuWHQ%3D%3D' 
   - position: Indian Civil Services Exam Preparation
     company_name: ''
     company_url: ''
@@ -254,7 +256,7 @@ awards:
     summary: ''
 
   - title: 'Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization'
-    certificate_url: https://www.coursera.org/account/accomplishments/records/VXN5JM43EK9L
+    certificate_url: https://www.coursera.org/account/accomplishments/verify/6U2MFD3J7SBA
     date: '2021-03-07'
     awarder: Coursera
     icon: coursera
@@ -358,17 +360,17 @@ awards:
     icon: ''
     summary: ''
 
-  - title: 'PyTorch Essential Training: Deep Learning (2019)'
-    certificate_url: https://www.linkedin.com/learning/certificates/4e21ae26638e29df189f2d53d77ec4012207ac83b2910d0d7991d2afb72ea0e4
-    date: '2021-03-25'
-    awarder: linkedin
-    icon: linkedin
-    summary: ''
-
   - title: 'German A1.1'
     certificate_url: https://drive.google.com/file/d/1fM8SN1LCe8FQGWuBSA1JXChVAH5fg8dS/view
     date: '2021-03-25'
     awarder: ISZ Saar, Saarland University
+    icon: ''
+    summary: ''
+  
+  - title: 'English - C1'
+    certificate_url: https://drive.google.com/file/d/1cqBCr78J3fdPuIgbO_3B5m34u3s-lTDP/view
+    date: '2019-09-28'
+    awarder: IELTS
     icon: ''
     summary: ''
 ---
