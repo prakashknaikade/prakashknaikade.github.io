@@ -371,7 +371,7 @@ awards:
     summary: ''
   
   - title: 'English - C1'
-    certificate_url: https://drive.google.com/file/d/1cqBCr78J3fdPuIgbO_3B5m34u3s-lTDP/view?usp=drive_link
+    certificate_url: https://drive.google.com/file/d/1cqBCr78J3fdPuIgbO_3B5m34u3s-lTDP/view?usp=sharing
     date: '2019-09-28'
     awarder: IELTS
     icon: ''
