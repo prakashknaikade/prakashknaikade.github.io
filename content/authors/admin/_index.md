@@ -293,7 +293,7 @@ awards:
     summary: ''
   
   - title: AWS Machine Learning Foundations
-    certificate_url: https://learn.udacity.com/view-certificate/nd065
+    certificate_url: https://www.udacity.com/certificate/PSSTL7PE
     date: '2021-10-22'
     awarder: udacity
     icon: ''
