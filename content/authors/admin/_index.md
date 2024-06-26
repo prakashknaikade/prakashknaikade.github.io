@@ -51,10 +51,9 @@ interests:
   - Computer Vision
   - Computer Graphics
   - LLMs
-  - HCI
   - Deep/Machine Learning
-  - Data Science
-  - Artificial Intelligence
+  - AR/VR, HCI
+  - Data Science, AI
 
 education:
   - area: Master Media Informatics
