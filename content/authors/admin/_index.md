@@ -123,7 +123,7 @@ work:
       - Worked on development of dataset and algorithms for adhesive tests' detection & corrosion detection on images of test panels of metal substrates using YOLOv8 & UNet for automation project.
     button:
       text: 'Certificate'
-      url: 'https://drive.google.com/file/d/1SdwvvyOiM_7EGpIO0wl5Q0k0jDMOGJnV/view?usp=drive_link'
+      url: 'https://drive.google.com/file/d/1SdwvvyOiM_7EGpIO0wl5Q0k0jDMOGJnV/view?usp=sharing'
   - position: Computer Vision Engineer Intern
     company_name: Fenris GmbH
     company_url: https://fenris-group.com/
@@ -136,7 +136,7 @@ work:
       - Tasks included literature survey, camera calibration, deep learning based human pose estimation & golf sequence detection, estimating joint angles from 3D body poses, comparing two pose sequences and visualization of results in Blender and Unity.
     button:
       text: 'Certificate'
-      url: 'https://drive.google.com/file/d/1xSjhUgqcWS8xBxcKWJaZUypn7IhMS_Po/view?usp=drive_link' 
+      url: 'https://drive.google.com/file/d/1xSjhUgqcWS8xBxcKWJaZUypn7IhMS_Po/view?usp=sharing' 
   - position: Indian Civil Services Exam Preparation
     company_name: ''
     company_url: ''
@@ -364,7 +364,7 @@ awards:
     summary: ''
 
   - title: 'German A1.1'
-    certificate_url: https://drive.google.com/file/d/1fM8SN1LCe8FQGWuBSA1JXChVAH5fg8dS/view?usp=drive_link
+    certificate_url: https://drive.google.com/file/d/1fM8SN1LCe8FQGWuBSA1JXChVAH5fg8dS/view?usp=sharing
     date: '2021-03-25'
     awarder: ISZ Saar, Saarland University
     icon: ''
