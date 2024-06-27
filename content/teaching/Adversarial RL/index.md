@@ -1,6 +1,6 @@
 ---
 title: Adversarial Reinforcement Learning
-summary: The post provides an summary/overview of recent research in Adversarial Reinforcement Learning (RL).
+summary: This post provides the summary/overview of recent research in Adversarial Reinforcement Learning (RL).
 date: 2023-01-24
 type: docs
 math: false
