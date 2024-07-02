@@ -7,7 +7,7 @@ authors:
 tags:
   - job
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: [*Unsplash*](https://unsplash.com)'
 ---
 
 I am a passionate AI researcher with extensive experience and interests in the expansive fields of Neural Rendering, Radiance Field Methods, Novel View Synthesis, Motion Capture, 3D-Reconstruction, and Digital Twins. My expertise also covers cutting-edge areas such as AR/VR, Generative AI, Large Language Models (LLMs), Human-Computer Interaction (HCI), and broadly within Computer Vision, Computer Graphics, Deep Learning, Machine Learning, and Data Science. I am driven to apply my skills to solve real-world problems with impactful, AI-aided solutions.
