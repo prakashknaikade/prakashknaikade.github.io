@@ -250,6 +250,20 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: How Diffusion Models Work
+    certificate_url: https://learn.deeplearning.ai/accomplishments/04aeb87e-4d6b-4ced-8b50-ed616fba13ba?usp=sharing
+    date: '2024-06-25'
+    awarder: Coursera
+    icon: coursera
+    summary: ''
+
+  - title: Finetuning Large Language Models
+    certificate_url: https://learn.deeplearning.ai/accomplishments/ed648e71-84ae-406a-afd9-136845cb377c?usp=sharing
+    date: '2024-05-15'
+    awarder: Coursera
+    icon: coursera
+    summary: ''
+
   - title: Neural Networks and Deep Learning
     certificate_url: https://www.coursera.org/account/accomplishments/records/VXN5JM43EK9L
     date: '2021-03-07'
