@@ -236,6 +236,14 @@ renders as
     </item>
     
     <item>
+      <title>Learn-LLMs</title>
+      <link>http://localhost:1313/project/llms/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/llms/</guid>
+      <description>&lt;p&gt;This Project is result of getting a hands-on experience of using different LLM models and tools. I am going to use a lot of tools and practice with small projects that will grow as I apply the new knowledge acquired. This repo is going to be a basic implementation of different LLMs to understand the finetuning, data preparation, evaluation &amp;amp; other techniques related to/of LLMs.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>🧠 Open to work</title>
       <link>http://localhost:1313/post_n/job/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
@@ -476,7 +484,7 @@ renders as
 
 
 
-&lt;div id=&#34;chart-358946712&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-478562193&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -494,7 +502,7 @@ renders as
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-358946712&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-478562193&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
