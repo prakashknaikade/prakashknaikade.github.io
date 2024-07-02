@@ -13,13 +13,13 @@
     </image>
     
     <item>
-      <title>Adversarial Reinforcement Learning Key Research Papers</title>
+      <title>Adversarial Reinforcement Learning</title>
       <link>http://localhost:1313/teaching/adversarial-rl/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/adversarial-rl/</guid>
-      <description>&lt;p&gt;Research papers covered in this post will showcase the landscape of attacks on RL agents and the optimal attack strategies, which is crucial for understanding security threats against the deployed systems. In particular, the research papers will cover optimal attack strategies for test-time, backdoor, and training-time (environment poisoning) attacks on RL agents. These research papers provides better perspective of important problems for developing robust and secure algorithms in sequential decision-making settings. This repo is result of [Course - Adversarial Reinforcement Learning] (&lt;a href=&#34;https://machineteaching.mpi-sws.org/course-adversarialrl-w21.html&#34;&gt;https://machineteaching.mpi-sws.org/course-adversarialrl-w21.html&lt;/a&gt;) I followed at Saarland University.&lt;/p&gt;
+      <description>&lt;p&gt;Research papers covered in this post will showcase the landscape of attacks on RL agents and the optimal attack strategies, which is crucial for understanding security threats against the deployed systems. In particular, the research papers will cover optimal attack strategies for test-time, backdoor, and training-time (environment poisoning) attacks on RL agents. These research papers provides better perspective of important problems for developing robust and secure algorithms in sequential decision-making settings. This repo is result of &lt;a href=&#34;https://machineteaching.mpi-sws.org/course-adversarialrl-w21.html&#34;&gt;Course - Adversarial Reinforcement Learning&lt;/a&gt;, I followed at Saarland University.&lt;/p&gt;
 &lt;h2 id=&#34;list-of-research-papers-covered&#34;&gt;List of research papers covered&lt;/h2&gt;
-&lt;h1 id=&#34;test-time-attacks&#34;&gt;Test-time attacks&lt;/h1&gt;
+&lt;h3 id=&#34;test-time-attacks&#34;&gt;Test-time attacks&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Tactics of Adversarial Attack on Deep Reinforcement Learning Agents
@@ -34,18 +34,18 @@ by J. Sun, T. Zhang, X. Xie, L. Ma, Y. Zheng, K. Chen, and Y. Liu, at AAAI 2020.
 by H. Zhang, H. Chen, C. Xiao, B. Li, M. Liu, D. Boning, and C. Hsieh, at NeurIPS 2020.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h1 id=&#34;backdoor-attacks&#34;&gt;Backdoor attacks&lt;/h1&gt;
+&lt;h3 id=&#34;backdoor-attacks&#34;&gt;Backdoor attacks&lt;/h3&gt;
 &lt;ol start=&#34;4&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;TrojDRL: Evaluation of Backdoor Attacks on Deep Reinforcement Learning
 by P. Kiourti, K. Wardega, S. Jha, and W. Li, at DAC 2020.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Temporal Watermarks for Deep Reinforcement Learning Models
+&lt;p&gt;Temporal Watermarks for Deep Reinforcement Learning Modelss
 by K. Chen, S. Guo, T. Zhang, S. Li, and Y. Liu, at AAMAS 2021.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h1 id=&#34;training-time-attacks&#34;&gt;Training-time attacks&lt;/h1&gt;
+&lt;h3 id=&#34;training-time-attacks&#34;&gt;Training-time attacks&lt;/h3&gt;
 &lt;ol start=&#34;6&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;Policy Teaching via Environment Poisoning: Training-time Adversarial Attacks against Reinforcement Learning
@@ -60,6 +60,8 @@ by Y. Sun, D. Huo, and F. Huang, at ICLR 2021.&lt;/p&gt;
 by K. Banihashem, A. Singla, and G. Radanovic, at arXiv preprint 2021.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;h2 id=&#34;summaryoverview&#34;&gt;Summary/Overview&lt;/h2&gt;
+&lt;p&gt;Find the summary of above papers &lt;a href=&#34;https://github.com/prakashknaikade/Adversarial-Reinforcement-Learning-Key-Research-Papers&#34;&gt;Here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
