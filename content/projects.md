@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: Here are a selection of projects that I have worked on in the domains of CV, CG, and ML/DL.
+      text: Here are a selection of projects that I have worked on in the domains of CV, CG, LLMs, GenAI, and ML/DL.
       filters:
         folders:
           - project
