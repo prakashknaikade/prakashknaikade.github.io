@@ -112,8 +112,8 @@ work:
       - Contributing to the MediHopps, iperMö & VuLCAn projects.
       - Working on human pose estimation, human action recognition, literature reviews, project proposals, & some VR tasks.
     button:
-      text: Recommendation
-      url: uploads/LoR_AWSi_Nanna.pdf
+      text: Recommendation Letter
+      url: /uploads/LoR_AWSi_Nanna.pdf
   - position: Computer Vision Engineer Intern
     company_name: BASF-Coatings GmbH
     company_url: https://www.basf.com/global/en.html
