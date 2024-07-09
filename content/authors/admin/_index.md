@@ -110,7 +110,8 @@ work:
     summary: |
       Responsibilities include:
       - Contributing to the MediHopps, iperMö & VuLCAn projects.
-      - Working on human pose estimation, human action recognition, literature reviews, project proposals, & some VR tasks.
+      - Working on human pose estimation, human action recognition, literature reviews, project proposals, & some XR tasks.
+      - Contributed significantly to the feature extraction, generation, and visualization of furniture functionalities in the codebase for the iperMö project, dealing with the development of an AR application to turn individual furniture wishes into reality.
     button:
       text: Recommendation Letter
       url: /uploads/LoR_AWSi_Nanna.pdf
