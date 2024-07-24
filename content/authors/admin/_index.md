@@ -97,7 +97,7 @@ work:
     location: Saarbrücken, Germany
     url: https://aidam.mpi-inf.mpg.de/?view=home
     company_logo: https://www.mpi-inf.mpg.de/typo3conf/ext/mpi_inf_site_package/Resources/Public/Images/Core/mpi-logo-en.svg
-    date_start: 2023-08-01
+    date_start: 2023-07-01
     date_end: ''
     summary: |
       Working on Radiance Field methods for Novel View Synthesis of structural-color objects created by laser marking. Facilitating interactive visualization for potential users to better understand the intricacies of view-dependent structural-colors of laser-printed images & paintings on metal plates.
