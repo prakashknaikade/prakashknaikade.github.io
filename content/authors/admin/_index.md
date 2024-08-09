@@ -109,12 +109,18 @@ work:
     date_end: ''
     summary: |
       Responsibilities include:
-      - Contributing to the MediHopps, iperMö & VuLCAn projects.
-      - Working on human pose estimation, human action recognition, literature reviews, project proposals, & some XR tasks.
+      - Contributing to the MediHopps, iperMö, FläKI & VuLCAn projects.
+      - Working on computer vision, computer graphics, and machine/deep learning tasks like human pose estimation, human action recognition, & some XR tasks.
+      - Systematic Literature Research and Reviews, Project Proposals and Scientific Literature Writing
       - Contributed significantly to the feature extraction, generation, and visualization of furniture functionalities in the codebase for the iperMö project, dealing with the development of an AR application to turn individual furniture wishes into reality.
     button:
-      text: Recommendation Letter
-      url: /uploads/LoR_AWSi_Nanna.pdf
+      text: 'Reference & Recommendation Letters'
+      url: /uploads/Reference_Recommendation_Letters_AWSi.pdf
+    # links = [{name = "Recommendation", url="/uploads/Reference_Letter_AWSi.pdf"}]
+    # button:
+    #   text: 'Reference Letter'
+    #   url: /uploads/Reference_Letter_AWSi.pdf
+      
   - position: Computer Vision Engineer Intern
     company_name: BASF-Coatings GmbH
     company_url: https://www.basf.com/global/en.html
