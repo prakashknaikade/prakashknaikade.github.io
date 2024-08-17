@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Article-Journal | PrakashNaikade</title>
+    <title>Article-Journal | Prakash Naikade</title>
     <link>http://localhost:1313/publication_types/article-journal/</link>
       <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Secure Data Storage on Multi-Cloud Using DNA Based Cryptography</title>
-      <link>http://localhost:1313/publications_n/journal-article/</link>
+      <link>http://localhost:1313/publications/dna_based_cryptography/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications_n/journal-article/</guid>
+      <guid>http://localhost:1313/publications/dna_based_cryptography/</guid>
       <description></description>
     </item>
     

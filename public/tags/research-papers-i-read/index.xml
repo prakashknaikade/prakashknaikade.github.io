@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research-Papers-I-Read | PrakashNaikade</title>
+    <title>Research-Papers-I-Read | Prakash Naikade</title>
     <link>http://localhost:1313/tags/research-papers-i-read/</link>
       <atom:link href="http://localhost:1313/tags/research-papers-i-read/index.xml" rel="self" type="application/rss+xml" />
     <description>Research-Papers-I-Read</description>

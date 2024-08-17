@@ -68,10 +68,10 @@ education:
         Reinforcement Learning, Human Computer Interaction, Games & Interactive Media
       - [Audited] Geometric Modeling, Machine Learning, AI, Ethics for Nerds
 
-      Thesis: Working on Radiance Field methods for Novel View Synthesis of structural-color objects created by laser marking. Facilitating interactive visualization for potential users to better understand the intricacies of view-dependent structural-colors of laser-printed images & paintings on metal plates.
+      Thesis: Novel View Synthesis of Structural Color Objects Created by Laser Markings.
     button:
       text: 'Read Thesis'
-      url: ''
+      url: '/publications/nvs_structural_color_object/'
 
   - area: BEng Computer Engineering
     institution: Pune University
@@ -98,9 +98,10 @@ work:
     url: https://aidam.mpi-inf.mpg.de/?view=home
     company_logo: https://www.mpi-inf.mpg.de/typo3conf/ext/mpi_inf_site_package/Resources/Public/Images/Core/mpi-logo-en.svg
     date_start: 2023-07-01
-    date_end: ''
+    date_end: 2024-08-30
     summary: |
-      Working on Radiance Field methods for Novel View Synthesis of structural-color objects created by laser marking. Facilitating interactive visualization for potential users to better understand the intricacies of view-dependent structural-colors of laser-printed images & paintings on metal plates.
+      Working on Radiance Field methods for Novel View Synthesis of Structural Color Objects Created by Laser Marking. Facilitating interactive visualization for potential users to better understand the intricacies of view-dependent structural-colors of laser-printed images & paintings on metal plates.
+      
   - position: Junior Researcher
     company_name: August-Wilhelm Scheer Institute - Digital Health Lab
     company_url: https://www.aws-institut.de/
@@ -113,10 +114,21 @@ work:
       - Working on computer vision, computer graphics, and machine/deep learning tasks like human pose estimation, human action recognition, & some XR tasks.
       - Systematic Literature Research and Reviews, Project Proposals and Scientific Literature Writing
       - Contributed significantly to the feature extraction, generation, and visualization of furniture functionalities in the codebase for the iperMö project, dealing with the development of an AR application to turn individual furniture wishes into reality.
+    
     button:
       text: 'Reference & Recommendation Letters'
       url: /uploads/Reference_Recommendation_Letters_AWSi.pdf
+
+    # [Reference Letter]({{< relref "../uploads/Reference_Letter_AWSi.pdf" >}}) 
+
+    # links:
+    # - name: Reference Letter
+    #   url: '/uploads/Reference_Letter_AWSi.pdf'
+
+    # {{% staticref "/uploads/Reference_Letter_AWSi.pdf" "newtab" %}}Reference Letter{{% /staticref %}}
+
     # links = [{name = "Recommendation", url="/uploads/Reference_Letter_AWSi.pdf"}]
+
     # button:
     #   text: 'Reference Letter'
     #   url: /uploads/Reference_Letter_AWSi.pdf

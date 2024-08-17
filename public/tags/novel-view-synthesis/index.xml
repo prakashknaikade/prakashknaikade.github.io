@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Novel View Synthesis | Prakash Naikade</title>
+    <link>http://localhost:1313/tags/novel-view-synthesis/</link>
+      <atom:link href="http://localhost:1313/tags/novel-view-synthesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Novel View Synthesis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
+      <title>Novel View Synthesis</title>
+      <link>http://localhost:1313/tags/novel-view-synthesis/</link>
+    </image>
+    
+    <item>
+      <title>Novel View Synthesis of Structural Color Objects Created by Laser Markings</title>
+      <link>http://localhost:1313/publications/nvs_structural_color_object/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/nvs_structural_color_object/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p style=&#34;font-size: 1.1rem;text-align: justify;&#34;&gt;
+Transforming physical object into its high quality 3D digital twin using novel view synthesis is crucial for researchers in the domain of automatic laser marking of any color image on different metal substrates. Current Radiance Field methods have significantly advanced novel view synthesis of scenes captured with multiple photos or videos. But, they struggle to represent the scene with shiny objects. Moreover, multi view reconstruction of reflective objects with structural colors is extremely challenging because specular reflections are view-dependent and thus violate the multiviewconsistency, which is the cornerstone for most multiview reconstruction methods. However, there is a general lack of synthetic datasets for objects with structural colors and a literature review on state-of-the-art (SOTA) novel view synthesis methods for this kind of materials. Addressing these issues, we introduce a novel synthetic dataset that is used to conduct quantitative and qualitative analysis on a SOTA novel view synthesis methods. We demonstrate different techniques to improve the scene representation of laser printed planar structural color objects, focusing on the 3D Gaussian Splatting (3D-GS) method, which performs exceptionally well on our synthetic dataset. Our techniques, such as using geometric prior of planar structural color objects while initializing scene with sparse structure-from-motion (SfM) point cloud and the Anisotropy Regularizer, significantly improves the visual quality of view synthesis. We design different capture setups to acquire images of objects and evaluate the visual quality of the scene with different capture setups. Additionally, we present comprehensive experimentation to demonstrate methods to simulate structural color objects using just captured images of laser-printed primaries. This comprehensive research aims to contribute to the advancement of novel view synthesis methods for scenes involving reflective objects with structural colors.
+&lt;/p&gt;
+&lt;h3 id=&#34;tldr&#34;&gt;TLDR&lt;/h3&gt;
+&lt;p&gt;This work is the result of my master thesis on &amp;ldquo;Novel View Synthesis of Structural Color Objects Created by Laser Markings&amp;rdquo;.&lt;/p&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;&lt;p style=&#34;font-size: 1.1rem;&#34;&gt;
+This work marks the beginning of Novel View Synthesis (NVS) of structural color objects and opens up potential avenues for various future research directions and endeavors. 
+&lt;/p&gt;
+&lt;p style=&#34;font-size: 1.1rem;&#34;&gt;
+&lt;b&gt;Beginners&lt;/b&gt;: This thesis will help beginners grasp the brief history of radiance field methods and essential preliminaries, such as the mathematics, tools, and concepts necessary to understand NVS methods. Furthermore, it will serve as a foundational guide for novice researchers interested in exploring the novel view synthesis of specular and shiny objects with high view-dependent colors, commonly referred to as Structural Colors or Pearlescent Colors.
+&lt;/p&gt;
+&lt;p style=&#34;font-size: 1.1rem;&#34;&gt;
+&lt;b&gt;Advanced Researchers&lt;/b&gt;: This thesis will also be a valuable reference for advanced researchers who may wish to revisit the fundamental concepts and access the *StructColorToaster scene* from new *Structural Color Blender Dataset*. Additionally, the thesis discusses approaches to improve results and outlines potential future research directions.
+&lt;/p&gt;
+&lt;p style=&#34;font-size: 1.1rem;&#34;&gt;
+&lt;b&gt;Technical Artists&lt;/b&gt;: This thesis provides an overview of how the new Gaussian Splatting technology can be applied to various use cases and demonstrates the life cycle of a specific use case in interactive product visualization, from capturing the product to visualizing it in a web viewer. 
+&lt;/p&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;datasets&#34;&gt;Datasets&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Structural Color Blender Dataset (Synthetic Scenes)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;StructColorToaster&lt;/em&gt; Scene: Access Blender source and dataset from 👉&lt;a href=&#34;https://www.dropbox.com/scl/fo/9btslfn5y71lb6ct4jy62/AJ-6C-8QmycAND85arMPBDQ?rlkey=tqq444p2k608el58aoq5tzbvf&amp;amp;e=1&amp;amp;st=qcq9xn97&amp;amp;dl=0&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Real Scenes&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;StructColorPainting&lt;/em&gt; Scene&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;StructColorPaintingOld&lt;/em&gt; Scene&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;StructColorPrimaries&lt;/em&gt; Scene&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;StructColorTaylorSwift&lt;/em&gt; Scene&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;evaluation&#34;&gt;Evaluation&lt;/h3&gt;
+&lt;h4 id=&#34;structural-color-blender-dataset-synthetic-scenes&#34;&gt;Structural Color Blender Dataset (Synthetic Scenes)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Evaluation of selected SOTA methods on &lt;em&gt;StructColorToaster&lt;/em&gt; scene:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;width: 100%; max-width: 600px; margin: auto;&#34;&gt;
+  &lt;table style=&#34;font-size: 0.9rem; padding: 2px; margin: auto; border-collapse: collapse;&#34;&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th style=&#34;padding: 2px;&#34;&gt;Method&lt;/th&gt;
+        &lt;th style=&#34;padding: 2px;&#34;&gt;Iterations&lt;/th&gt;
+        &lt;th style=&#34;padding: 2px;&#34;&gt;PSNR &amp;#8593;&lt;/th&gt;
+        &lt;th style=&#34;padding: 2px;&#34;&gt;SSIM &amp;#8593;&lt;/th&gt;
+        &lt;th style=&#34;padding: 2px;&#34;&gt;LPIPS &amp;#8595;&lt;/th&gt;
+        &lt;th style=&#34;padding: 2px;&#34;&gt;Train&lt;/th&gt;
+        &lt;th style=&#34;padding: 2px;&#34;&gt;FPS&lt;/th&gt;
+        &lt;th style=&#34;padding: 2px;&#34;&gt;Memory&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;NeRF&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;50K&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;23.359&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;0.8427&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;0.1895&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;1 day&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;0.001&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;22MB&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;InstantNGP&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;50K&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;19.659&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;0.8109&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;0.2068&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;23 min&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;6&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;159.2MB&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;Mip-NeRF&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;250K&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;22.818&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;0.877&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;0.1263&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;1 day&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;0.03&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;15.9MB&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;NeRFacto&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;50K&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;19.305&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;0.8056&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;0.2123&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;35 min&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;0.6&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;168MB&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;Ref-NeRF&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;250K&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;27.5194&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;0.9142&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;0.1286&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;2 days&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;0.3&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;8.2MB&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td style=&#34;padding: 2px; font-weight: bold;  background-color: yellow; color: #000;&#34;&gt;3D-GS&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;30K&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px; font-weight: bold;  background-color: yellow; color: #000;&#34;&gt;24.0435&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;0.9065&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;0.1061&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;20 min&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;140&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;77MB&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;3D-GS&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;60K&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;24.3117&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;0.9070&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;0.1052&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;30 min&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;140&lt;/td&gt;
+        &lt;td style=&#34;padding: 2px;&#34;&gt;77MB&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+  &lt;figcaption style=&#34;text-align: left; margin-top: 10px;&#34;&gt;
+    Table 1: Quantitative evaluation of selected methods&#39; results computed over our &lt;em&gt;StructColorToaster&lt;/em&gt; Scene. &lt;br&gt; (The values for the Train time and FPS are approximate.)
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;Renders of optimized &lt;em&gt;StructColorToaster&lt;/em&gt; Scene using 3D-GS:
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/publications/nvs_structural_color_object/3DGS_Toaster.jpeg&#34;
+    alt=&#34;Figure 1: The renderings show that 3D-GS able to capture the crisp shininess appearance of the surface. However, it does improve in learning specular reflections with increasing iterations, it is still not up to the mark and suffures from  holes and aliasing effect aka popping artifacts.&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Figure 1: The renderings show that 3D-GS able to capture the crisp shininess appearance of the surface. However, it does improve in learning specular reflections with increasing iterations, it is still not up to the mark and suffures from  holes and aliasing effect aka popping artifacts.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;real-scenes&#34;&gt;Real Scenes&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Evalution of different choices on &lt;em&gt;StructColorPainting&lt;/em&gt; and &lt;em&gt;StructColorPaintingOld&lt;/em&gt; Scenes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;width: 100%; max-width: 600px; margin: auto;&#34;&gt;
+&lt;table style=&#34;font-size: 0.9rem; padding: 2px; margin: auto; border-collapse: collapse;&#34;&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th style=&#34;padding: 2px;&#34;&gt;Method&lt;/th&gt;
+            &lt;th style=&#34;padding: 2px;&#34;&gt;7K&lt;/th&gt;
+            &lt;th style=&#34;padding: 2px;&#34;&gt;30K&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;Vanilla 3D-GS&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;27.11&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;28.92&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;Cleaned-SfM&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;27.6715&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;  font-weight: bold;  background-color: yellow; color: #000;&#34;&gt;29.1789&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;With-Masks&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;9.352&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;9.4603&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;With-Cropped-Images/RGBA Images&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;29.1759&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;30.0007&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt; With-Cropped-Images/RGBA Images: &lt;br&gt; (No-Densification + No-Position Optimization)&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;24.4612&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;25.089&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;Densify Until Iteration = 30000&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;26.8325&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;29.4149&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;Densification Interval = 30&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;25.2634&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;28.6454&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;Densification Interval = 50&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;26.0189&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;28.2718&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;Reset Opacity = Every 1000 Iteration&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;27.7216&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;29.2581&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;Reset Opacity = Every 2000 Iteration&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;27.6354&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;29.1786&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;Reset Opacity = Every 5000 Iteration&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;27.82&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;29.2726&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;SH-Degree 0&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;26.4699&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;27.9771&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;White-Background&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;27.6579&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;29.2025&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;Random-Background&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;27.7607&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;29.3303&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;No-Densification&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;17.7919&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;18.3929&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;Reduced Number of Images = 297&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;27.3657&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;28.7223&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;Anisotropy-Regularizer&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px;&#34;&gt;27.5747&lt;/td&gt;
+            &lt;td style=&#34;padding: 2px; font-weight: bold;  background-color: yellow; color: #000;&#34;&gt;29.4191&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;figcaption style=&#34;text-align: left; margin-top: 10px;&#34;&gt;Table 2: PSNR Score for ablation runs. Quantitative evaluation of results computed over our &lt;em&gt;StructColorPainting&lt;/em&gt; scene using different 3D-GS settings. (The values for FPS are approximate.)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;Evaluation of selected techniques’ results computed over our &lt;em&gt;StructColorPainting&lt;/em&gt; scene:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;width: 100%; max-width: 600px; margin: auto;&#34;&gt;
+    &lt;table style=&#34;font-size: 0.9rem; padding: 2px; margin: auto; border-collapse: collapse;&#34;&gt;
+        &lt;thead&gt;
+            &lt;tr style=&#34;border-bottom: 3px solid grey;&#34;&gt;
+                &lt;th style=&#34;padding: 2px;&#34;&gt;Method&lt;/th&gt;
+                &lt;th style=&#34;padding: 2px;&#34;&gt;Iterations&lt;/th&gt;
+                &lt;th style=&#34;padding: 2px;&#34;&gt;PSNR &amp;#8593;&lt;/th&gt;
+                &lt;th style=&#34;padding: 2px;&#34;&gt;SSIM &amp;#8593;&lt;/th&gt;
+                &lt;th style=&#34;padding: 2px;&#34;&gt;LPIPS &amp;#8595;&lt;/th&gt;
+                &lt;th style=&#34;padding: 2px;&#34;&gt;Train&lt;/th&gt;
+                &lt;th style=&#34;padding: 2px;&#34;&gt;FPS&lt;/th&gt;
+                &lt;th style=&#34;padding: 2px;&#34;&gt;Memory&lt;/th&gt;
+            &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+            &lt;tr&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;Cleaned-SfM&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;7K&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;27.6452&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.9221&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.1795&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;5.122min&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;150&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;79MB&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr style=&#34;border-bottom: 3px solid grey;&#34;&gt;
+                &lt;td&gt;&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;30K&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px; font-weight: bold; background-color: yellow; color: #000;&#34;&gt;29.1789&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.9342&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.1602&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;27.69min&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;120&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;150MB&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;Anisotropy-Regularizer&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;7K&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;27.5476&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.9223&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.1780&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;5.134min&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;150&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;78.6MB&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr style=&#34;border-bottom: 3px solid grey;&#34;&gt;
+                &lt;td&gt;&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;30K&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px; font-weight: bold; background-color: yellow; color: #000;&#34;&gt;29.9631&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.9346&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px; &#34;&gt;0.1572&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;26.35 min&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;120&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;152.4MB&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;Anisotropy-Regularizer:&lt;br&gt;297-Images&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;7K&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;26.9920&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.9238&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.1833&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;5.812 min&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;150&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;86.1MB&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;30K&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;29.3213&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.9339&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.1648&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;28.57min&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;120&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;176.2MB&lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/tbody&gt;
+    &lt;/table&gt;
+    &lt;figcaption style=&#34;text-align: left; margin-top: 10px;&#34;&gt;
+            Table 3: Quantitative evaluation of selected techniques’ results computed over our &lt;em&gt;StructColorPainting&lt;/em&gt; scene. (The values for FPS are approximate).
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;Evaluation of renderings using our techniques’ and gsplat with cleaned SfM and additional features computed over &lt;em&gt;StructColorTaylorSwift&lt;/em&gt; scene:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;width: 100%; max-width: 600px; margin: auto;&#34;&gt;
+    &lt;table style=&#34;font-size: 0.9rem; padding: 2px; margin: auto; border-collapse: collapse;&#34;&gt;
+        &lt;thead&gt;
+            &lt;tr style=&#34;border-bottom: 3px solid grey;&#34;&gt;
+                &lt;th style=&#34;padding: 2px;&#34;&gt;Method&lt;/th&gt;
+                &lt;th style=&#34;padding: 2px;&#34;&gt;Iterations&lt;/th&gt;
+                &lt;th style=&#34;padding: 2px;&#34;&gt;PSNR &amp;#8593;&lt;/th&gt;
+                &lt;th style=&#34;padding: 2px;&#34;&gt;SSIM &amp;#8593;&lt;/th&gt;
+                &lt;th style=&#34;padding: 2px;&#34;&gt;LPIPS &amp;#8595;&lt;/th&gt;
+                &lt;th style=&#34;padding: 2px;&#34;&gt;Train&lt;/th&gt;
+                &lt;th style=&#34;padding: 2px;&#34;&gt;FPS&lt;/th&gt;
+                &lt;th style=&#34;padding: 2px;&#34;&gt;Memory&lt;/th&gt;
+            &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+            &lt;tr&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;Our Techniques&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;7K&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;30.2567&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.9338&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.1921&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;4.123min&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;150&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;55MB&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr style=&#34;border-bottom: 3px solid grey;&#34;&gt;
+                &lt;td&gt;&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;30K&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px; font-weight: bold; background-color: yellow; color: #000;&#34;&gt;33.6547&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.9458&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.1749&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;18.5min&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;120&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;94MB&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;gsplat&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;7K&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;31.8051&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.9391&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.1880&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;2.86min&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;150&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;64MB&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr style=&#34;border-bottom: 3px solid grey;&#34;&gt;
+                &lt;td&gt;&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;30K&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px; font-weight: bold; background-color: yellow; color: #000;&#34;&gt;34.6451&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.9511&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.1658&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;16.61min&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;120&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;119MB&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;gsplat + Mip-Splatting&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;7K&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;31.3528&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.9362&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.1922&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;2.54min&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;150&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;66MB&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr style=&#34;border-bottom: 3px solid grey;&#34;&gt;
+                &lt;td&gt;&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;30K&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px; font-weight: bold; background-color: yellow; color: #000;&#34;&gt;34.6654&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.9379&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;0.1827&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;17.1min&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;120&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px;&#34;&gt;124MB&lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/tbody&gt;
+    &lt;/table&gt;
+    &lt;figcaption style=&#34;text-align: left; margin-top: 10px;&#34;&gt;
+        Table 4: Quantitative evaluation of selected techniques’ results computed over our &lt;em&gt;StructColorPainting&lt;/em&gt; scene. (The values for FPS are approximate.)
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3 id=&#34;videos&#34;&gt;Videos&lt;/h3&gt;
+&lt;h4 id=&#34;real-scenes-1&#34;&gt;Real Scenes&lt;/h4&gt;
+&lt;p&gt;RGB renders of interactive visualization in SIBR viewer of an optimized real world sences with our techniques:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;StructColorPainting&lt;/em&gt; scene
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/man_16_891_imgs.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;StructColorTaylorSwift&lt;/em&gt; scene
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/taylor_simulation_2.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;h4 id=&#34;synthesized-scenes-using-just-primaries&#34;&gt;Synthesized Scenes Using Just Primaries&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Simulating Structural Color Object (Pseudo) before Laser Printing:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/publications/nvs_structural_color_object/pipeline_gsplat.jpg&#34;
+    alt=&#34;Figure 2: Pipeline of Synthesizing Arbitrary Images of Structural Color Object for Arbitrary Viewing Directions.&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Figure 2: Pipeline of Synthesizing Arbitrary Images of Structural Color Object for Arbitrary Viewing Directions.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Comparison between real structural color object views and respective synthesized views using just primaries for respective view directions:
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;StructColorTaylorSwift&lt;/em&gt; scene
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  &lt;video controls  &gt;
+    &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/taylor_swift_synth_views_gsplat_compare_%20720p.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;/video&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;RGB renders of interactive visualization in SIBR viewer of an optimized synthetic scene, generated using synthesized images created just with primaries:
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  &lt;video controls  &gt;
+    &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/taylor_synth_perspective_simulation.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;/video&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Synthesizing views using only the earlier tracked primaries for respective view directions, before laser printing the structural color object:
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Synthesized views using just primaries for respective view directions:
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  &lt;video controls  &gt;
+    &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/cat_synth_views.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;/video&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;RGB renders of interactive visualization in SIBR viewer of an optimized synthetic scene, generated using synthesized images created just with primaries:
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  &lt;video controls  &gt;
+    &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/cat_synth_perspective_simulation.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;/video&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3d-web-viewer&#34;&gt;3D Web Viewer&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://prakashknaikade.github.io/StructColorPaintingViewer/&#34;&gt;&lt;strong&gt;StructColorPaintingViewer&lt;/strong&gt;&lt;/a&gt; is a webviwer to visulaize the structural color objects.
+The webviewer is implemented with help of &lt;a href=&#34;https://github.com/huggingface/gsplat.js&#34;&gt;gsplat.js&lt;/a&gt; but it only supports scenes optimized with spherical harmonics (SH) of degree 0. However, scenes optimized with SH0 don&amp;rsquo;t achieve the same quality as those optimized with SH3, which evident from above videos of SIBR viewer renderings.&lt;/p&gt;
+&lt;iframe src=&#34;https://prakashknaikade.github.io/StructColorPaintingViewer/&#34;
+        width=&#34;100%&#34; height=&#34;600px&#34;
+        style=&#34;border: none;&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
