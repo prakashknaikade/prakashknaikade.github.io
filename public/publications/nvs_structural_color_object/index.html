@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: August 17, 2024 --><html lang="en-us" dir="ltr"
+<!-- Last Published: August 19, 2024 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -1266,6 +1266,12 @@
       </li>
       <li class="my-2 scroll-my-6 scroll-py-6">
         <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#3d-web-viewer">3D Web Viewer</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#bibtex">BibTeX</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#references">References</a>
       </li></ul>
 
   
@@ -2025,11 +2031,21 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 </ul>
 <h3 id="3d-web-viewer">3D Web Viewer</h3>
 <p><a href="https://prakashknaikade.github.io/StructColorPaintingViewer/" target="_blank" rel="noopener"><strong>StructColorPaintingViewer</strong></a> is a webviwer to visulaize the structural color objects.
-The webviewer is implemented with help of <a href="https://github.com/huggingface/gsplat.js" target="_blank" rel="noopener">gsplat.js</a> but it only supports scenes optimized with spherical harmonics (SH) of degree 0. However, scenes optimized with SH0 don&rsquo;t achieve the same quality as those optimized with SH3, which evident from above videos of SIBR viewer renderings.</p>
+The webviewer is implemented with help of <a href="https://github.com/huggingface/gsplat.js" target="_blank" rel="noopener">gsplat.js</a> but it only supports scenes optimized with spherical harmonics (SH) of degree 0. However, scenes optimized with SH0 don&rsquo;t achieve the same quality as those optimized with SH3, which is evident from above videos of renderings of scenes optimized with SH3 in SIBR viewer.</p>
 <iframe src="https://prakashknaikade.github.io/StructColorPaintingViewer/"
         width="100%" height="600px"
         style="border: none;">
 </iframe>
+<h3 id="bibtex">BibTeX</h3>
+<h3 id="references">References</h3>
+<p style="font-size: 1.1rem;">
+1. [NeRF] Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, and Ren Ng. Nerf: Representing scenes as neural radiance fields for view synthesis. ECCV, 2020.<br>  
+2. [InstantNGP] Thomas Muller, Alex Evans, Christoph Schied, and Alexander Keller. Instant neural graphics primitives with a multiresolution hash encoding. ACM Trans.Graph., July 2022.<br> 
+3. [Mip-NeRF] Jonathan T. Barron, Ben Mildenhall, Matthew Tancik, Peter Hedman, Ricardo Martin-Brualla, and Pratul P. Srinivasan. Mip-nerf: A multiscale representation for anti-aliasing neural radiance fields. ICCV, 2021.<br>
+4. [NeRFacto] Matthew Tancik, Ethan Weber, Evonne Ng, Ruilong Li, Brent Yi, Justin Kerr, Terrance Wang, Alexander Kristoffersen, Jake Austin, Kamyar Salahi, Abhik Ahuja, David McAllister, and Angjoo Kanazawa. Nerfstudio: A modular framework for neural radiance field development. ACM SIGGRAPH 2023.<br>
+5. [Ref-NeRF] Dor Verbin, Peter Hedman, Ben Mildenhall, Todd Zickler, Jonathan T. Barron, and Pratul P. Srinivasan. Ref-NeRF: Structured view-dependent appearance for neural radiance fields. CVPR, 2022.<br> 
+6. [3D-GS] Bernhard Kerbl, Georgios Kopanas, Thomas Leimkuehler, and George Drettakis. 3d gaussian splatting for real-time radiance field rendering. ACM Transactions on Graphics, July 2023.
+</p> 
 
       </div>
 

@@ -119,6 +119,8 @@ work:
       text: 'Reference & Recommendation Letters'
       url: /uploads/Reference_Recommendation_Letters_AWSi.pdf
 
+    # [Reference Letter](/uploads/Reference_Letter_AWSi.pdf)
+
     # [Reference Letter]({{< relref "../uploads/Reference_Letter_AWSi.pdf" >}}) 
 
     # links:

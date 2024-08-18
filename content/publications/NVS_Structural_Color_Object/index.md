@@ -514,10 +514,22 @@ RGB renders of interactive visualization in SIBR viewer of an optimized real wor
 ### 3D Web Viewer
 
 [**StructColorPaintingViewer**](https://prakashknaikade.github.io/StructColorPaintingViewer/) is a webviwer to visulaize the structural color objects.
-The webviewer is implemented with help of [gsplat.js](https://github.com/huggingface/gsplat.js) but it only supports scenes optimized with spherical harmonics (SH) of degree 0. However, scenes optimized with SH0 don't achieve the same quality as those optimized with SH3, which evident from above videos of SIBR viewer renderings.
+The webviewer is implemented with help of [gsplat.js](https://github.com/huggingface/gsplat.js) but it only supports scenes optimized with spherical harmonics (SH) of degree 0. However, scenes optimized with SH0 don't achieve the same quality as those optimized with SH3, which is evident from above videos of renderings of scenes optimized with SH3 in SIBR viewer.
 
 <iframe src="https://prakashknaikade.github.io/StructColorPaintingViewer/"
         width="100%" height="600px"
         style="border: none;">
 </iframe>
 
+### BibTeX
+
+### References
+
+<p style="font-size: 1.1rem;">
+1. [NeRF] Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, and Ren Ng. Nerf: Representing scenes as neural radiance fields for view synthesis. ECCV, 2020.<br>  
+2. [InstantNGP] Thomas Muller, Alex Evans, Christoph Schied, and Alexander Keller. Instant neural graphics primitives with a multiresolution hash encoding. ACM Trans.Graph., July 2022.<br> 
+3. [Mip-NeRF] Jonathan T. Barron, Ben Mildenhall, Matthew Tancik, Peter Hedman, Ricardo Martin-Brualla, and Pratul P. Srinivasan. Mip-nerf: A multiscale representation for anti-aliasing neural radiance fields. ICCV, 2021.<br>
+4. [NeRFacto] Matthew Tancik, Ethan Weber, Evonne Ng, Ruilong Li, Brent Yi, Justin Kerr, Terrance Wang, Alexander Kristoffersen, Jake Austin, Kamyar Salahi, Abhik Ahuja, David McAllister, and Angjoo Kanazawa. Nerfstudio: A modular framework for neural radiance field development. ACM SIGGRAPH 2023.<br>
+5. [Ref-NeRF] Dor Verbin, Peter Hedman, Ben Mildenhall, Todd Zickler, Jonathan T. Barron, and Pratul P. Srinivasan. Ref-NeRF: Structured view-dependent appearance for neural radiance fields. CVPR, 2022.<br> 
+6. [3D-GS] Bernhard Kerbl, Georgios Kopanas, Thomas Leimkuehler, and George Drettakis. 3d gaussian splatting for real-time radiance field rendering. ACM Transactions on Graphics, July 2023.
+</p> 

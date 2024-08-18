@@ -610,11 +610,13 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 &lt;/ul&gt;
 &lt;h3 id=&#34;3d-web-viewer&#34;&gt;3D Web Viewer&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://prakashknaikade.github.io/StructColorPaintingViewer/&#34;&gt;&lt;strong&gt;StructColorPaintingViewer&lt;/strong&gt;&lt;/a&gt; is a webviwer to visulaize the structural color objects.
-The webviewer is implemented with help of &lt;a href=&#34;https://github.com/huggingface/gsplat.js&#34;&gt;gsplat.js&lt;/a&gt; but it only supports scenes optimized with spherical harmonics (SH) of degree 0. However, scenes optimized with SH0 don&amp;rsquo;t achieve the same quality as those optimized with SH3, which evident from above videos of SIBR viewer renderings.&lt;/p&gt;
+The webviewer is implemented with help of &lt;a href=&#34;https://github.com/huggingface/gsplat.js&#34;&gt;gsplat.js&lt;/a&gt; but it only supports scenes optimized with spherical harmonics (SH) of degree 0. However, scenes optimized with SH0 don&amp;rsquo;t achieve the same quality as those optimized with SH3, which is evident from above videos of renderings of scenes optimized with SH3 in SIBR viewer.&lt;/p&gt;
 &lt;iframe src=&#34;https://prakashknaikade.github.io/StructColorPaintingViewer/&#34;
         width=&#34;100%&#34; height=&#34;600px&#34;
         style=&#34;border: none;&#34;&gt;
 &lt;/iframe&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;[NeRF] Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, and Ren Ng. Nerf: Representing scenes as neural radiance fields for view synthesis. In ECCV, 2020.&lt;/p&gt;
 </description>
     </item>
     
