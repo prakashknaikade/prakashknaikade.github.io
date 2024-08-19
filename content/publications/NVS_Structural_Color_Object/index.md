@@ -34,7 +34,7 @@ links:
   url: https://prakashknaikade.github.io/StructColorPaintingViewer/
 - name: PDF (Dropbox)
   url: https://www.dropbox.com/scl/fi/in79kjuyn2h8b2mmd847x/NVS_Structural_Color_Objects.pdf?rlkey=sdv7lxi3rymelltdv8u7sgl1d&st=25ixlxzf&dl=0
-url_pdf: http://arxiv.org/
+url_pdf: ''
 url_code: ''
 url_dataset: 'https://www.dropbox.com/scl/fo/9btslfn5y71lb6ct4jy62/AJ-6C-8QmycAND85arMPBDQ?rlkey=tqq444p2k608el58aoq5tzbvf&e=1&st=qcq9xn97&dl=0'
 url_poster: ''
@@ -89,7 +89,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 </p>
 
 <p style="font-size: 1.1rem;">
-<b>Advanced Researchers</b>: This thesis will also be a valuable reference for advanced researchers who may wish to revisit the fundamental concepts and access the *StructColorToaster scene* from new *Structural Color Blender Dataset*. Additionally, the thesis discusses approaches to improve results and outlines potential future research directions.
+<b>Advanced Researchers</b>: This thesis will also be a valuable reference for advanced researchers who may wish to revisit the fundamental concepts and access the <em>StructColorToaster scene</em> from new <em>Structural Color Blender Dataset</em>. Additionally, the thesis discusses approaches to improve results and outlines potential future research directions.
 </p>
 
 <p style="font-size: 1.1rem;">
@@ -376,7 +376,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
                 <td style="padding: 2px;">150</td>
                 <td style="padding: 2px;">86.1MB</td>
             </tr>
-            <tr>
+            <tr style="border-bottom: 3px solid grey;">
                 <td></td>
                 <td style="padding: 2px;">30K</td>
                 <td style="padding: 2px;">29.3213</td>

@@ -100,7 +100,7 @@ work:
     date_start: 2023-07-01
     date_end: 2024-08-30
     summary: |
-      Working on Radiance Field methods for Novel View Synthesis of Structural Color Objects Created by Laser Marking. Facilitating interactive visualization for potential users to better understand the intricacies of view-dependent structural-colors of laser-printed images & paintings on metal plates.
+      Working on Radiance Field methods for Novel View Synthesis of Structural Color Objects Created by Laser Marking. Facilitating interactive visualization for potential users to better understand the intricacies of view-dependent structural colors of laser-printed images & paintings on metal substrates.
       
   - position: Junior Researcher
     company_name: August-Wilhelm Scheer Institute - Digital Health Lab

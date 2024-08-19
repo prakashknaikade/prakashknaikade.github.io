@@ -22,16 +22,13 @@ tags:
 **4. PoseFix: Correcting 3D Human Poses with Natural Language**
 <br>[Read Summary](https://github.com/prakashknaikade/Papers-I-Read/blob/main/PoseFix_Correcting-3D-Human-Poses-with-Natural-Language.pdf)
 
-**5. PoseFix: Correcting 3D Human Poses with Natural Language**
+**5. Corrosion Detection and Progression Using Computer Vision**
 <br>[Read Summary](https://github.com/prakashknaikade/Papers-I-Read/blob/main/PoseFix_Correcting-3D-Human-Poses-with-Natural-Language.pdf)
 
-**6. Corrosion Detection and Progression Using Computer Vision**
-<br>[Read Summary](https://github.com/prakashknaikade/Papers-I-Read/blob/main/PoseFix_Correcting-3D-Human-Poses-with-Natural-Language.pdf)
-
-**7. Tactics of Adversarial Attack on Deep Reinforcement Learning Agents**
+**6. Tactics of Adversarial Attack on Deep Reinforcement Learning Agents**
 <br>[Read Summary](https://github.com/prakashknaikade/Papers-I-Read/blob/main/Tactics-of-Adversarial-Attack-on-Deep-Reinforcement-Learning-Agents.pdf)
 
-**8. Novel View Synthesis using Radiance Field Methods: NeRF and Instant-NGP**
+**7. Novel View Synthesis using Radiance Field Methods: NeRF and Instant-NGP**
 <br>[Read Summary](https://docs.google.com/presentation/d/1HAcz7obNXgOj83u2HZmXaANHG31Tw3cxV1-rgsaYjNU/edit?usp=sharing)
 
 
