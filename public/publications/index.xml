@@ -34,7 +34,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 &lt;b&gt;Beginners&lt;/b&gt;: This thesis will help beginners grasp the brief history of radiance field methods and essential preliminaries, such as the mathematics, tools, and concepts necessary to understand NVS methods. Furthermore, it will serve as a foundational guide for novice researchers interested in exploring the novel view synthesis of specular and shiny objects with high view-dependent colors, commonly referred to as Structural Colors or Pearlescent Colors.
 &lt;/p&gt;
 &lt;p style=&#34;font-size: 1.1rem;&#34;&gt;
-&lt;b&gt;Advanced Researchers&lt;/b&gt;: This thesis will also be a valuable reference for advanced researchers who may wish to revisit the fundamental concepts and access the *StructColorToaster scene* from new *Structural Color Blender Dataset*. Additionally, the thesis discusses approaches to improve results and outlines potential future research directions.
+&lt;b&gt;Advanced Researchers&lt;/b&gt;: This thesis will also be a valuable reference for advanced researchers who may wish to revisit the fundamental concepts and access the &lt;em&gt;StructColorToaster scene&lt;/em&gt; from new &lt;em&gt;Structural Color Blender Dataset&lt;/em&gt;. Additionally, the thesis discusses approaches to improve results and outlines potential future research directions.
 &lt;/p&gt;
 &lt;p style=&#34;font-size: 1.1rem;&#34;&gt;
 &lt;b&gt;Technical Artists&lt;/b&gt;: This thesis provides an overview of how the new Gaussian Splatting technology can be applied to various use cases and demonstrates the life cycle of a specific use case in interactive product visualization, from capturing the product to visualizing it in a web viewer. 
@@ -335,7 +335,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
                 &lt;td style=&#34;padding: 2px;&#34;&gt;150&lt;/td&gt;
                 &lt;td style=&#34;padding: 2px;&#34;&gt;86.1MB&lt;/td&gt;
             &lt;/tr&gt;
-            &lt;tr&gt;
+            &lt;tr style=&#34;border-bottom: 3px solid grey;&#34;&gt;
                 &lt;td&gt;&lt;/td&gt;
                 &lt;td style=&#34;padding: 2px;&#34;&gt;30K&lt;/td&gt;
                 &lt;td style=&#34;padding: 2px;&#34;&gt;29.3213&lt;/td&gt;
@@ -615,8 +615,16 @@ The webviewer is implemented with help of &lt;a href=&#34;https://github.com/hug
         width=&#34;100%&#34; height=&#34;600px&#34;
         style=&#34;border: none;&#34;&gt;
 &lt;/iframe&gt;
+&lt;h3 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h3&gt;
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-&lt;p&gt;[NeRF] Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, and Ren Ng. Nerf: Representing scenes as neural radiance fields for view synthesis. In ECCV, 2020.&lt;/p&gt;
+&lt;p style=&#34;font-size: 1.1rem;&#34;&gt;
+1. [NeRF] Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, and Ren Ng. Nerf: Representing scenes as neural radiance fields for view synthesis. ECCV, 2020.&lt;br&gt;  
+2. [InstantNGP] Thomas Muller, Alex Evans, Christoph Schied, and Alexander Keller. Instant neural graphics primitives with a multiresolution hash encoding. ACM Trans.Graph., July 2022.&lt;br&gt; 
+3. [Mip-NeRF] Jonathan T. Barron, Ben Mildenhall, Matthew Tancik, Peter Hedman, Ricardo Martin-Brualla, and Pratul P. Srinivasan. Mip-nerf: A multiscale representation for anti-aliasing neural radiance fields. ICCV, 2021.&lt;br&gt;
+4. [NeRFacto] Matthew Tancik, Ethan Weber, Evonne Ng, Ruilong Li, Brent Yi, Justin Kerr, Terrance Wang, Alexander Kristoffersen, Jake Austin, Kamyar Salahi, Abhik Ahuja, David McAllister, and Angjoo Kanazawa. Nerfstudio: A modular framework for neural radiance field development. ACM SIGGRAPH 2023.&lt;br&gt;
+5. [Ref-NeRF] Dor Verbin, Peter Hedman, Ben Mildenhall, Todd Zickler, Jonathan T. Barron, and Pratul P. Srinivasan. Ref-NeRF: Structured view-dependent appearance for neural radiance fields. CVPR, 2022.&lt;br&gt; 
+6. [3D-GS] Bernhard Kerbl, Georgios Kopanas, Thomas Leimkuehler, and George Drettakis. 3d gaussian splatting for real-time radiance field rendering. ACM Transactions on Graphics, July 2023.
+&lt;/p&gt; 
 </description>
     </item>
     

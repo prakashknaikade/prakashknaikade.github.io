@@ -46,9 +46,11 @@ url_video: '/taylor_simulation_2.mp4'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
+  filename: 
+  placement: 2
   caption: ''
-  focal_point: ""
-  preview_only: false
+  focal_point: 'Left'
+  preview_only: True
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

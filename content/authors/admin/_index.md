@@ -92,18 +92,8 @@ education:
       url: 'https://github.com/prakashknaikade/Bachelor-Thesis'
 
 work:
-  - position: Research Assistant
-    company_name: Max Planck Institute for Informatics - AIDAM Group
-    location: Saarbrücken, Germany
-    url: https://aidam.mpi-inf.mpg.de/?view=home
-    company_logo: https://www.mpi-inf.mpg.de/typo3conf/ext/mpi_inf_site_package/Resources/Public/Images/Core/mpi-logo-en.svg
-    date_start: 2023-07-01
-    date_end: 2024-08-30
-    summary: |
-      Working on Radiance Field methods for Novel View Synthesis of Structural Color Objects Created by Laser Marking. Facilitating interactive visualization for potential users to better understand the intricacies of view-dependent structural colors of laser-printed images & paintings on metal substrates.
-      
-  - position: Junior Researcher
-    company_name: August-Wilhelm Scheer Institute - Digital Health Lab
+  - position: Junior Researcher (HiWi)
+    company_name: August-Wilhelm Scheer Institute
     company_url: https://www.aws-institut.de/
     company_logo: https://www.aws-institut.de/wp-content/uploads/2020/05/Logo_Webseite1.svg
     date_start: 2023-09-01
@@ -111,10 +101,11 @@ work:
     summary: |
       Responsibilities include:
       - Contributing to the MediHopps, iperMö, FläKI & VuLCAn projects.
-      - Working on computer vision, computer graphics, and machine/deep learning tasks like human pose estimation, human action recognition, & some XR tasks.
-      - Systematic Literature Research and Reviews, Project Proposals and Scientific Literature Writing
-      - Contributed significantly to the feature extraction, generation, and visualization of furniture functionalities in the codebase for the iperMö project, dealing with the development of an AR application to turn individual furniture wishes into reality.
-    
+      - Contributed significantly to the feature extraction, generation, and visualization of furniture functionalities in the Python codebase for the iperMö project, which focuses on developing of an AR application to turn individual furniture wishes into reality.
+      - Systematic Literature Research and Reviews, Project Proposals and Scientific Literature Writing.
+      - Generally working on computer vision, computer graphics, and machine/deep learning tasks like human pose estimation, human action recognition, and some XR tasks.
+
+    button: <a href=/uploads/Reference_Letter_AWSi.pdf>Reference Letter</a>
     button:
       text: 'Reference & Recommendation Letters'
       url: /uploads/Reference_Recommendation_Letters_AWSi.pdf
@@ -134,6 +125,21 @@ work:
     # button:
     #   text: 'Reference Letter'
     #   url: /uploads/Reference_Letter_AWSi.pdf
+
+  - position: Research Assistant
+    company_name: Max Planck Institute for Informatics - AIDAM Group
+    location: Saarbrücken, Germany
+    url: https://aidam.mpi-inf.mpg.de/?view=home
+    company_logo: https://www.mpi-inf.mpg.de/typo3conf/ext/mpi_inf_site_package/Resources/Public/Images/Core/mpi-logo-en.svg
+    date_start: 2023-07-01
+    date_end: 2024-08-30
+    summary: |
+      Responsibilities include:
+      - Worked on Radiance Field methods for Novel View Synthesis of structural color objects created by laser markings.
+      - Benchmarked SOTA radiance methods for synthetic scene involving Structural Color Object created in Blender.
+      - Developed capture setup to capture highly reflective and shiny structural color paintings on metal substrates.
+      - Improved the scene optimization using geometric prior and Anisotropy Regularizer in 3D Gaussian-Splatting method.
+      - Facilitated interactive visualization of view dependent structural colors of laser-printed images and paintings on metal substrates in web viewer.
       
   - position: Computer Vision Engineer Intern
     company_name: BASF-Coatings GmbH
@@ -143,10 +149,12 @@ work:
     date_end: 2023-05-31
     summary: |
       Responsibilities include:
-      - Worked on development of dataset and algorithms for adhesive tests' detection & corrosion detection on images of test panels of metal substrates using YOLOv8 & UNet for automation project.
+      - Developed dataset for adhesive test and corrosion detection on images of test panels of metal substrates.
+      - Developed framework and trained YOLOv8 model for adhesive tests’ detection and UNet for corrosion detection using created dataset for automation project.
     button:
       text: 'Certificate'
       url: 'https://drive.google.com/file/d/1SdwvvyOiM_7EGpIO0wl5Q0k0jDMOGJnV/view?usp=sharing'
+
   - position: Computer Vision Engineer Intern
     company_name: Fenris GmbH
     company_url: https://fenris-group.com/
@@ -155,11 +163,13 @@ work:
     date_end: 2023-09-30
     summary: |
       Responsibilities include:
-      - Contributed to marker-less motion capture solutions using single & multiple cameras, for athlete motion tracking and analysis. 
-      - Tasks included literature survey, camera calibration, deep learning based human pose estimation & golf sequence detection, estimating joint angles from 3D body poses, comparing two pose sequences and visualization of results in Blender and Unity.
+      - Contributed to marker-less motion capture solutions using single and multiple cameras, for athlete motion tracking and analysis.
+      - Conducted a comprehensive literature research and review focused on deep learning approaches for human pose estimation and benchmarked SOTA approaches for domain specific video data.
+      - Worked on different tasks such as camera calibration, deep learning based human pose estimation & golf sequence detection, estimating joint angles from 3D body poses, comparing two pose sequences and visualization of results in Blender and Unity.
     button:
       text: 'Certificate'
       url: 'https://drive.google.com/file/d/1xSjhUgqcWS8xBxcKWJaZUypn7IhMS_Po/view?usp=sharing' 
+
   - position: Indian Civil Services Exam Preparation
     company_name: ''
     company_url: ''
@@ -167,7 +177,7 @@ work:
     date_start: 2015-06-01
     date_end: 2019-07-30
     summary: |
-      During the preparation of this exam, I gained Under-Graduate level knowledge of Anthropology, Polity, Governance, Indian Constitution, Social Justice, International Relations, Economics, Indian and World Geography, Indian and World History, Indian Culture and Society, Environment, Ethics, etc. (Passing percentage ≈ 0.1%)
+      During the preparation of this <a href=https://en.wikipedia.org/wiki/Civil_Services_Examination>exam</a>, I gained Under-Graduate level knowledge of Anthropology, Polity, Governance, Indian Constitution, Social Justice, International Relations, Economics (Macro), Indian & World Geography, Indian & World History, Indian Culture & Society, Environment, and Ethics. <a href=https://byjus.com/free-ias-prep/upsc-exam-success-rate-statistics-to-crack-the-exam-easily/>(Overall pass percentage of candidates ≈ 0.1%)</a>
 
 
 # Skills
@@ -193,7 +203,7 @@ skills:
         description: ''
         percent: ''
         icon: code-bracket
-      - name: 'OpenCV, Scikit-Learn, SciPy'
+      - name: 'OpenCV, Open3D, Scikit-Learn, SciPy'
         description: ''
         percent: ''
         icon: code-bracket
@@ -227,6 +237,9 @@ skills:
         description: ''
         percent: ''
         icon: 'devicon/blender'
+      - name: Metashape, COLMAP, Meshlab, 
+      - name: Docker, SLURM
+        icon: 'devicon/docker'
       - name: LATEX, MS office 
         description: ''
         percent: 
