@@ -141,7 +141,7 @@ work:
       - Improved the scene optimization using geometric prior and Anisotropy Regularizer in 3D Gaussian-Splatting method.
       - Facilitated interactive visualization of view dependent structural colors of laser-printed images and paintings on metal substrates in web viewer.
       
-  - position: Computer Vision Engineer Intern
+  - position: Computer Vision Intern
     company_name: BASF-Coatings GmbH
     company_url: https://www.basf.com/global/en.html
     company_logo: https://en.wikipedia.org/wiki/BASF#/media/File:BASF-Logo_bw.svg
@@ -155,7 +155,7 @@ work:
       text: 'Certificate'
       url: 'https://drive.google.com/file/d/1SdwvvyOiM_7EGpIO0wl5Q0k0jDMOGJnV/view?usp=sharing'
 
-  - position: Computer Vision Engineer Intern
+  - position: Computer Vision Intern
     company_name: Fenris GmbH
     company_url: https://fenris-group.com/
     company_logo: https://fenris-group.com/wp-content/uploads/2021/12/cropped-Fenris-Logo_176x60.png
