@@ -359,7 +359,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
             &lt;tr style=&#34;border-bottom: 3px solid grey;&#34;&gt;
                 &lt;td&gt;&lt;/td&gt;
                 &lt;td style=&#34;padding: 2px;&#34;&gt;30K&lt;/td&gt;
-                &lt;td style=&#34;padding: 2px;&#34;&gt;29.3213&lt;/td&gt;
+                &lt;td style=&#34;padding: 2px; font-weight: bold; background-color: yellow; color: #000;&#34;&gt;29.3213&lt;/td&gt;
                 &lt;td style=&#34;padding: 2px;&#34;&gt;0.9339&lt;/td&gt;
                 &lt;td style=&#34;padding: 2px;&#34;&gt;0.1648&lt;/td&gt;
                 &lt;td style=&#34;padding: 2px;&#34;&gt;28.57min&lt;/td&gt;

@@ -10,10 +10,6 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/article/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/tags/gaussaian-splatting/</loc>
     <lastmod>2024-08-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -47,6 +43,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/thesis/</loc>
     <lastmod>2024-08-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

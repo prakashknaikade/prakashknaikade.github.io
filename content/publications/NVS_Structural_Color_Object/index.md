@@ -6,16 +6,16 @@ date: "2024-08-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-08-14T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["thesis"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: ""
+publication_short: "(MASTER THESIS)"
 
 # Summary. An optional shortened abstract.
 summary: This work marks the beginning of novel view synthesis for structural color objects and opens up potential avenues for various future research directions and endeavors. Moreover, this thesis will act as a foundational guide for novice researchers interested in exploring the novel view synthesis of specular and shiny objects with high view-dependent colors, commonly referred to as Structural Colors and Pearlescent Colors.
@@ -65,7 +65,7 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
-show_date: false
+show_date: true
 reading_time: false
 pager: false
 show_breadcrumb: true
@@ -381,7 +381,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
             <tr style="border-bottom: 3px solid grey;">
                 <td></td>
                 <td style="padding: 2px;">30K</td>
-                <td style="padding: 2px;">29.3213</td>
+                <td style="padding: 2px; font-weight: bold; background-color: yellow; color: #000;">29.3213</td>
                 <td style="padding: 2px;">0.9339</td>
                 <td style="padding: 2px;">0.1648</td>
                 <td style="padding: 2px;">28.57min</td>
