@@ -79,7 +79,7 @@ Transforming physical object into its high quality 3D digital twin using novel v
 </p>
 
 ### TLDR
-This work is the result of my master thesis on "Novel View Synthesis of Structural Color Objects Created by Laser Markings".
+This work is the result of my master thesis on "Novel View Synthesis of Structural Color Objects Created by Laser Markings", in collaboration with [AIDAM](https://aidam.mpi-inf.mpg.de/?view=home), [Oraclase](https://www.oraclase.com/), [MPI-Inf](https://www.mpi-inf.mpg.de/home/), and [SIC](https://saarland-informatics-campus.de/en/).
 
 {{% callout note %}}
 
