@@ -29,6 +29,7 @@ sections:
       title: Languages
       username: admin
   - block: resume-awards
+    id: section-certifications
     content:
       title: Certifications
       username: admin
