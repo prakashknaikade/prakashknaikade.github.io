@@ -23,7 +23,7 @@ tags:
 <br>[Read Summary](https://github.com/prakashknaikade/Papers-I-Read/blob/main/PoseFix_Correcting-3D-Human-Poses-with-Natural-Language.pdf)
 
 **5. Corrosion Detection and Progression Using Computer Vision**
-<br>[Read Summary](https://github.com/prakashknaikade/Papers-I-Read/blob/main/PoseFix_Correcting-3D-Human-Poses-with-Natural-Language.pdf)
+<br>[Read Summary](https://github.com/prakashknaikade/Papers-I-Read/blob/main/Corrosion-Detection-Progression.pdf)
 
 **6. Tactics of Adversarial Attack on Deep Reinforcement Learning Agents**
 <br>[Read Summary](https://github.com/prakashknaikade/Papers-I-Read/blob/main/Tactics-of-Adversarial-Attack-on-Deep-Reinforcement-Learning-Agents.pdf)
