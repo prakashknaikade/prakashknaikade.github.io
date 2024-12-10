@@ -61,7 +61,7 @@ education:
     date_start: 2020-10-01
     date_end: 2024-08-16
     summary: |
-      Grade: 1.8/1.0
+      Grade: 1.6/1.0
 
       Courses included:
       - Computer Graphics, Image Processing & Computer Vision, Neural Networks: Theory & Implementation, High-Level Computer Vision, Statistics with R, Adversarial
