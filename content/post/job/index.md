@@ -1,7 +1,7 @@
 ---
 title: 🧠 Open to work
 summary: Looking for Computer Vision and Machine Learning Research Engineer Roles
-date: 2024-05-01
+date: 2024-11-01
 authors:
   - admin
 tags:
@@ -40,4 +40,3 @@ I am a passionate AI researcher with extensive experience and interests in the e
 ## Contact
 
 If you are looking for a dedicated researcher with a deep understanding of advanced AI and computer vision techniques, I would love to connect. Please feel free to reach out to discuss potential opportunities and collaborations.
-

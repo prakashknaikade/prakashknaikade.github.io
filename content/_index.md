@@ -37,7 +37,7 @@ sections:
       text: |-
         I am junior researcher at August-Wilhelm Scheer Institute. I worked on my master thesis at Max Planck Institute for Informatics.
 
-        My research interests span in the broad areas of Neural Rendering, Radiance Field Methods, Novel View Synthesis, Motion Capture, 3D-Reconstruction, Digital Twins, AR/VR, Generative AI, LLMs, HCI and generally Computer Vision, Computer Graphics, Deep/Machine Learning & Data Science, to solve the real world problems with impactful AI aided solutions.
+        My research interests span in the broad areas of Neural Rendering, Radiance Field Methods, Novel View Synthesis, Motion Capture, 3D-Reconstruction, Scene Understanding, Scene Interaction, Digital Twins, AR/VR, GenAI, LLMs, and generally Computer Vision, Computer Graphics, HCI, Deep/Machine Learning & Data Science, to solve the real world problems with impactful AI aided solutions.
         
         Please reach out to collaborate 😃
     design:
@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: 📌 Featured Publications
       filters:
         folders:
           - publications
@@ -55,7 +55,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: 📜 Recent Publications
       text: ""
       filters:
         folders:
@@ -63,20 +63,17 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
+  - block: markdown
+    id: ama
     content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event_n
-    design:
-      view: article-grid
-      columns: 1
+      title: '💬 Ask Me Anything'
+      subtitle: ''
+      text: |-
+        Click on the 👉 [**AMA**](https://huggingface.co/spaces/prakashknaikade/Ask-About-Me) to ask questions about me.
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: 📰 Recent News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -101,6 +98,6 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: "0rem"
   
 ---

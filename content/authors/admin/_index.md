@@ -68,7 +68,7 @@ education:
         Reinforcement Learning, Human Computer Interaction, Games & Interactive Media
       - [Audited] Geometric Modeling, Machine Learning, AI, Ethics for Nerds
 
-      Thesis: Novel View Synthesis of Structural Color Objects Created by Laser Markings.
+      Thesis: Novel View Synthesis of Structural Color Objects Created by Laser Markings. (1.3)
     button:
       text: 'Read Thesis'
       url: '/publications/nvs_structural_color_object/'
@@ -97,13 +97,13 @@ work:
     company_url: https://www.aws-institut.de/
     company_logo: https://www.aws-institut.de/wp-content/uploads/2020/05/Logo_Webseite1.svg
     date_start: 2023-09-01
-    date_end: ''
+    date_end: 2024-12-31
     summary: |
       Responsibilities include:
-      - Contributing to the MediHopps, iperMö, FläKI & VuLCAn projects.
-      - Contributed significantly to the feature extraction, generation, and visualization of furniture functionalities in the Python codebase for the iperMö project, which focuses on developing of an AR application to turn individual furniture wishes into reality.
+      - Worked on several applied research projects, including MediHopps, iperMö, FläKI and VuLCAn.
+      - Implemented advanced deep learning methods for human action recognition (HAR) and body pose estimation (HPE), and delivered detailed performance evaluations of these models, along with a trained HAR model (ST-GCN++) for custom rehabilitation exercise data captured in the lab.
       - Systematic Literature Research and Reviews, Project Proposals and Scientific Literature Writing.
-      - Generally working on computer vision, computer graphics, and machine/deep learning tasks like human pose estimation, human action recognition, and some XR tasks.
+      - Generally worked on computer vision, computer graphics, and machine/deep learning tasks like human pose estimation, human action recognition, and some XR tasks.
 
     button: <a href=/uploads/Reference_Letter_AWSi.pdf>Reference Letter</a>
     button:
@@ -139,6 +139,7 @@ work:
       - Benchmarked SOTA radiance methods for synthetic scene involving Structural Color Object created in Blender.
       - Developed capture setup to capture highly reflective and shiny structural color paintings on metal substrates.
       - Improved the scene optimization using geometric prior and Anisotropy Regularizer in 3D Gaussian-Splatting method.
+      - Presented comprehensive experiments to demonstrate methods for simulating structural color objects before printing them using only captured images of laser-printed primaries.
       - Facilitated interactive visualization of view dependent structural colors of laser-printed images and paintings on metal substrates in web viewer.
       
   - position: Computer Vision Intern
@@ -203,11 +204,15 @@ skills:
         description: ''
         percent: ''
         icon: code-bracket
-      - name: 'OpenCV, Open3D, Scikit-Learn, SciPy'
+      - name: 'OpenCV, Open3D'
         description: ''
         percent: ''
         icon: code-bracket
-      - name: 'NumPy, Pandas'
+      - name: 'NumPy, Pandas, Scikit-Learn, SciPy'
+        description: ''
+        percent: ''
+        icon: code-bracket
+      - name: 'HuggingFace, LangChain'
         description: ''
         percent: ''
         icon: code-bracket
@@ -221,6 +226,10 @@ skills:
         description: ''
         percent: ''
         icon: devicon/git
+      - name: Conda
+        description: ''
+        percent: ''
+        icon: devicon/anaconda
       - name: Jupyter Notebook
         description: ''
         percent: ''
@@ -287,6 +296,14 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+
+  - title: Foundations of MR, XR, VR Development on Quest headsets with Meta’s Presence Platform and Unity
+    certificate_url: https://www.udemy.com/certificate/UC-97a4c8c9-5834-470c-8d61-cd109c0b9f50/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com
+    date: '2024-12-24'
+    awarder: Udemy
+    icon: 
+    summary: Build Your MR Game & Publish it on Meta's Horizon Store
+
   - title: How Diffusion Models Work
     certificate_url: https://learn.deeplearning.ai/accomplishments/04aeb87e-4d6b-4ced-8b50-ed616fba13ba?usp=sharing
     date: '2024-06-25'
@@ -430,5 +447,5 @@ awards:
 
 ## About Me
 
-Prakash Naikade is Computer Vision and Machine Learning Research Engineer. He is passionate about Machine Learning, especially Computer Vision & GenAI. He has hands on experience from academia and industry. His research interests are in Computer Vision, Computer Graphics, Deep/Machine Learning & Data Science, to solve the real world problems with impactful AI aided solutions.
-<br>In his free time, he likes to run, bike, hike, watch movies, and listen to music.
+Prakash Naikade is Computer Vision and Machine Learning Research Engineer. He is passionate about Machine Learning, especially Computer Vision & Generative AI. He has hands on experience from academia and industry. His research interests are in Computer Vision, Computer Graphics, LLMs, Human Computer Interaction, Deep/Machine Learning & Data Science, to solve real world problems with impactful AI aided solutions.  
+In his free time, he likes to run, bike, hike, watch movies, and listen to music.

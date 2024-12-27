@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: '💼 Experience'
 date: 2023-10-24
 type: landing
 
@@ -20,17 +20,17 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills
+      title: 🛠️ Skills
       username: admin
     design:
       show_skill_percentage: true
   - block: resume-languages
     content:
-      title: Languages
+      title: 🗣️ Languages
       username: admin
   - block: resume-awards
     id: section-certifications
     content:
-      title: Certifications
+      title: 🏅 Certifications
       username: admin
 ---
