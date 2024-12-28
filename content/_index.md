@@ -98,6 +98,6 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing:
-        padding: "0rem"
+        padding: ""
   
 ---
