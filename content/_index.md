@@ -68,8 +68,8 @@ sections:
     content:
       title: '💬 Ask Me Anything'
       subtitle: ''
-      text: |-
-        Click on the 👉 [**AMA**](https://huggingface.co/spaces/prakashknaikade/Ask-About-Me) to ask questions about me.
+      text:
+        Click on 👉 <a href="https://huggingface.co/spaces/prakashknaikade/Ask-About-Me" target="_blank">AMA</a> the to ask questions about me.
   - block: collection
     id: news
     content:
