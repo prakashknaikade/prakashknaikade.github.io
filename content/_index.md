@@ -63,21 +63,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: markdown
-    id: ama
-    content:
-      title: '💬 Ask Me Anything'
-      subtitle: ''
-      text:
-        Click on 👉 <a href="https://huggingface.co/spaces/prakashknaikade/Ask-About-Me" target="_blank">AMA</a> or type below to ask questions about me.
-
-        <iframe
-          src="https://prakashknaikade-ask-about-me.hf.space"
-          frameborder="0"
-          width="850"
-          height="450">
-        </iframe>
-
   - block: collection
     id: news
     content:
@@ -107,5 +92,19 @@ sections:
       # Reduce spacing
       spacing:
         padding: ""
+  - block: markdown
+    id: ama
+    content:
+      title: '💬 Ask Me Anything'
+      subtitle: ''
+      text:
+        Click on 👉 <a href="https://huggingface.co/spaces/prakashknaikade/Ask-About-Me" target="_blank">AMA</a> or type below to ask questions about me.
+
+        <iframe
+          src="https://prakashknaikade-ask-about-me.hf.space"
+          frameborder="0"
+          width="850"
+          height="450">
+        </iframe>
   
 ---
