@@ -98,7 +98,7 @@ sections:
       title: '💬 Ask Me Anything'
       subtitle: ''
       text:
-        Click on 👉 <a href="https://huggingface.co/spaces/prakashknaikade/Ask-About-Me" target="_blank">AMA</a> or type below to ask questions about me.
+        Want to Learn More About Me - Type your questions below or Click on 👉 <a href="https://huggingface.co/spaces/prakashknaikade/Ask-About-Me" target="_blank">AMA</a>.
 
         <iframe
           src="https://prakashknaikade-ask-about-me.hf.space"
