@@ -61,11 +61,10 @@ education:
     date_start: 2020-10-01
     date_end: 2024-08-16
     summary: |
-      Grade: 1.6/1.0
+      Grade: 1.6/5.0 (1.0 being the best possible score)
 
       Courses included:
-      - Computer Graphics, Image Processing & Computer Vision, Neural Networks: Theory & Implementation, High-Level Computer Vision, Statistics with R, Adversarial
-        Reinforcement Learning, Human Computer Interaction, Games & Interactive Media
+      - Computer Graphics, Image Processing & Computer Vision, Neural Networks: Theory & Implementation, High-Level Computer Vision, Statistics with R, Adversarial Reinforcement Learning, Human Computer Interaction, Games & Interactive Media
       - [Audited] Geometric Modeling, Machine Learning, AI, Ethics for Nerds
 
       Thesis: Novel View Synthesis of Structural Color Objects Created by Laser Markings. (1.3)
