@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game Development in Unity | Prakash Naikade</title>
-    <link>http://localhost:1313/tags/game-development-in-unity/</link>
-      <atom:link href="http://localhost:1313/tags/game-development-in-unity/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/game-development-in-unity/</link>
+      <atom:link href="https://example.com/tags/game-development-in-unity/index.xml" rel="self" type="application/rss+xml" />
     <description>Game Development in Unity</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
       <title>Game Development in Unity</title>
-      <link>http://localhost:1313/tags/game-development-in-unity/</link>
+      <link>https://example.com/tags/game-development-in-unity/</link>
     </image>
     
     <item>
       <title>Easy Flappy Bird</title>
-      <link>http://localhost:1313/project/easy-flappy-bird/</link>
+      <link>https://example.com/project/easy-flappy-bird/</link>
       <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/easy-flappy-bird/</guid>
+      <guid>https://example.com/project/easy-flappy-bird/</guid>
       <description>&lt;p&gt;This repo is simple implementation of Flappy Bird game using Unity and C# for learning purpose.&lt;/p&gt;</description>
     </item>
     

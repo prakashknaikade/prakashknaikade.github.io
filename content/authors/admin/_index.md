@@ -203,7 +203,7 @@ skills:
         description: ''
         percent: ''
         icon: code-bracket
-      - name: 'OpenCV, Open3D'
+      - name: 'Scikit-image, OpenCV, Open3D'
         description: ''
         percent: ''
         icon: code-bracket
@@ -246,7 +246,7 @@ skills:
         percent: ''
         icon: 'devicon/blender'
       - name: Metashape, COLMAP, Meshlab, 
-      - name: Docker, SLURM
+      - name: Docker, SLURM, HPC
         icon: 'devicon/docker'
       - name: LATEX, MS office 
         description: ''

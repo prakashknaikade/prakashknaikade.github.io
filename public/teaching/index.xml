@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching | Prakash Naikade</title>
-    <link>http://localhost:1313/teaching/</link>
-      <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/teaching/</link>
+      <atom:link href="https://example.com/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
       <title>Teaching</title>
-      <link>http://localhost:1313/teaching/</link>
+      <link>https://example.com/teaching/</link>
     </image>
     
     <item>
       <title>Research-Papers-I-Read</title>
-      <link>http://localhost:1313/teaching/papers-i-read/</link>
+      <link>https://example.com/teaching/papers-i-read/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/papers-i-read/</guid>
+      <guid>https://example.com/teaching/papers-i-read/</guid>
       <description>&lt;p&gt;&lt;strong&gt;1. Deep SDF: Learning Continuous Signed Distance Functions for Shape Rpresenation&lt;/strong&gt;
 &lt;br&gt;&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/DeepSDF-Paper.pdf&#34;&gt;Read Summary&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2. AI for Sports: Human Pose Estimation&lt;/strong&gt;
@@ -214,9 +214,9 @@ renders as
     
     <item>
       <title>Adversarial Reinforcement Learning</title>
-      <link>http://localhost:1313/teaching/adversarial-rl/</link>
+      <link>https://example.com/teaching/adversarial-rl/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/adversarial-rl/</guid>
+      <guid>https://example.com/teaching/adversarial-rl/</guid>
       <description>&lt;p&gt;Research papers covered in this post will showcase the landscape of attacks on RL agents and the optimal attack strategies, which is crucial for understanding security threats against the deployed systems. In particular, the research papers will cover optimal attack strategies for test-time, backdoor, and training-time (environment poisoning) attacks on RL agents. These research papers provides better perspective of important problems for developing robust and secure algorithms in sequential decision-making settings. This repo is result of &lt;a href=&#34;https://machineteaching.mpi-sws.org/course-adversarialrl-w21.html&#34;&gt;Course - Adversarial Reinforcement Learning&lt;/a&gt;, I followed at Saarland University.&lt;/p&gt;
 &lt;h2 id=&#34;list-of-research-papers-covered&#34;&gt;List of research papers covered&lt;/h2&gt;
 &lt;h3 id=&#34;test-time-attacks&#34;&gt;Test-time attacks&lt;/h3&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research-Papers-I-Read | Prakash Naikade</title>
-    <link>http://localhost:1313/tags/research-papers-i-read/</link>
-      <atom:link href="http://localhost:1313/tags/research-papers-i-read/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/research-papers-i-read/</link>
+      <atom:link href="https://example.com/tags/research-papers-i-read/index.xml" rel="self" type="application/rss+xml" />
     <description>Research-Papers-I-Read</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
       <title>Research-Papers-I-Read</title>
-      <link>http://localhost:1313/tags/research-papers-i-read/</link>
+      <link>https://example.com/tags/research-papers-i-read/</link>
     </image>
     
     <item>
       <title>Research-Papers-I-Read</title>
-      <link>http://localhost:1313/teaching/papers-i-read/</link>
+      <link>https://example.com/teaching/papers-i-read/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/papers-i-read/</guid>
+      <guid>https://example.com/teaching/papers-i-read/</guid>
       <description>&lt;p&gt;&lt;strong&gt;1. Deep SDF: Learning Continuous Signed Distance Functions for Shape Rpresenation&lt;/strong&gt;
 &lt;br&gt;&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/DeepSDF-Paper.pdf&#34;&gt;Read Summary&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2. AI for Sports: Human Pose Estimation&lt;/strong&gt;

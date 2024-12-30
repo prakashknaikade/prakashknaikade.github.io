@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Prakash Naikade</title>
-    <link>http://localhost:1313/post/</link>
-      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/post/</link>
+      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>http://localhost:1313/post/</link>
+      <link>https://example.com/post/</link>
     </image>
     
     <item>
       <title>🧠 Open to work</title>
-      <link>http://localhost:1313/post/job/</link>
+      <link>https://example.com/post/job/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/job/</guid>
+      <guid>https://example.com/post/job/</guid>
       <description>&lt;p&gt;I am a passionate AI researcher with extensive experience and interests in the expansive fields of Neural Rendering, Radiance Field Methods, Novel View Synthesis, Motion Capture, 3D-Reconstruction, and Digital Twins. My expertise also covers cutting-edge areas such as AR/VR, Generative AI, Large Language Models (LLMs), Human-Computer Interaction (HCI), and broadly within Computer Vision, Computer Graphics, Deep Learning, Machine Learning, and Data Science. I am driven to apply my skills to solve real-world problems with impactful, AI-aided solutions.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
 &lt;ul&gt;

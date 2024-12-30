@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diffusion Models | Prakash Naikade</title>
-    <link>http://localhost:1313/tags/diffusion-models/</link>
-      <atom:link href="http://localhost:1313/tags/diffusion-models/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/diffusion-models/</link>
+      <atom:link href="https://example.com/tags/diffusion-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Diffusion Models</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
       <title>Diffusion Models</title>
-      <link>http://localhost:1313/tags/diffusion-models/</link>
+      <link>https://example.com/tags/diffusion-models/</link>
     </image>
     
     <item>
       <title>Diffusion Models</title>
-      <link>http://localhost:1313/project/diffusion-models/</link>
+      <link>https://example.com/project/diffusion-models/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/diffusion-models/</guid>
+      <guid>https://example.com/project/diffusion-models/</guid>
       <description>&lt;p&gt;This repo is a basic implementation of Diffusion Model to understand how diffusion works. This is the outcome of project course &lt;a href=&#34;https://www.coursera.org/projects/how-diffusion-models-work-project&#34;&gt;How Diffusion Models&lt;/a&gt; Work that I completed.&lt;/p&gt;</description>
     </item>
     
