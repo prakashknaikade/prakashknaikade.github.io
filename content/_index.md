@@ -100,11 +100,16 @@ sections:
       text:
         Want to Learn More About Me - Type your questions below or Click on 👉 <a href="https://huggingface.co/spaces/prakashknaikade/Ask-About-Me" target="_blank">AMA</a>.
 
-        <iframe
-          src="https://prakashknaikade-ask-about-me.hf.space"
-          frameborder="0"
-          width="850"
-          height="450">
-        </iframe>
-  
+        <script
+        type="module"
+        src="https://gradio.s3-us-west-2.amazonaws.com/5.0.1/gradio.js">
+        </script>
+
+        <gradio-app 
+        src="https://prakashknaikade-ask-about-me.hf.space" 
+        initial_height = "500px"
+        info = "false"
+        eager="false"> 
+        </gradio-app>
+
 ---
