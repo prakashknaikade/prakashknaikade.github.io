@@ -15,12 +15,12 @@
 <div class="bg-gray-800 text-white rounded-lg p-1 shadow hover:shadow-md transition max-w-5xl mx-auto mb-1">
 
   <!-- Use flex-row on md screens: image on left, text on right; add space-x-6 for extra gap -->
-  <div class="flex flex-col md:flex-row md:items-start md:space-x-6">
+  <div class="flex flex-col md:flex-row">
     
     <!-- (A) Smaller featured image (~1/4 width on md+) -->
     {{ $resource := partial "functions/get_featured_image.html" $doc }}
     {{ if $resource }}
-      <div class="md:w-1/4 w-1/2 mb-1 md:mb-0">
+      <div class="md:w-1/4 w-1/2 mb-0 md:mb-0">
         <!-- Change the Fit dimension to your preferred size, e.g. "200x150 Center", "300x200", etc. -->
         {{ $image := $resource.Fit "600x500 Center" }}
         {{ if ne $image.MediaType.SubType "gif" }}
@@ -37,7 +37,7 @@
     {{ end }}
 
     <!-- (B) Text side (~3/4 width on md+) -->
-    <div class="md:w-3/4 w-full">
+    <div class="md:w-3/4 w-full px-3">
 
       <!-- Citation line: e.g. "Prakash Naikade (2024). Novel View Synthesis ... (MASTER THESIS)." -->
       <div class="mb-1 text-base leading-snug">

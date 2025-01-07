@@ -192,7 +192,11 @@ skills:
         description: ''
         percent: ''
         icon: code-bracket
-      - name: 'NumPy, Pandas, Scikit-Learn, SciPy'
+      - name: 'NumPy, Pandas'
+        description: ''
+        percent: ''
+        icon: code-bracket
+      - name: 'Scikit-learn, SciPy'
         description: ''
         percent: ''
         icon: code-bracket
@@ -218,10 +222,6 @@ skills:
         description: ''
         percent: ''
         icon: devicon/jupyter
-      - name: Azure DevOps 
-        description: ''
-        percent: ''
-        icon: devicon/azuredevops
       - name: Unity 3D
         description: ''
         percent: ''
@@ -231,8 +231,12 @@ skills:
         percent: ''
         icon: 'devicon/blender'
       - name: Metashape, COLMAP, Meshlab, 
-      - name: Docker, SLURM, HPC
+      - name: Docker, HPC, SLURM
         icon: 'devicon/docker'
+      - name: Azure DevOps 
+        description: ''
+        percent: ''
+        icon: devicon/azuredevops
       - name: LATEX, MS office 
         description: ''
         percent: 

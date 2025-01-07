@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ML/DL | Prakash Naikade</title>
-    <link>https://example.com/tags/ml/dl/</link>
-      <atom:link href="https://example.com/tags/ml/dl/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/ml/dl/</link>
+      <atom:link href="http://localhost:1313/tags/ml/dl/index.xml" rel="self" type="application/rss+xml" />
     <description>ML/DL</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
       <title>ML/DL</title>
-      <link>https://example.com/tags/ml/dl/</link>
+      <link>http://localhost:1313/tags/ml/dl/</link>
     </image>
     
     <item>
       <title>Diffusion Models</title>
-      <link>https://example.com/project/diffusion-models/</link>
+      <link>http://localhost:1313/project/diffusion-models/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/diffusion-models/</guid>
+      <guid>http://localhost:1313/project/diffusion-models/</guid>
       <description>&lt;p&gt;This repo is a basic implementation of Diffusion Model to understand how diffusion works. This is the outcome of project course &lt;a href=&#34;https://www.coursera.org/projects/how-diffusion-models-work-project&#34;&gt;How Diffusion Models&lt;/a&gt; Work that I completed.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Learn-LLMs</title>
-      <link>https://example.com/project/llms/</link>
+      <link>http://localhost:1313/project/llms/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/llms/</guid>
+      <guid>http://localhost:1313/project/llms/</guid>
       <description>&lt;p&gt;This Project is result of getting a hands-on experience of using different LLM models and tools. I am going to use a lot of tools and practice with small projects that will grow as I apply the new knowledge acquired. This repo is going to be a basic implementation of different LLMs to understand the finetuning, data preparation, evaluation &amp;amp; other techniques related to/of LLMs.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Object Detection</title>
-      <link>https://example.com/project/object-detection/</link>
+      <link>http://localhost:1313/project/object-detection/</link>
       <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/object-detection/</guid>
+      <guid>http://localhost:1313/project/object-detection/</guid>
       <description>&lt;p&gt;In this notebook we will go over on how to train a object detection model on custom dataset using TensorFlow Object Detection API 2. For this purpose I used Oxford Pets dataset. We will monitor model training using TensorBoard.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Covid19 Detection</title>
-      <link>https://example.com/project/covid19_detection/</link>
+      <link>http://localhost:1313/project/covid19_detection/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/covid19_detection/</guid>
+      <guid>http://localhost:1313/project/covid19_detection/</guid>
       <description>&lt;p&gt;This project is aimed at covid19 detection using pretrained ResNet50 model.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Chatbot - Villa Nennig</title>
-      <link>https://example.com/project/chatbot/</link>
+      <link>http://localhost:1313/project/chatbot/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/chatbot/</guid>
+      <guid>http://localhost:1313/project/chatbot/</guid>
       <description>&lt;p&gt;This chatbot helps the user throughout their journey of visiting a museum of the Roman Villa Nennig! We developed this chatbot using Google Cloud, Dialogflow Essentials and Telegram.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Ludwig-Palette: an AR painting game</title>
-      <link>https://example.com/project/ludwig-palette/</link>
+      <link>http://localhost:1313/project/ludwig-palette/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/ludwig-palette/</guid>
+      <guid>http://localhost:1313/project/ludwig-palette/</guid>
       <description>&lt;p&gt;Objective of game is to help visitors of the Ludwig church, a historical church in Saarbrücken, explore the environment of the church in an entertaining way, we have created an AR-enabled painting app to be played inside the church. Players of this game need to walk to the different areas of the church while painting the surfaces. The app is developed using Unity and Vuforia engine.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Image Segmentation</title>
-      <link>https://example.com/project/image-segmentation/</link>
+      <link>http://localhost:1313/project/image-segmentation/</link>
       <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/image-segmentation/</guid>
+      <guid>http://localhost:1313/project/image-segmentation/</guid>
       <description>&lt;p&gt;This computer vision project is the pytorch implementations of UNet architecture for image segmenation on psacalVOC dataset to understand how CNNs are utilized for segmentation task.&lt;/p&gt;</description>
     </item>
     

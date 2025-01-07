@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LLMs | Prakash Naikade</title>
-    <link>https://example.com/tags/llms/</link>
-      <atom:link href="https://example.com/tags/llms/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/llms/</link>
+      <atom:link href="http://localhost:1313/tags/llms/index.xml" rel="self" type="application/rss+xml" />
     <description>LLMs</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
       <title>LLMs</title>
-      <link>https://example.com/tags/llms/</link>
+      <link>http://localhost:1313/tags/llms/</link>
     </image>
     
     <item>
       <title>Learn-LLMs</title>
-      <link>https://example.com/project/llms/</link>
+      <link>http://localhost:1313/project/llms/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/llms/</guid>
+      <guid>http://localhost:1313/project/llms/</guid>
       <description>&lt;p&gt;This Project is result of getting a hands-on experience of using different LLM models and tools. I am going to use a lot of tools and practice with small projects that will grow as I apply the new knowledge acquired. This repo is going to be a basic implementation of different LLMs to understand the finetuning, data preparation, evaluation &amp;amp; other techniques related to/of LLMs.&lt;/p&gt;</description>
     </item>
     

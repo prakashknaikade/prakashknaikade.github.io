@@ -3,7 +3,7 @@
 <!-- Last Published: January 7, 2025 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="dark">
   
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -44,7 +44,7 @@
   <meta name="description" content="" />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://example.com/experience/" />
+  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/experience/" />
 
   
   
@@ -130,45 +130,6 @@
 
 
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QNP63QCJT3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'G-QNP63QCJT3', {});
-  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
-
 
 
 
@@ -200,7 +161,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://example.com/experience/" />
+  <link rel="canonical" href="http://localhost:1313/experience/" />
 
   
   
@@ -226,10 +187,10 @@
     <meta property="twitter:creator" content="@VR_iPrakash" />
   
   <meta property="og:site_name" content="Prakash Naikade" />
-  <meta property="og:url" content="https://example.com/experience/" />
+  <meta property="og:url" content="http://localhost:1313/experience/" />
   <meta property="og:title" content="💼 Experience | Prakash Naikade" />
-  <meta property="og:description" content="" /><meta property="og:image" content="https://example.com/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://example.com/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="" /><meta property="og:image" content="http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -760,8 +721,8 @@
   
   <script
     defer
-    src="/js/hugo-blox-en.min.e5fa931947cac2d947732ea37a770aae2b5bd4a50b6048060cd129b46159a06d.js"
-    integrity="sha256-5fqTGUfKwtlHcy6jencKritb1KULYEgGDNEptGFZoG0="
+    src="/js/hugo-blox-en.min.js"
+    integrity=""
   ></script>
 
   
@@ -1582,7 +1543,7 @@
   
 </div>
 
-<div class="flex flex-col lg:flex-row items-start max-w-prose mx-auto gap-3 px-6 md:px-0 justify-center">
+<div class="flex flex-col lg:flex-row items-start max-w-prose mx-auto gap-3 px-1 md:px-0 justify-center">
 
   
   
@@ -1735,7 +1696,28 @@
       
 
       <span class="skills-name text-gray-700 dark:text-gray-300">
-        NumPy, Pandas, Scikit-Learn, SciPy
+        NumPy, Pandas
+        
+      </span>
+      
+    </div>
+    
+    
+    
+    
+    
+    
+
+    <div class="skills-content">
+
+      
+      <span class="skills-icon inline-block">
+        <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5"/></svg>
+      </span>
+      
+
+      <span class="skills-name text-gray-700 dark:text-gray-300">
+        Scikit-learn, SciPy
         
       </span>
       
@@ -1866,27 +1848,6 @@
 
       
       <span class="skills-icon inline-block">
-        <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs><linearGradient id="deviconAzuredevops0" x1="9" x2="9" y1="16.97" y2="1.03" gradientTransform="scale(7.11111)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"/><stop offset=".16" stop-color="#1380da"/><stop offset=".53" stop-color="#3c91e5"/><stop offset=".82" stop-color="#559cec"/><stop offset="1" stop-color="#5ea0ef"/></linearGradient></defs><path fill="url(#deviconAzuredevops0)" d="M120.89 28.445v69.262l-28.445 23.324l-44.09-16.07v15.93L23.395 88.25l72.746 5.688V31.574ZM96.64 31.93L55.82 7.11v16.285L18.348 34.418L7.109 48.852v32.785l16.075 7.11V46.718Zm0 0"/></svg>
-      </span>
-      
-
-      <span class="skills-name text-gray-700 dark:text-gray-300">
-        Azure DevOps
-        
-      </span>
-      
-    </div>
-    
-    
-    
-    
-    
-    
-
-    <div class="skills-content">
-
-      
-      <span class="skills-icon inline-block">
         <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path d="m63.991 128l51.702-29.855l-19.817-11.461l-20.26 11.704a1.151 1.151 0 0 1-1.125-.009a1.145 1.145 0 0 1-.568-.975V69.608c0-.819.424-1.56 1.133-1.968L99.13 53.737a1.119 1.119 0 0 1 1.124.009c.352.195.572.564.576.966V78.11l19.83 11.454V29.855L63.99 62.566Zm0 0"/><path fill="#4d4d4d" d="m52.397 98.401l-20.27-11.718l-19.832 11.46L63.991 128V62.566L7.34 29.854V89.56l19.825-11.45V54.714c.009-.401.225-.77.572-.966a1.13 1.13 0 0 1 1.13-.009L52.953 67.64a2.275 2.275 0 0 1 1.133 1.97v27.8a1.156 1.156 0 0 1-.565.98a1.131 1.131 0 0 1-1.124.012"/><path fill="gray" d="M68.959 0v22.9L89.22 34.597c.348.203.555.576.555.984c0 .403-.212.772-.555.975L65.137 50.468a2.302 2.302 0 0 1-2.27 0L38.791 36.556a1.122 1.122 0 0 1-.56-.975a1.127 1.127 0 0 1 .56-.984L59.048 22.9V0L7.339 29.855l56.652 32.711l56.665-32.71Zm0 0"/></svg>
       </span>
       
@@ -1951,7 +1912,28 @@
       
 
       <span class="skills-name text-gray-700 dark:text-gray-300">
-        Docker, SLURM, HPC
+        Docker, HPC, SLURM
+        
+      </span>
+      
+    </div>
+    
+    
+    
+    
+    
+    
+
+    <div class="skills-content">
+
+      
+      <span class="skills-icon inline-block">
+        <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs><linearGradient id="deviconAzuredevops0" x1="9" x2="9" y1="16.97" y2="1.03" gradientTransform="scale(7.11111)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"/><stop offset=".16" stop-color="#1380da"/><stop offset=".53" stop-color="#3c91e5"/><stop offset=".82" stop-color="#559cec"/><stop offset="1" stop-color="#5ea0ef"/></linearGradient></defs><path fill="url(#deviconAzuredevops0)" d="M120.89 28.445v69.262l-28.445 23.324l-44.09-16.07v15.93L23.395 88.25l72.746 5.688V31.574ZM96.64 31.93L55.82 7.11v16.285L18.348 34.418L7.109 48.852v32.785l16.075 7.11V46.718Zm0 0"/></svg>
+      </span>
+      
+
+      <span class="skills-name text-gray-700 dark:text-gray-300">
+        Azure DevOps
         
       </span>
       

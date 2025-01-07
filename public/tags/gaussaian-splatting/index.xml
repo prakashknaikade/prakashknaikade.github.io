@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gaussaian Splatting | Prakash Naikade</title>
-    <link>https://example.com/tags/gaussaian-splatting/</link>
-      <atom:link href="https://example.com/tags/gaussaian-splatting/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/gaussaian-splatting/</link>
+      <atom:link href="http://localhost:1313/tags/gaussaian-splatting/index.xml" rel="self" type="application/rss+xml" />
     <description>Gaussaian Splatting</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
       <title>Gaussaian Splatting</title>
-      <link>https://example.com/tags/gaussaian-splatting/</link>
+      <link>http://localhost:1313/tags/gaussaian-splatting/</link>
     </image>
     
     <item>
       <title>Novel View Synthesis of Structural Color Objects Created by Laser Markings</title>
-      <link>https://example.com/publications/nvs_structural_color_object/</link>
+      <link>http://localhost:1313/publications/nvs_structural_color_object/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/nvs_structural_color_object/</guid>
+      <guid>http://localhost:1313/publications/nvs_structural_color_object/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p style=&#34;font-size: 1.1rem;text-align: justify;&#34;&gt;
 Transforming physical object into its high quality 3D digital twin using novel view synthesis is crucial for researchers in the domain of automatic laser marking of any color image on different metal substrates. Current Radiance Field methods have significantly advanced novel view synthesis of scenes captured with multiple photos or videos. But, they struggle to represent the scene with shiny objects. Moreover, multi view reconstruction of reflective objects with structural colors is extremely challenging because specular reflections are view-dependent and thus violate the multiviewconsistency, which is the cornerstone for most multiview reconstruction methods. However, there is a general lack of synthetic datasets for objects with structural colors and a literature review on state-of-the-art (SOTA) novel view synthesis methods for this kind of materials. Addressing these issues, we introduce a novel synthetic dataset that is used to conduct quantitative and qualitative analysis on a SOTA novel view synthesis methods. We demonstrate different techniques to improve the scene representation of laser printed planar structural color objects, focusing on the 3D Gaussian Splatting (3D-GS) method, which performs exceptionally well on our synthetic dataset. Our techniques, such as using geometric prior of planar structural color objects while initializing scene with sparse structure-from-motion (SfM) point cloud and the Anisotropy Regularizer, significantly improves the visual quality of view synthesis. We design different capture setups to acquire images of objects and evaluate the visual quality of the scene with different capture setups. Additionally, we present comprehensive experimentation to demonstrate methods to simulate structural color objects using just captured images of laser-printed primaries. This comprehensive research aims to contribute to the advancement of novel view synthesis methods for scenes involving reflective objects with structural colors.
@@ -157,7 +157,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 &lt;/figure&gt;
 &lt;ul&gt;
 &lt;li&gt;Renders of optimized &lt;em&gt;StructColorToaster&lt;/em&gt; Scene using 3D-GS:
-&lt;figure&gt;&lt;img src=&#34;https://example.com/publications/nvs_structural_color_object/3DGS_Toaster.jpeg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/publications/nvs_structural_color_object/3DGS_Toaster.jpeg&#34;
     alt=&#34;Figure 1: The renderings show that 3D-GS able to capture the crisp shininess appearance of the surface. However, it does improve in learning specular reflections with increasing iterations, it is still not up to the mark and suffures from  holes and aliasing effect aka popping artifacts.&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Figure 1: The renderings show that 3D-GS able to capture the crisp shininess appearance of the surface. However, it does improve in learning specular reflections with increasing iterations, it is still not up to the mark and suffures from  holes and aliasing effect aka popping artifacts.&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -459,7 +459,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 
 
 &lt;video controls  &gt;
-  &lt;source src=&#34;https://example.com/publications/nvs_structural_color_object/man_16_891_imgs.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/man_16_891_imgs.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;/p&gt;
 &lt;/li&gt;
@@ -483,7 +483,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 
 
 &lt;video controls  &gt;
-  &lt;source src=&#34;https://example.com/publications/nvs_structural_color_object/taylor_simulation_2.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/taylor_simulation_2.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;/p&gt;
 &lt;/li&gt;
@@ -493,7 +493,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 &lt;ul&gt;
 &lt;li&gt;Simulating Structural Color Object (Pseudo) before Laser Printing:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure&gt;&lt;img src=&#34;https://example.com/publications/nvs_structural_color_object/pipeline_gsplat.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/publications/nvs_structural_color_object/pipeline_gsplat.jpg&#34;
     alt=&#34;Figure 2: Pipeline of Synthesizing Arbitrary Images of Structural Color Object for Arbitrary Viewing Directions.&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Figure 2: Pipeline of Synthesizing Arbitrary Images of Structural Color Object for Arbitrary Viewing Directions.&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -522,7 +522,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
   
   
   &lt;video controls  &gt;
-    &lt;source src=&#34;https://example.com/publications/nvs_structural_color_object/taylor_swift_synth_views_gsplat_compare_%20720p.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/taylor_swift_synth_views_gsplat_compare_%20720p.mp4&#34; type=&#34;video/mp4&#34;&gt;
   &lt;/video&gt;
 &lt;/p&gt;
 &lt;/li&gt;
@@ -546,7 +546,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
   
   
   &lt;video controls  &gt;
-    &lt;source src=&#34;https://example.com/publications/nvs_structural_color_object/taylor_synth_perspective_simulation.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/taylor_synth_perspective_simulation.mp4&#34; type=&#34;video/mp4&#34;&gt;
   &lt;/video&gt;
 &lt;/p&gt;
 &lt;/li&gt;
@@ -577,7 +577,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
   
   
   &lt;video controls  &gt;
-    &lt;source src=&#34;https://example.com/publications/nvs_structural_color_object/cat_synth_views.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/cat_synth_views.mp4&#34; type=&#34;video/mp4&#34;&gt;
   &lt;/video&gt;
 &lt;/p&gt;
 &lt;/li&gt;
@@ -601,7 +601,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
   
   
   &lt;video controls  &gt;
-    &lt;source src=&#34;https://example.com/publications/nvs_structural_color_object/cat_synth_perspective_simulation.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/cat_synth_perspective_simulation.mp4&#34; type=&#34;video/mp4&#34;&gt;
   &lt;/video&gt;
 &lt;/p&gt;
 &lt;/li&gt;

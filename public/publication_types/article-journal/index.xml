@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article-Journal | Prakash Naikade</title>
-    <link>https://example.com/publication_types/article-journal/</link>
-      <atom:link href="https://example.com/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/article-journal/</link>
+      <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
       <title>Article-Journal</title>
-      <link>https://example.com/publication_types/article-journal/</link>
+      <link>http://localhost:1313/publication_types/article-journal/</link>
     </image>
     
     <item>
       <title>Secure Data Storage on Multi-Cloud Using DNA Based Cryptography</title>
-      <link>https://example.com/publications/dna_based_cryptography/</link>
+      <link>http://localhost:1313/publications/dna_based_cryptography/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/dna_based_cryptography/</guid>
+      <guid>http://localhost:1313/publications/dna_based_cryptography/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prakash Naikade</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Prakash Naikade</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
       <title>Prakash Naikade</title>
-      <link>https://example.com/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>🧠 Open to work</title>
-      <link>https://example.com/post/job/</link>
+      <link>http://localhost:1313/post/job/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/job/</guid>
+      <guid>http://localhost:1313/post/job/</guid>
       <description>&lt;p&gt;I am a passionate AI researcher with extensive experience and interests in the expansive fields of Neural Rendering, Radiance Field Methods, Novel View Synthesis, Motion Capture, 3D-Reconstruction, and Digital Twins. My expertise also covers cutting-edge areas such as AR/VR, Generative AI, Large Language Models (LLMs), Human-Computer Interaction (HCI), and broadly within Computer Vision, Computer Graphics, Deep Learning, Machine Learning, and Data Science. I am driven to apply my skills to solve real-world problems with impactful, AI-aided solutions.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
 &lt;ul&gt;
@@ -50,9 +50,9 @@
     
     <item>
       <title>Novel View Synthesis of Structural Color Objects Created by Laser Markings</title>
-      <link>https://example.com/publications/nvs_structural_color_object/</link>
+      <link>http://localhost:1313/publications/nvs_structural_color_object/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/nvs_structural_color_object/</guid>
+      <guid>http://localhost:1313/publications/nvs_structural_color_object/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p style=&#34;font-size: 1.1rem;text-align: justify;&#34;&gt;
 Transforming physical object into its high quality 3D digital twin using novel view synthesis is crucial for researchers in the domain of automatic laser marking of any color image on different metal substrates. Current Radiance Field methods have significantly advanced novel view synthesis of scenes captured with multiple photos or videos. But, they struggle to represent the scene with shiny objects. Moreover, multi view reconstruction of reflective objects with structural colors is extremely challenging because specular reflections are view-dependent and thus violate the multiviewconsistency, which is the cornerstone for most multiview reconstruction methods. However, there is a general lack of synthetic datasets for objects with structural colors and a literature review on state-of-the-art (SOTA) novel view synthesis methods for this kind of materials. Addressing these issues, we introduce a novel synthetic dataset that is used to conduct quantitative and qualitative analysis on a SOTA novel view synthesis methods. We demonstrate different techniques to improve the scene representation of laser printed planar structural color objects, focusing on the 3D Gaussian Splatting (3D-GS) method, which performs exceptionally well on our synthetic dataset. Our techniques, such as using geometric prior of planar structural color objects while initializing scene with sparse structure-from-motion (SfM) point cloud and the Anisotropy Regularizer, significantly improves the visual quality of view synthesis. We design different capture setups to acquire images of objects and evaluate the visual quality of the scene with different capture setups. Additionally, we present comprehensive experimentation to demonstrate methods to simulate structural color objects using just captured images of laser-printed primaries. This comprehensive research aims to contribute to the advancement of novel view synthesis methods for scenes involving reflective objects with structural colors.
@@ -193,7 +193,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 &lt;/figure&gt;
 &lt;ul&gt;
 &lt;li&gt;Renders of optimized &lt;em&gt;StructColorToaster&lt;/em&gt; Scene using 3D-GS:
-&lt;figure&gt;&lt;img src=&#34;https://example.com/publications/nvs_structural_color_object/3DGS_Toaster.jpeg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/publications/nvs_structural_color_object/3DGS_Toaster.jpeg&#34;
     alt=&#34;Figure 1: The renderings show that 3D-GS able to capture the crisp shininess appearance of the surface. However, it does improve in learning specular reflections with increasing iterations, it is still not up to the mark and suffures from  holes and aliasing effect aka popping artifacts.&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Figure 1: The renderings show that 3D-GS able to capture the crisp shininess appearance of the surface. However, it does improve in learning specular reflections with increasing iterations, it is still not up to the mark and suffures from  holes and aliasing effect aka popping artifacts.&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -495,7 +495,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 
 
 &lt;video controls  &gt;
-  &lt;source src=&#34;https://example.com/publications/nvs_structural_color_object/man_16_891_imgs.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/man_16_891_imgs.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;/p&gt;
 &lt;/li&gt;
@@ -519,7 +519,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 
 
 &lt;video controls  &gt;
-  &lt;source src=&#34;https://example.com/publications/nvs_structural_color_object/taylor_simulation_2.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/taylor_simulation_2.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;/p&gt;
 &lt;/li&gt;
@@ -529,7 +529,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 &lt;ul&gt;
 &lt;li&gt;Simulating Structural Color Object (Pseudo) before Laser Printing:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure&gt;&lt;img src=&#34;https://example.com/publications/nvs_structural_color_object/pipeline_gsplat.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/publications/nvs_structural_color_object/pipeline_gsplat.jpg&#34;
     alt=&#34;Figure 2: Pipeline of Synthesizing Arbitrary Images of Structural Color Object for Arbitrary Viewing Directions.&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Figure 2: Pipeline of Synthesizing Arbitrary Images of Structural Color Object for Arbitrary Viewing Directions.&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -558,7 +558,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
   
   
   &lt;video controls  &gt;
-    &lt;source src=&#34;https://example.com/publications/nvs_structural_color_object/taylor_swift_synth_views_gsplat_compare_%20720p.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/taylor_swift_synth_views_gsplat_compare_%20720p.mp4&#34; type=&#34;video/mp4&#34;&gt;
   &lt;/video&gt;
 &lt;/p&gt;
 &lt;/li&gt;
@@ -582,7 +582,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
   
   
   &lt;video controls  &gt;
-    &lt;source src=&#34;https://example.com/publications/nvs_structural_color_object/taylor_synth_perspective_simulation.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/taylor_synth_perspective_simulation.mp4&#34; type=&#34;video/mp4&#34;&gt;
   &lt;/video&gt;
 &lt;/p&gt;
 &lt;/li&gt;
@@ -613,7 +613,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
   
   
   &lt;video controls  &gt;
-    &lt;source src=&#34;https://example.com/publications/nvs_structural_color_object/cat_synth_views.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/cat_synth_views.mp4&#34; type=&#34;video/mp4&#34;&gt;
   &lt;/video&gt;
 &lt;/p&gt;
 &lt;/li&gt;
@@ -637,7 +637,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
   
   
   &lt;video controls  &gt;
-    &lt;source src=&#34;https://example.com/publications/nvs_structural_color_object/cat_synth_perspective_simulation.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/cat_synth_perspective_simulation.mp4&#34; type=&#34;video/mp4&#34;&gt;
   &lt;/video&gt;
 &lt;/p&gt;
 &lt;/li&gt;
@@ -666,17 +666,17 @@ The webviewer is implemented with help of &lt;a href=&#34;https://github.com/hug
     
     <item>
       <title>Diffusion Models</title>
-      <link>https://example.com/project/diffusion-models/</link>
+      <link>http://localhost:1313/project/diffusion-models/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/diffusion-models/</guid>
+      <guid>http://localhost:1313/project/diffusion-models/</guid>
       <description>&lt;p&gt;This repo is a basic implementation of Diffusion Model to understand how diffusion works. This is the outcome of project course &lt;a href=&#34;https://www.coursera.org/projects/how-diffusion-models-work-project&#34;&gt;How Diffusion Models&lt;/a&gt; Work that I completed.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Research-Papers-I-Read</title>
-      <link>https://example.com/teaching/papers-i-read/</link>
+      <link>http://localhost:1313/teaching/papers-i-read/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/papers-i-read/</guid>
+      <guid>http://localhost:1313/teaching/papers-i-read/</guid>
       <description>&lt;p&gt;&lt;strong&gt;1. Deep SDF: Learning Continuous Signed Distance Functions for Shape Rpresenation&lt;/strong&gt;
 &lt;br&gt;&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/DeepSDF-Paper.pdf&#34;&gt;Read Summary&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2. AI for Sports: Human Pose Estimation&lt;/strong&gt;
@@ -874,49 +874,49 @@ renders as
     
     <item>
       <title>Learn-LLMs</title>
-      <link>https://example.com/project/llms/</link>
+      <link>http://localhost:1313/project/llms/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/llms/</guid>
+      <guid>http://localhost:1313/project/llms/</guid>
       <description>&lt;p&gt;This Project is result of getting a hands-on experience of using different LLM models and tools. I am going to use a lot of tools and practice with small projects that will grow as I apply the new knowledge acquired. This repo is going to be a basic implementation of different LLMs to understand the finetuning, data preparation, evaluation &amp;amp; other techniques related to/of LLMs.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>💼 Experience</title>
-      <link>https://example.com/experience/</link>
+      <link>http://localhost:1313/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/experience/</guid>
+      <guid>http://localhost:1313/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human Action Recognition (HAR)</title>
-      <link>https://example.com/project/har/</link>
+      <link>http://localhost:1313/project/har/</link>
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/har/</guid>
+      <guid>http://localhost:1313/project/har/</guid>
       <description>&lt;p&gt;Investigating the performance of different deep learning models and their ensembles used for HAR in still images.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Mini-RayTracer</title>
-      <link>https://example.com/project/mini-ray-tracer/</link>
+      <link>http://localhost:1313/project/mini-ray-tracer/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/mini-ray-tracer/</guid>
+      <guid>http://localhost:1313/project/mini-ray-tracer/</guid>
       <description>&lt;p&gt;Developing simple ray tracing engine in C++.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://example.com/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/</guid>
+      <guid>http://localhost:1313/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adversarial Reinforcement Learning</title>
-      <link>https://example.com/teaching/adversarial-rl/</link>
+      <link>http://localhost:1313/teaching/adversarial-rl/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/adversarial-rl/</guid>
+      <guid>http://localhost:1313/teaching/adversarial-rl/</guid>
       <description>&lt;p&gt;Research papers covered in this post will showcase the landscape of attacks on RL agents and the optimal attack strategies, which is crucial for understanding security threats against the deployed systems. In particular, the research papers will cover optimal attack strategies for test-time, backdoor, and training-time (environment poisoning) attacks on RL agents. These research papers provides better perspective of important problems for developing robust and secure algorithms in sequential decision-making settings. This repo is result of &lt;a href=&#34;https://machineteaching.mpi-sws.org/course-adversarialrl-w21.html&#34;&gt;Course - Adversarial Reinforcement Learning&lt;/a&gt;, I followed at Saarland University.&lt;/p&gt;
 &lt;h2 id=&#34;list-of-research-papers-covered&#34;&gt;List of research papers covered&lt;/h2&gt;
 &lt;h3 id=&#34;test-time-attacks&#34;&gt;Test-time attacks&lt;/h3&gt;
@@ -967,65 +967,65 @@ by K. Banihashem, A. Singla, and G. Radanovic, at arXiv preprint 2021.&lt;/p&gt;
     
     <item>
       <title>Object Detection</title>
-      <link>https://example.com/project/object-detection/</link>
+      <link>http://localhost:1313/project/object-detection/</link>
       <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/object-detection/</guid>
+      <guid>http://localhost:1313/project/object-detection/</guid>
       <description>&lt;p&gt;In this notebook we will go over on how to train a object detection model on custom dataset using TensorFlow Object Detection API 2. For this purpose I used Oxford Pets dataset. We will monitor model training using TensorBoard.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Easy Flappy Bird</title>
-      <link>https://example.com/project/easy-flappy-bird/</link>
+      <link>http://localhost:1313/project/easy-flappy-bird/</link>
       <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/easy-flappy-bird/</guid>
+      <guid>http://localhost:1313/project/easy-flappy-bird/</guid>
       <description>&lt;p&gt;This repo is simple implementation of Flappy Bird game using Unity and C# for learning purpose.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Covid19 Detection</title>
-      <link>https://example.com/project/covid19_detection/</link>
+      <link>http://localhost:1313/project/covid19_detection/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/covid19_detection/</guid>
+      <guid>http://localhost:1313/project/covid19_detection/</guid>
       <description>&lt;p&gt;This project is aimed at covid19 detection using pretrained ResNet50 model.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Synthetic Dataset Creation</title>
-      <link>https://example.com/project/synthetic-dataset/</link>
+      <link>http://localhost:1313/project/synthetic-dataset/</link>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/synthetic-dataset/</guid>
+      <guid>http://localhost:1313/project/synthetic-dataset/</guid>
       <description>&lt;p&gt;This repo is simple demo of synthetic data creation using Blender and Python.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Chatbot - Villa Nennig</title>
-      <link>https://example.com/project/chatbot/</link>
+      <link>http://localhost:1313/project/chatbot/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/chatbot/</guid>
+      <guid>http://localhost:1313/project/chatbot/</guid>
       <description>&lt;p&gt;This chatbot helps the user throughout their journey of visiting a museum of the Roman Villa Nennig! We developed this chatbot using Google Cloud, Dialogflow Essentials and Telegram.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Ludwig-Palette: an AR painting game</title>
-      <link>https://example.com/project/ludwig-palette/</link>
+      <link>http://localhost:1313/project/ludwig-palette/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/ludwig-palette/</guid>
+      <guid>http://localhost:1313/project/ludwig-palette/</guid>
       <description>&lt;p&gt;Objective of game is to help visitors of the Ludwig church, a historical church in Saarbrücken, explore the environment of the church in an entertaining way, we have created an AR-enabled painting app to be played inside the church. Players of this game need to walk to the different areas of the church while painting the surfaces. The app is developed using Unity and Vuforia engine.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Image Segmentation</title>
-      <link>https://example.com/project/image-segmentation/</link>
+      <link>http://localhost:1313/project/image-segmentation/</link>
       <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/image-segmentation/</guid>
+      <guid>http://localhost:1313/project/image-segmentation/</guid>
       <description>&lt;p&gt;This computer vision project is the pytorch implementations of UNet architecture for image segmenation on psacalVOC dataset to understand how CNNs are utilized for segmentation task.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Secure Data Storage on Multi-Cloud Using DNA Based Cryptography</title>
-      <link>https://example.com/publications/dna_based_cryptography/</link>
+      <link>http://localhost:1313/publications/dna_based_cryptography/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/dna_based_cryptography/</guid>
+      <guid>http://localhost:1313/publications/dna_based_cryptography/</guid>
       <description></description>
     </item>
     
