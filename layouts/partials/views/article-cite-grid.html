@@ -1,0 +1,78 @@
+{{ $doc := .item }}
+
+<!-- 1) Link / icon logic from "list.html" -->
+{{ $icon_pack := "far" }}
+{{ $icon := "fa-file-alt" }}
+{{ $link := $doc.RelPermalink }}
+{{ $target := "" }}
+
+{{ if $doc.Params.external_link }}
+  {{ $link = $doc.Params.external_link }}
+  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+{{ end }}
+
+<!-- 2) Compact card container with moderate padding & a narrower max-width -->
+<div class="bg-gray-800 text-white rounded-lg p-1 shadow hover:shadow-md transition max-w-5xl mx-auto mb-1">
+
+  <!-- Use flex-row on md screens: image on left, text on right; add space-x-6 for extra gap -->
+  <div class="flex flex-col md:flex-row md:items-start md:space-x-6">
+    
+    <!-- (A) Smaller featured image (~1/4 width on md+) -->
+    {{ $resource := partial "functions/get_featured_image.html" $doc }}
+    {{ if $resource }}
+      <div class="md:w-1/4 w-1/2 mb-1 md:mb-0">
+        <!-- Change the Fit dimension to your preferred size, e.g. "200x150 Center", "300x200", etc. -->
+        {{ $image := $resource.Fit "600x500 Center" }}
+        {{ if ne $image.MediaType.SubType "gif" }}
+          {{ $image = $image.Process "webp" }}
+        {{ end }}
+        <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="block overflow-hidden rounded">
+          <img
+            alt="{{ $doc.Title | plainify }}"
+            src="{{ $image.RelPermalink }}"
+            class="object-cover w-full h-auto transition-transform hover:scale-105"
+          />
+        </a>
+      </div>
+    {{ end }}
+
+    <!-- (B) Text side (~3/4 width on md+) -->
+    <div class="md:w-3/4 w-full">
+
+      <!-- Citation line: e.g. "Prakash Naikade (2024). Novel View Synthesis ... (MASTER THESIS)." -->
+      <div class="mb-1 text-base leading-snug">
+        {{ partial "page_metadata_authors" $doc }}
+        ({{ $doc.Date.Format "2006" }}).
+        <a href="{{ $doc.RelPermalink }}" class="underline">
+          {{ $doc.Title }}
+        </a>
+      </div>
+
+      <!-- Attachments/Links row (PDF, Dataset, Video, etc.) -->
+      {{ $has_attachments := partial "functions/has_attachments" $doc }}
+      {{ if $has_attachments }}
+        <div class="flex flex-wrap space-x-1 text-primary-300 text-sm mb-1">
+          {{ partial "page_links" (dict "page" $doc "is_list" 1) }}
+        </div>
+      {{ end }}
+
+      <!-- Summary paragraph -->
+      {{ $summary := $doc.Params.summary | default $doc.Summary }}
+      {{ if $summary }}
+        <p class="text-sm text-gray-300 mb-2">
+          {{ $summary | plainify }}
+        </p>
+      {{ end }}
+
+      <!-- Pub type (short) and Date at the bottom -->
+      <div class="text-xs text-gray-400">
+        {{ $doc.Params.publication_short }}
+      </div>
+      <div class="text-xs text-gray-400">
+        {{ $doc.Date.Format "Jan, 2006" }}
+      </div>
+
+    </div><!-- end text side -->
+
+  </div><!-- end flex -->
+</div><!-- end card container -->

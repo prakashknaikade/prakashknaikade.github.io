@@ -104,26 +104,11 @@ work:
       - Systematic Literature Research and Reviews, Project Proposals and Scientific Literature Writing.
       - Generally worked on computer vision, computer graphics, and machine/deep learning tasks like human pose estimation, human action recognition, and some XR tasks.
 
-    button: <a href=/uploads/Reference_Letter_AWSi.pdf>Reference Letter</a>
-    button:
-      text: 'Reference & Recommendation Letters'
-      url: /uploads/Reference_Recommendation_Letters_AWSi.pdf
-
-    # [Reference Letter](/uploads/Reference_Letter_AWSi.pdf)
-
-    # [Reference Letter]({{< relref "../uploads/Reference_Letter_AWSi.pdf" >}}) 
-
-    # links:
-    # - name: Reference Letter
-    #   url: '/uploads/Reference_Letter_AWSi.pdf'
-
-    # {{% staticref "/uploads/Reference_Letter_AWSi.pdf" "newtab" %}}Reference Letter{{% /staticref %}}
-
-    # links = [{name = "Recommendation", url="/uploads/Reference_Letter_AWSi.pdf"}]
-
-    # button:
-    #   text: 'Reference Letter'
-    #   url: /uploads/Reference_Letter_AWSi.pdf
+    buttons:
+      - text: 'Reference Letter - Dr. Dirk Werth'  
+        url: /uploads/Reference_Letter_AWSi.pdf  
+      - text: 'Reference Letter - Ms. Nanna Dahlem'
+        url: /uploads/LoR_AWSi_Nanna.pdf
 
   - position: Research Assistant
     company_name: Max Planck Institute for Informatics - AIDAM Group
@@ -160,7 +145,7 @@ work:
     company_url: https://fenris-group.com/
     company_logo: https://fenris-group.com/wp-content/uploads/2021/12/cropped-Fenris-Logo_176x60.png
     date_start: 2022-05-01
-    date_end: 2023-09-30
+    date_end: 2022-09-30
     summary: |
       Responsibilities include:
       - Contributed to marker-less motion capture solutions using single and multiple cameras, for athlete motion tracking and analysis.
@@ -191,7 +176,7 @@ skills:
         icon: 'devicon/python'
       - name: 'C#, C++'
         description: ''
-        percent: 60
+        percent: 70
         icon: code-bracket
       - name: 'R, MATLAB, C, SQL'
         description: ''

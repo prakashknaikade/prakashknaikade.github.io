@@ -15,7 +15,7 @@ publication_types: ["thesis"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: "(MASTER THESIS)"
+publication_short: "MASTER THESIS"
 
 # Summary. An optional shortened abstract.
 summary: This work marks the beginning of novel view synthesis for structural color objects and opens up potential avenues for various future research directions and endeavors. Moreover, this thesis will act as a foundational guide for novice researchers interested in exploring the novel view synthesis of specular and shiny objects with high view-dependent colors, commonly referred to as Structural Colors and Pearlescent Colors.

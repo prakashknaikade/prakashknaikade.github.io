@@ -35,34 +35,33 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am junior researcher at August-Wilhelm Scheer Institute. I worked on my master thesis at Max Planck Institute for Informatics.
+        I was junior researcher at August-Wilhelm Scheer Institute. I worked on my master thesis at Max Planck Institute for Informatics.
 
         My research interests span in the broad areas of Neural Rendering, Radiance Field Methods, Novel View Synthesis, Motion Capture, 3D-Reconstruction, Scene Understanding, Scene Interaction, Digital Twins, AR/VR, GenAI, LLMs, and generally Computer Vision, Computer Graphics, HCI, Deep/Machine Learning & Data Science, to solve the real world problems with impactful AI aided solutions.
         
         Please reach out to collaborate 😃
     design:
       columns: '2'
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: 📌 Featured Publications
+  #     filters:
+  #       folders:
+  #         - publications
+  #       featured_only: false
+  #   design:
+  #     view: article-grid
+  #     columns: 2
   - block: collection
-    id: papers
     content:
-      title: 📌 Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: 📜 Recent Publications
+      title: 📜 Publications
       text: ""
       filters:
         folders:
           - publications
-        exclude_featured: false
     design:
-      view: citation
+      view: article-cite-grid
   - block: collection
     id: news
     content:
@@ -98,7 +97,7 @@ sections:
       title: '💬 Ask Me Anything'
       subtitle: ''
       text:
-        Want to Learn More About Me - Type your questions below or Click on 👉 <a href="https://huggingface.co/spaces/prakashknaikade/Ask-About-Me" target="_blank">AMA</a>.
+        Want to Learn More About Me - Type your questions below!
 
         <script
         type="module"
