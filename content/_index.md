@@ -107,8 +107,9 @@ sections:
 
         <gradio-app 
         src="https://prakashknaikade-ask-about-me.hf.space" 
-        initial_height = "500px"
+        initial_height = "0px"
         info = "false"
+        container = "false"
         eager="false"> 
         </gradio-app>
 

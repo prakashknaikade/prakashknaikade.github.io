@@ -3,10 +3,10 @@ title: '💼 Experience'
 date: 2023-10-24
 type: landing
 
-design:
-  spacing: '5rem'
-
 # Note: `username` refers to the user's folder name in `content/authors/`
+design:
+  # Default section spacing
+  spacing: "2rem"
 
 # Page sections
 sections:
