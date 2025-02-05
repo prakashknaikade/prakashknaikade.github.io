@@ -56,7 +56,7 @@ interests:
   - Data Science, AI
 
 education:
-  - area: Master Media Informatics
+  - area: MSc - Media Computer Science
     institution: Saarland University
     date_start: 2020-10-01
     date_end: 2024-08-16
@@ -72,7 +72,7 @@ education:
       text: 'Read Thesis'
       url: '/publications/nvs_structural_color_object/'
 
-  - area: BEng Computer Engineering
+  - area: BEng - Computer Engineering
     institution: Pune University
     date_start: 2011-06-01
     date_end: 2015-05-31
