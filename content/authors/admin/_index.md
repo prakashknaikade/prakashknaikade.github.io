@@ -285,6 +285,13 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
 
+  - title: Attention in Transformers
+      certificate_url: https://learn.deeplearning.ai/accomplishments/d7640e8b-39c7-4f45-a79c-8f64fec28181?usp=sharing
+      date: '2025-03-12'
+      awarder: Coursera
+      icon: coursera
+      summary: ''
+
   - title: Foundations of MR, XR, VR Development on Quest headsets with Meta’s Presence Platform and Unity
     certificate_url: https://www.udemy.com/certificate/UC-97a4c8c9-5834-470c-8d61-cd109c0b9f50/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com
     date: '2024-12-24'
