@@ -100,7 +100,7 @@ work:
     summary: |
       Responsibilities include:
       - Worked on several applied research projects, including MediHopps, iperMö, FläKI and VuLCAn.
-      - Implemented advanced deep learning methods for human action recognition (HAR) and body pose estimation (HPE), and delivered detailed performance evaluations of these models, along with a trained HAR model (ST-GCN++) for custom rehabilitation exercise data captured in the lab.
+      - Implemented advanced deep learning methods for human action recognition (HAR) and body pose estimation (HPE), and delivered detailed performance evaluations of these models, along with a trained HAR model (ST-GCN++) for custom rehabilitation exercise data captured in the lab using Meat Quest VR Headset.
       - Systematic Literature Research and Reviews, Project Proposals and Scientific Literature Writing.
       - Generally worked on computer vision, computer graphics, and machine/deep learning tasks like human pose estimation, human action recognition, and some XR tasks.
 
@@ -286,11 +286,11 @@ languages:
 awards:
 
   - title: Attention in Transformers
-      certificate_url: https://learn.deeplearning.ai/accomplishments/d7640e8b-39c7-4f45-a79c-8f64fec28181?usp=sharing
-      date: '2025-03-12'
-      awarder: Coursera
-      icon: coursera
-      summary: ''
+    certificate_url: https://learn.deeplearning.ai/accomplishments/d7640e8b-39c7-4f45-a79c-8f64fec28181?usp=sharing
+    date: '2025-03-12'
+    awarder: Coursera
+    icon: coursera
+    summary: ''
 
   - title: Foundations of MR, XR, VR Development on Quest headsets with Meta’s Presence Platform and Unity
     certificate_url: https://www.udemy.com/certificate/UC-97a4c8c9-5834-470c-8d61-cd109c0b9f50/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com
