@@ -285,6 +285,13 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
 
+  - title: Building Code Agents with Hugging Face smolagents
+    certificate_url: https://learn.deeplearning.ai/accomplishments/769ca9cc-709e-486a-8a9a-b20d4ae5f860?usp=sharing
+    date: '2025-04-12'
+    awarder: Coursera
+    icon: coursera
+    summary: ''
+
   - title: Attention in Transformers
     certificate_url: https://learn.deeplearning.ai/accomplishments/d7640e8b-39c7-4f45-a79c-8f64fec28181?usp=sharing
     date: '2025-03-12'
