@@ -285,6 +285,13 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
 
+  - title: Google Cloud Platform Skills
+    certificate_url: https://www.credly.com/users/prakash-kondibhau-naikade
+    date: 
+    awarder: Google Cloud 
+    icon: 
+    summary: 'GCP Skills'
+
   - title: Building Code Agents with Hugging Face smolagents
     certificate_url: https://learn.deeplearning.ai/accomplishments/769ca9cc-709e-486a-8a9a-b20d4ae5f860?usp=sharing
     date: '2025-04-12'
