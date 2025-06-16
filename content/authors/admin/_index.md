@@ -48,11 +48,10 @@ profiles:
 
 
 interests:
-  - Computer Vision
-  - Computer Graphics
-  - LLMs
-  - Deep/Machine Learning
+  - (3D) Computer Vision, Graphics
+  - LLMs, VLMs, GenAI
   - AR/VR, HCI
+  - Deep/Machine Learning
   - Data Science, AI
 
 education:
@@ -456,5 +455,5 @@ awards:
 
 ## About Me
 
-Prakash Naikade is Computer Vision and Machine Learning Research Engineer. He is passionate about Machine Learning, especially Computer Vision & Generative AI. He has hands on experience from academia and industry. His research interests are in Computer Vision, Computer Graphics, LLMs, Human Computer Interaction, Deep/Machine Learning & Data Science, to solve real world problems with impactful AI aided solutions.  
+Prakash Naikade is Computer Vision and Machine Learning Research Engineer. He is passionate about Machine Learning, especially Computer Vision & Generative AI. He has hands on experience from academia and industry. His research interests are in Computer Vision, Graphics, LLMs, VLMs, Human Computer Interaction, Deep/Machine Learning & Data Science, to solve real world problems with impactful AI aided solutions.  
 In his free time, he likes to run, bike, hike, watch movies, and listen to music.
