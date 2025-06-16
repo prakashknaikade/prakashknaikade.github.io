@@ -35,11 +35,21 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I was junior researcher at August-Wilhelm Scheer Institute. I worked on my master thesis at Max Planck Institute for Informatics.
+        I have complted my MSc in Media Computer Science from Saarland University, Germany. I was junior researcher at August-Wilhelm Scheer Institute. I worked on my master thesis at Max Planck Institute for Informatics.
 
-        My research interests span in the broad areas of Neural Rendering, Radiance Field Methods, Novel View Synthesis, Motion Capture, 3D-Reconstruction, Scene Understanding, Scene Interaction, Digital Twins, AR/VR, GenAI, LLMs, and generally Computer Vision, Computer Graphics, HCI, Deep/Machine Learning & Data Science, to solve the real world problems with impactful AI aided solutions.
+        My research interests span in the broad areas of 3D-Reconstruction, Neural Rendering, Radiance Field Methods, Novel View Synthesis, Motion Capture, Scene Understanding, Scene Interaction, LLMs, VLMs, Digital Twins, AR/VR, and generally (3D) Computer Vision, GenAI, XR, HCI, Data Science, and Deep/Machine Learning, to solve complex problems with impactful AI-driven solutions.
         
         Please reach out to collaborate 😃
+
+        <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 2rem; margin-top: 1rem;">
+
+        <img src="/uploads/logo_SPPU.png" style="height: 80px; object-fit: contain; transition: transform 0.3s;" onmouseover="this.style.transform='scale(6)'" onmouseout="this.style.transform='scale(1)'">
+        <img src="/uploads/Logo_UDS.png" style="height: 60px; object-fit: contain; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)'" onmouseout="this.style.transform='scale(1)' ">
+        <img src="/uploads/mpi_logo.svg" style="height: 60px; object-fit: contain; transition: transform 0.3s;" onmouseover="this.style.transform='scale(2)'" onmouseout="this.style.transform='scale(1)'">
+        <img src="/uploads/Logo_AWSi.svg" style="height: 60px; object-fit: contain; transition: transform 0.3s;" onmouseover="this.style.transform='scale(2)'" onmouseout="this.style.transform='scale(1)'">
+        </div>
+
+        
     design:
       columns: '2'
   # - block: collection
