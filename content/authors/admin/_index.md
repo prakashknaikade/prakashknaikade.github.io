@@ -106,7 +106,7 @@ work:
     buttons:
       - text: 'Reference Letter - Dr. Dirk Werth'  
         url: /uploads/Reference_Letter_AWSi.pdf  
-      - text: 'Reference Letter - Ms. Nanna Dahlem'
+      - text: 'Reference Letter - MSc. Nanna Dahlem'
         url: /uploads/LoR_AWSi_Nanna.pdf
 
   - position: Research Assistant
@@ -161,7 +161,8 @@ work:
     date_start: 2015-06-01
     date_end: 2019-07-30
     summary: |
-      During the preparation of this <a href=https://en.wikipedia.org/wiki/Civil_Services_Examination>exam</a>, I gained Under-Graduate level knowledge of Anthropology, Polity, Governance, Indian Constitution, Social Justice, International Relations, Economics (Macro), Indian & World Geography, Indian & World History, Indian Culture & Society, Environment, and Ethics. <a href=https://byjus.com/free-ias-prep/upsc-exam-success-rate-statistics-to-crack-the-exam-easily/>(Overall pass percentage of candidates ≈ 0.1%)</a>
+      - During the preparation of this <a href=https://en.wikipedia.org/wiki/Civil_Services_Examination>exam</a>, I gained Under-Graduate level knowledge of Anthropology, Polity, Governance, Indian Constitution, Social Justice, International Relations, Economics (Macro), Indian & World Geography, Indian & World History, Indian Culture & Society, Environment, and Ethics. <a href=https://byjus.com/free-ias-prep/upsc-exam-success-rate-statistics-to-crack-the-exam-easily/>(Overall pass percentage of candidates ≈ 0.1%)</a>
+      - This knowledge offers me a unique perspective on socio-economic, industrial, and environmental challenges, as well as human behaviour, management and leadership. This background, coupled with my technical expertise, enables me to make meaningful contributions to achieve Sustainable Development Goals (SDGs outlined by United Nations). 
 
 
 # Skills

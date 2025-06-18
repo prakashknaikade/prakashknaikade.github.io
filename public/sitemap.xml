@@ -237,5 +237,20 @@
     <loc>http://localhost:1313/publications/dna_based_cryptography/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/3d-ai/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/project/3d-ai/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/3d-computer-vision/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/computer-graphics/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/scene-understanding/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
