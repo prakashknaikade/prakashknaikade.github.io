@@ -99,7 +99,7 @@ work:
     summary: |
       Responsibilities include:
       - Worked on several applied research projects, including MediHopps, iperMö, FläKI and VuLCAn.
-      - Implemented advanced deep learning methods for human action recognition (HAR) and body pose estimation (HPE), and delivered detailed performance evaluations of these models, along with a trained HAR model (ST-GCN++) for custom rehabilitation exercise data captured in the lab using Meat Quest VR Headset.
+      - Implemented advanced deep learning methods for human action recognition (HAR) and body pose estimation (HPE), and delivered detailed performance evaluations of these models, along with a trained HAR model (ST-GCN++) for custom rehabilitation exercise data captured in the lab using Meta Quest VR Headset.
       - Systematic Literature Research and Reviews, Project Proposals and Scientific Literature Writing.
       - Generally worked on computer vision, computer graphics, and machine/deep learning tasks like human pose estimation, human action recognition, and some XR tasks.
 
@@ -162,7 +162,7 @@ work:
     date_end: 2019-07-30
     summary: |
       - During the preparation of this <a href=https://en.wikipedia.org/wiki/Civil_Services_Examination>exam</a>, I gained Under-Graduate level knowledge of Anthropology, Polity, Governance, Indian Constitution, Social Justice, International Relations, Economics (Macro), Indian & World Geography, Indian & World History, Indian Culture & Society, Environment, and Ethics. <a href=https://byjus.com/free-ias-prep/upsc-exam-success-rate-statistics-to-crack-the-exam-easily/>(Overall pass percentage of candidates ≈ 0.1%)</a>
-      - This knowledge offers me a unique perspective on socio-economic, industrial, and environmental challenges, as well as human behaviour, management and leadership. This background, coupled with my technical expertise, enables me to make meaningful contributions to achieve Sustainable Development Goals (SDGs outlined by United Nations). 
+      - This knowledge offers me a unique perspective on socio-cultural-economic, industrial, and environmental challenges, as well as human behaviour, management and leadership. This background, coupled with my technical expertise, enables me to make meaningful contributions to achieve Sustainable Development Goals (SDGs) outlined by United Nations(UN). 
 
 
 # Skills

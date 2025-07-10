@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XRAI Based Telerehabilitation | Prakash Naikade</title>
+    <link>http://localhost:1313/tags/xrai-based-telerehabilitation/</link>
+      <atom:link href="http://localhost:1313/tags/xrai-based-telerehabilitation/index.xml" rel="self" type="application/rss+xml" />
+    <description>XRAI Based Telerehabilitation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
+      <title>XRAI Based Telerehabilitation</title>
+      <link>http://localhost:1313/tags/xrai-based-telerehabilitation/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the Potential of Virtual Reality and Artificial Intelligence in Physical Rehabilitation: Benefits, Challenges, and a Tailored Application Design</title>
+      <link>http://localhost:1313/publications/xrai_rehabilitaion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/xrai_rehabilitaion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

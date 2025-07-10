@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/3d-computer-vision/</link>
       <atom:link href="http://localhost:1313/tags/3d-computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <description>3D Computer Vision</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
       <title>3D Computer Vision</title>
@@ -15,9 +15,9 @@
     <item>
       <title>3D AI</title>
       <link>http://localhost:1313/project/3d-ai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/3d-ai/</guid>
-      <description>&lt;p&gt;In this repo I implement basic 3D computer vision (3D CV), Graphics and 3D AI techniques for learning purpose.&lt;/p&gt;</description>
+      <description>&lt;p&gt;In this repo I implement basic 3D Computer Vision (3D CV), Graphics and 3D AI techniques for learning purpose.&lt;/p&gt;</description>
     </item>
     
   </channel>
