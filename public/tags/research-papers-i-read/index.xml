@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/research-papers-i-read/</link>
       <atom:link href="http://localhost:1313/tags/research-papers-i-read/index.xml" rel="self" type="application/rss+xml" />
     <description>Research-Papers-I-Read</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
       <title>Research-Papers-I-Read</title>
@@ -15,22 +15,34 @@
     <item>
       <title>Research-Papers-I-Read</title>
       <link>http://localhost:1313/teaching/papers-i-read/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/papers-i-read/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;1. Deep SDF: Learning Continuous Signed Distance Functions for Shape Rpresenation&lt;/strong&gt;
-&lt;br&gt;&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/DeepSDF-Paper.pdf&#34;&gt;Read Summary&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. AI for Sports: Human Pose Estimation&lt;/strong&gt;
-&lt;br&gt;&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/Human-Pose-Estimation.pdf&#34;&gt;Read Summary&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3. Long-term Human Motion Prediction with Scene Context&lt;/strong&gt;
-&lt;br&gt;&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/Human-Motion-Prediction.pdf&#34;&gt;Read Summary&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4. PoseFix: Correcting 3D Human Poses with Natural Language&lt;/strong&gt;
-&lt;br&gt;&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/PoseFix_Correcting-3D-Human-Poses-with-Natural-Language.pdf&#34;&gt;Read Summary&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;5. Corrosion Detection and Progression Using Computer Vision&lt;/strong&gt;
-&lt;br&gt;&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/Corrosion-Detection-Progression.pdf&#34;&gt;Read Summary&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;6. Tactics of Adversarial Attack on Deep Reinforcement Learning Agents&lt;/strong&gt;
-&lt;br&gt;&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/Tactics-of-Adversarial-Attack-on-Deep-Reinforcement-Learning-Agents.pdf&#34;&gt;Read Summary&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;7. Novel View Synthesis using Radiance Field Methods: NeRF and Instant-NGP&lt;/strong&gt;
-&lt;br&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1HAcz7obNXgOj83u2HZmXaANHG31Tw3cxV1-rgsaYjNU/edit?usp=sharing&#34;&gt;Read Summary&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;1. Deep SDF: Learning Continuous Signed Distance Functions for Shape Rpresenation&lt;/strong&gt;&lt;br&gt;
+📊&lt;a href=&#34;https://docs.google.com/presentation/d/1udUH-WdQ4v0ppn-bfJ9z88fzgRsf-OLtVQiHN6-0J8U/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+📄&lt;a href=&#34;https://docs.google.com/document/d/1XZ1gnhGe7bfzX2czAZD-mEdv1AO-ReeJZwjJS58WmV8/edit?usp=sharing&#34;&gt;Summary&lt;/a&gt;&lt;br&gt;
+📕&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/DeepSDF-Paper.pdf&#34;&gt;Slides PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. AI for Sports: Human Pose Estimation&lt;/strong&gt;&lt;br&gt;
+📊&lt;a href=&#34;https://docs.google.com/presentation/d/1-VMXXwFR4J82L5layvPSJP0heatgAtK7K1EofiGqQMk/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+📕&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/Human-Pose-Estimation.pdf&#34;&gt;Slides PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Long-term Human Motion Prediction with Scene Context&lt;/strong&gt;&lt;br&gt;
+📊&lt;a href=&#34;https://docs.google.com/presentation/d/10P0n_EZwk827FkWQeI44FV-Mlb6AuPsFLurdDrRx044/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+📕&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/Human-Motion-Prediction.pdf&#34;&gt;Slides PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. PoseFix: Correcting 3D Human Poses with Natural Language&lt;/strong&gt;&lt;br&gt;
+📊&lt;a href=&#34;https://docs.google.com/presentation/d/1jE2Zc8Ueu7j_OIatv_rX5NXx_ZDzOHFM-uT8zR0wXuE/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+📕&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/PoseFix_Correcting-3D-Human-Poses-with-Natural-Language.pdf&#34;&gt;Slides PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Corrosion Detection and Progression Using Computer Vision&lt;/strong&gt;&lt;br&gt;
+📊&lt;a href=&#34;https://docs.google.com/presentation/d/1p5_GP-2I3Xcrr7mnqhqKObg4vnVu748Lj4mHklMTNmY/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+📕&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/Corrosion-Detection-Progression.pdf&#34;&gt;Slides PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. Tactics of Adversarial Attack on Deep Reinforcement Learning Agents&lt;/strong&gt;&lt;br&gt;
+📊&lt;a href=&#34;https://docs.google.com/presentation/d/1NUTt2sTfjFomFExOQq-drZO9952O-M3a1ZGqW_3T0yA/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+📄&lt;a href=&#34;https://docs.google.com/document/d/15iwZdcUc9Hu-aFiqMJGGu1xa3VtuRQSsTXEX-lqQq7A/edit?usp=sharing&#34;&gt;Summary&lt;/a&gt;&lt;br&gt;
+📕&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/Tactics-of-Adversarial-Attack-on-Deep-Reinforcement-Learning-Agents.pdf&#34;&gt;Slides PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. Novel View Synthesis using Radiance Field Methods: NeRF, Instant-NGP, and Point-NeRF&lt;/strong&gt;&lt;br&gt;
+📊&lt;a href=&#34;https://docs.google.com/presentation/d/1HAcz7obNXgOj83u2HZmXaANHG31Tw3cxV1-rgsaYjNU/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+📄&lt;a href=&#34;https://docs.google.com/document/d/17CSlwpDOUsOxYRQORyJD1kulTe65ThQrZurt7QAY4Sw/edit?usp=sharing&#34;&gt;Summary Point-NeRF&lt;/a&gt;&lt;br&gt;
+📕&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/NVS.pdf&#34;&gt;Slides PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8. Image Segmentation&lt;/strong&gt;&lt;br&gt;
+📊&lt;a href=&#34;https://docs.google.com/presentation/d/1R2d0DbDtksIsuWOg0raSDoZ0KM9SRyISUG6hIzKynwA/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;!-- [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
@@ -179,7 +191,6 @@ $$
 ## Code
 
 Hugo Blox Builder utilises Hugo&#39;s Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
-
 
     ```python
     import pandas as pd

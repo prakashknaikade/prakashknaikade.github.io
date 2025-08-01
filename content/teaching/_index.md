@@ -9,6 +9,10 @@ cascade:
     params:
       show_breadcrumb: true
 
+design:
+  # Section spacing
+  spacing: '0.5rem'
+  
 sections:
   - block: collection
     id: teaching
@@ -19,5 +23,6 @@ sections:
           - teaching
     design:
       view: article-grid
+      fill_image: true
       columns: 2
 ---

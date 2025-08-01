@@ -14,10 +14,12 @@
     
     <item>
       <title>Adversarial Reinforcement Learning</title>
-      <link>http://localhost:1313/teaching/adversarial-rl/</link>
+      <link>http://localhost:1313/teaching/adversarial---rl/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/adversarial-rl/</guid>
+      <guid>http://localhost:1313/teaching/adversarial---rl/</guid>
       <description>&lt;p&gt;Research papers covered in this post will showcase the landscape of attacks on RL agents and the optimal attack strategies, which is crucial for understanding security threats against the deployed systems. In particular, the research papers will cover optimal attack strategies for test-time, backdoor, and training-time (environment poisoning) attacks on RL agents. These research papers provides better perspective of important problems for developing robust and secure algorithms in sequential decision-making settings. This repo is result of &lt;a href=&#34;https://machineteaching.mpi-sws.org/course-adversarialrl-w21.html&#34;&gt;Course - Adversarial Reinforcement Learning&lt;/a&gt;, I followed at Saarland University.&lt;/p&gt;
+&lt;h2 id=&#34;summaryoverview&#34;&gt;Summary/Overview&lt;/h2&gt;
+&lt;p&gt;Find the summary of following papers 📕&lt;a href=&#34;https://github.com/prakashknaikade/Adversarial-Reinforcement-Learning-Key-Research-Papers&#34;&gt;PDF Here&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;list-of-research-papers-covered&#34;&gt;List of research papers covered&lt;/h2&gt;
 &lt;h3 id=&#34;test-time-attacks&#34;&gt;Test-time attacks&lt;/h3&gt;
 &lt;ol&gt;
@@ -60,8 +62,6 @@ by Y. Sun, D. Huo, and F. Huang, at ICLR 2021.&lt;/p&gt;
 by K. Banihashem, A. Singla, and G. Radanovic, at arXiv preprint 2021.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;summaryoverview&#34;&gt;Summary/Overview&lt;/h2&gt;
-&lt;p&gt;Find the summary of above papers &lt;a href=&#34;https://github.com/prakashknaikade/Adversarial-Reinforcement-Learning-Key-Research-Papers&#34;&gt;Here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

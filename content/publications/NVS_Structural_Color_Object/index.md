@@ -39,9 +39,9 @@ url_code: ''
 url_dataset: 'https://www.dropbox.com/scl/fo/9btslfn5y71lb6ct4jy62/AJ-6C-8QmycAND85arMPBDQ?rlkey=tqq444p2k608el58aoq5tzbvf&e=1&st=qcq9xn97&dl=0'
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/1V-Ha7xiIrmoaTUwXzLj5Tzm89PR89R10b4yHL4Eny4s/edit?usp=sharing'
 url_source: ''
-url_video: '/taylor_simulation_2.mp4'
+#url_video: '/taylor_simulation_2.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Idea, XRAI, VR | Prakash Naikade</title>
+    <link>http://localhost:1313/tags/project-idea-xrai-vr/</link>
+      <atom:link href="http://localhost:1313/tags/project-idea-xrai-vr/index.xml" rel="self" type="application/rss+xml" />
+    <description>Project Idea, XRAI, VR</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
+      <title>Project Idea, XRAI, VR</title>
+      <link>http://localhost:1313/tags/project-idea-xrai-vr/</link>
+    </image>
+    
+    <item>
+      <title>Reinforcement Learning based ∞XR-Floor</title>
+      <link>http://localhost:1313/teaching/project-idea---infxrfloor/</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/project-idea---infxrfloor/</guid>
+      <description>&lt;p&gt;📄Summary&lt;br&gt;
+We will begin by discussing the SwitchAR paper, followed by an analysis of its limitations and potential areas for improvement.&lt;/p&gt;
+&lt;p&gt;Then we will discuss, developing a digital version of Disney’s Omnidirectional Floor for Virtual Reality (VR), enabling users to freely navigate their virtual environments, even when their physical space is constrained. The goal is to enhance immersion and mobility in VR experiences by decoupling virtual movement from real-world spatial limitations.&lt;/p&gt;
+&lt;p&gt;📊&lt;a href=&#34;https://docs.google.com/presentation/d/1AIf-00YqzZmOqfivHD_-DH4mNExwASN5wiUOsdkGD_c/edit?usp=sharing&#34;&gt;Deatiled Proposal Slides&lt;/a&gt; 👈&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

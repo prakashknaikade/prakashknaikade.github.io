@@ -5,7 +5,7 @@
     <link>http://localhost:1313/teaching/</link>
       <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
       <title>Teaching</title>
@@ -13,24 +13,75 @@
     </image>
     
     <item>
+      <title>∞XR-Floor using Reinforcement Learning</title>
+      <link>http://localhost:1313/teaching/project-idea---infxrfloor/</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/project-idea---infxrfloor/</guid>
+      <description>&lt;p&gt;📄Summary&lt;br&gt;
+We will begin by discussing the SwitchAR paper, followed by an analysis of its limitations and potential areas for improvement.&lt;/p&gt;
+&lt;p&gt;Then we will discuss, developing a digital version of Disney’s Omnidirectional Floor for Virtual Reality (VR), enabling users to freely navigate their virtual environments, even when their physical space is constrained. The goal is to enhance immersion and mobility in VR experiences by decoupling virtual movement from real-world spatial limitations.&lt;/p&gt;
+&lt;p&gt;📊&lt;a href=&#34;https://docs.google.com/presentation/d/1AIf-00YqzZmOqfivHD_-DH4mNExwASN5wiUOsdkGD_c/edit?usp=sharing&#34;&gt;Deatiled Proposal Slides&lt;/a&gt; 👈&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XRAI (VR/MR and GenAI) for Strengthening Mental Resilience</title>
+      <link>http://localhost:1313/teaching/project-idea---mental-health/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/project-idea---mental-health/</guid>
+      <description>&lt;p&gt;📄Summary&lt;br&gt;
+The research idea focuses on VR Exposure Therapy using Virtual Reality (VR), Large Language Models (LLMs), Vision-Language Models (VLMs), and Generative AI for 3D asset creation, while exploring the following research questions addressing &amp;ldquo;XR and GenAI for Mental Health (Behaviour Change)&amp;rdquo;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How effective is VR in inducing behaviour change, based on empirical studies?&lt;/li&gt;
+&lt;li&gt;Are current 3D Generative AI techniques useful for creating 3D virtual environments and assets for inducing behaviour change use cases? How can they be improved?&lt;/li&gt;
+&lt;li&gt;Are current LLM-based models suitable for creating Agentic Chatbots that help induce behaviour change? How can we enhance them to enable more empathetic and effective conversations for this purpose?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;📊&lt;a href=&#34;https://docs.google.com/presentation/d/18AOcgnSDz2j7O-xY58TjRvcce_RshNiBW6U-XBCSlfg/edit?usp=sharing&#34;&gt;Deatiled Proposal Slides&lt;/a&gt; 👈&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI-Driven Virtual Technician for Rehabilitation Therapy</title>
+      <link>http://localhost:1313/teaching/project-idea---tailor/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/project-idea---tailor/</guid>
+      <description>&lt;p&gt;📄Summary&lt;br&gt;
+AI-Driven Virtual Technician to Translate Therapeutic Intention into Therapeutically Meaningful Parameter Adaptations.&lt;/p&gt;
+&lt;p&gt;📊&lt;a href=&#34;https://docs.google.com/presentation/d/116MUbBq295yUbTXR9Xrg2IX0-JmvK1CvjhgPxtvdRwI/edit?usp=sharing&#34;&gt;Deatiled Proposal Slides&lt;/a&gt; 👈&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Research-Papers-I-Read</title>
       <link>http://localhost:1313/teaching/papers-i-read/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/papers-i-read/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;1. Deep SDF: Learning Continuous Signed Distance Functions for Shape Rpresenation&lt;/strong&gt;
-&lt;br&gt;&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/DeepSDF-Paper.pdf&#34;&gt;Read Summary&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. AI for Sports: Human Pose Estimation&lt;/strong&gt;
-&lt;br&gt;&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/Human-Pose-Estimation.pdf&#34;&gt;Read Summary&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3. Long-term Human Motion Prediction with Scene Context&lt;/strong&gt;
-&lt;br&gt;&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/Human-Motion-Prediction.pdf&#34;&gt;Read Summary&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4. PoseFix: Correcting 3D Human Poses with Natural Language&lt;/strong&gt;
-&lt;br&gt;&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/PoseFix_Correcting-3D-Human-Poses-with-Natural-Language.pdf&#34;&gt;Read Summary&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;5. Corrosion Detection and Progression Using Computer Vision&lt;/strong&gt;
-&lt;br&gt;&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/Corrosion-Detection-Progression.pdf&#34;&gt;Read Summary&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;6. Tactics of Adversarial Attack on Deep Reinforcement Learning Agents&lt;/strong&gt;
-&lt;br&gt;&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/Tactics-of-Adversarial-Attack-on-Deep-Reinforcement-Learning-Agents.pdf&#34;&gt;Read Summary&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;7. Novel View Synthesis using Radiance Field Methods: NeRF and Instant-NGP&lt;/strong&gt;
-&lt;br&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1HAcz7obNXgOj83u2HZmXaANHG31Tw3cxV1-rgsaYjNU/edit?usp=sharing&#34;&gt;Read Summary&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;1. Deep SDF: Learning Continuous Signed Distance Functions for Shape Rpresenation&lt;/strong&gt;&lt;br&gt;
+📊&lt;a href=&#34;https://docs.google.com/presentation/d/1udUH-WdQ4v0ppn-bfJ9z88fzgRsf-OLtVQiHN6-0J8U/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+📄&lt;a href=&#34;https://docs.google.com/document/d/1XZ1gnhGe7bfzX2czAZD-mEdv1AO-ReeJZwjJS58WmV8/edit?usp=sharing&#34;&gt;Summary&lt;/a&gt;&lt;br&gt;
+📕&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/DeepSDF-Paper.pdf&#34;&gt;Slides PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. AI for Sports: Human Pose Estimation&lt;/strong&gt;&lt;br&gt;
+📊&lt;a href=&#34;https://docs.google.com/presentation/d/1-VMXXwFR4J82L5layvPSJP0heatgAtK7K1EofiGqQMk/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+📕&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/Human-Pose-Estimation.pdf&#34;&gt;Slides PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Long-term Human Motion Prediction with Scene Context&lt;/strong&gt;&lt;br&gt;
+📊&lt;a href=&#34;https://docs.google.com/presentation/d/10P0n_EZwk827FkWQeI44FV-Mlb6AuPsFLurdDrRx044/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+📕&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/Human-Motion-Prediction.pdf&#34;&gt;Slides PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. PoseFix: Correcting 3D Human Poses with Natural Language&lt;/strong&gt;&lt;br&gt;
+📊&lt;a href=&#34;https://docs.google.com/presentation/d/1jE2Zc8Ueu7j_OIatv_rX5NXx_ZDzOHFM-uT8zR0wXuE/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+📕&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/PoseFix_Correcting-3D-Human-Poses-with-Natural-Language.pdf&#34;&gt;Slides PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Corrosion Detection and Progression Using Computer Vision&lt;/strong&gt;&lt;br&gt;
+📊&lt;a href=&#34;https://docs.google.com/presentation/d/1p5_GP-2I3Xcrr7mnqhqKObg4vnVu748Lj4mHklMTNmY/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+📕&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/Corrosion-Detection-Progression.pdf&#34;&gt;Slides PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. Tactics of Adversarial Attack on Deep Reinforcement Learning Agents&lt;/strong&gt;&lt;br&gt;
+📊&lt;a href=&#34;https://docs.google.com/presentation/d/1NUTt2sTfjFomFExOQq-drZO9952O-M3a1ZGqW_3T0yA/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+📄&lt;a href=&#34;https://docs.google.com/document/d/15iwZdcUc9Hu-aFiqMJGGu1xa3VtuRQSsTXEX-lqQq7A/edit?usp=sharing&#34;&gt;Summary&lt;/a&gt;&lt;br&gt;
+📕&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/Tactics-of-Adversarial-Attack-on-Deep-Reinforcement-Learning-Agents.pdf&#34;&gt;Slides PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. Novel View Synthesis using Radiance Field Methods: NeRF, Instant-NGP, and Point-NeRF&lt;/strong&gt;&lt;br&gt;
+📊&lt;a href=&#34;https://docs.google.com/presentation/d/1HAcz7obNXgOj83u2HZmXaANHG31Tw3cxV1-rgsaYjNU/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+📄&lt;a href=&#34;https://docs.google.com/document/d/17CSlwpDOUsOxYRQORyJD1kulTe65ThQrZurt7QAY4Sw/edit?usp=sharing&#34;&gt;Summary Point-NeRF&lt;/a&gt;&lt;br&gt;
+📕&lt;a href=&#34;https://github.com/prakashknaikade/Papers-I-Read/blob/main/NVS.pdf&#34;&gt;Slides PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8. Image Segmentation&lt;/strong&gt;&lt;br&gt;
+📊&lt;a href=&#34;https://docs.google.com/presentation/d/1R2d0DbDtksIsuWOg0raSDoZ0KM9SRyISUG6hIzKynwA/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;!-- [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
@@ -180,7 +231,6 @@ $$
 
 Hugo Blox Builder utilises Hugo&#39;s Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
 
-
     ```python
     import pandas as pd
     data = pd.read_csv(&#34;data.csv&#34;)
@@ -213,11 +263,32 @@ renders as
     </item>
     
     <item>
+      <title>XRAI for Peripheral Vision</title>
+      <link>http://localhost:1313/teaching/project-idea---peripheral-vision/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/project-idea---peripheral-vision/</guid>
+      <description>&lt;p&gt;📄Summary&lt;/p&gt;
+&lt;p&gt;Peripheral vision significantly influences a person’s hand-eye-foot coordination and overall motor coordination, both of which are critical for complex decision-making in contexts like sports and driving. As such, peripheral vision has a direct impact on athletic performance, driving skills, and overall road safety.&lt;/p&gt;
+&lt;p&gt;To enhance an individual’s ability to effectively use peripheral vision, we can leverage cutting-edge technologies that complement traditional training methods:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Spatial Computing: VR/MR-based immersive training environments&lt;/li&gt;
+&lt;li&gt;Generative AI: LLMs, diffusion models, novel view synthesis, radiance field methods&lt;/li&gt;
+&lt;li&gt;Data Analytics: For performance monitoring and feedback&lt;/li&gt;
+&lt;li&gt;Personalized &amp;amp; Controlled Environments: Adaptive to individual skill levels&lt;/li&gt;
+&lt;li&gt;Remote &amp;amp; On-Demand Access: Training available anytime, anywhere&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📊&lt;a href=&#34;https://docs.google.com/presentation/d/1MQB-L_Nd0MLyxpcXMXVkwrib0Hv8wcCXG8sDKCQwnoY/edit?usp=sharing&#34;&gt;Deatiled Proposal Slides&lt;/a&gt; 👈&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Adversarial Reinforcement Learning</title>
-      <link>http://localhost:1313/teaching/adversarial-rl/</link>
+      <link>http://localhost:1313/teaching/adversarial---rl/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/adversarial-rl/</guid>
+      <guid>http://localhost:1313/teaching/adversarial---rl/</guid>
       <description>&lt;p&gt;Research papers covered in this post will showcase the landscape of attacks on RL agents and the optimal attack strategies, which is crucial for understanding security threats against the deployed systems. In particular, the research papers will cover optimal attack strategies for test-time, backdoor, and training-time (environment poisoning) attacks on RL agents. These research papers provides better perspective of important problems for developing robust and secure algorithms in sequential decision-making settings. This repo is result of &lt;a href=&#34;https://machineteaching.mpi-sws.org/course-adversarialrl-w21.html&#34;&gt;Course - Adversarial Reinforcement Learning&lt;/a&gt;, I followed at Saarland University.&lt;/p&gt;
+&lt;h2 id=&#34;summaryoverview&#34;&gt;Summary/Overview&lt;/h2&gt;
+&lt;p&gt;Find the summary of following papers 📕&lt;a href=&#34;https://github.com/prakashknaikade/Adversarial-Reinforcement-Learning-Key-Research-Papers&#34;&gt;PDF Here&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;list-of-research-papers-covered&#34;&gt;List of research papers covered&lt;/h2&gt;
 &lt;h3 id=&#34;test-time-attacks&#34;&gt;Test-time attacks&lt;/h3&gt;
 &lt;ol&gt;
@@ -260,8 +331,6 @@ by Y. Sun, D. Huo, and F. Huang, at ICLR 2021.&lt;/p&gt;
 by K. Banihashem, A. Singla, and G. Radanovic, at arXiv preprint 2021.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;summaryoverview&#34;&gt;Summary/Overview&lt;/h2&gt;
-&lt;p&gt;Find the summary of above papers &lt;a href=&#34;https://github.com/prakashknaikade/Adversarial-Reinforcement-Learning-Key-Research-Papers&#34;&gt;Here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
