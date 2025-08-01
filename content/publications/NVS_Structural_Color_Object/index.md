@@ -30,17 +30,19 @@ tags:
 featured: true
 
 links:
-- name: Demo (3D Web Viewer)
+- name: Slides Script 
+  url: https://docs.google.com/document/d/1IMOpld9faVMp8x5954oXtiilKbkpOWkpS6IolxX22WU/edit?usp=sharing
+- name: Demo 
   url: https://prakashknaikade.github.io/StructColorPaintingViewer/
 - name: PDF (HQ)
   url: https://www.dropbox.com/scl/fi/in79kjuyn2h8b2mmd847x/NVS_Structural_Color_Objects.pdf?rlkey=sdv7lxi3rymelltdv8u7sgl1d&st=25ixlxzf&dl=0
+url_project: '/publications/nvs_structural_color_object/'
 url_pdf: '/publications/nvs_structural_color_object/NVS_Structural_Color_Objects_compressed.pdf'
 url_code: ''
 url_dataset: 'https://www.dropbox.com/scl/fo/9btslfn5y71lb6ct4jy62/AJ-6C-8QmycAND85arMPBDQ?rlkey=tqq444p2k608el58aoq5tzbvf&e=1&st=qcq9xn97&dl=0'
-url_poster: ''
-url_project: ''
 url_slides: 'https://docs.google.com/presentation/d/1V-Ha7xiIrmoaTUwXzLj5Tzm89PR89R10b4yHL4Eny4s/edit?usp=sharing'
-url_source: ''
+
+
 #url_video: '/taylor_simulation_2.mp4'
 
 # Featured image
@@ -74,6 +76,7 @@ header:
   navbar:
     enable: true
 ---
+
 ### Abstract
 <p style="font-size: 1.1rem;text-align: justify;">
 Transforming physical object into its high quality 3D digital twin using novel view synthesis is crucial for researchers in the domain of automatic laser marking of any color image on different metal substrates. Current Radiance Field methods have significantly advanced novel view synthesis of scenes captured with multiple photos or videos. But, they struggle to represent the scene with shiny objects. Moreover, multi view reconstruction of reflective objects with structural colors is extremely challenging because specular reflections are view-dependent and thus violate the multiviewconsistency, which is the cornerstone for most multiview reconstruction methods. However, there is a general lack of synthetic datasets for objects with structural colors and a literature review on state-of-the-art (SOTA) novel view synthesis methods for this kind of materials. Addressing these issues, we introduce a novel synthetic dataset that is used to conduct quantitative and qualitative analysis on a SOTA novel view synthesis methods. We demonstrate different techniques to improve the scene representation of laser printed planar structural color objects, focusing on the 3D Gaussian Splatting (3D-GS) method, which performs exceptionally well on our synthetic dataset. Our techniques, such as using geometric prior of planar structural color objects while initializing scene with sparse structure-from-motion (SfM) point cloud and the Anisotropy Regularizer, significantly improves the visual quality of view synthesis. We design different capture setups to acquire images of objects and evaluate the visual quality of the scene with different capture setups. Additionally, we present comprehensive experimentation to demonstrate methods to simulate structural color objects using just captured images of laser-printed primaries. This comprehensive research aims to contribute to the advancement of novel view synthesis methods for scenes involving reflective objects with structural colors.
@@ -485,10 +488,10 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 RGB renders of interactive visualization in SIBR viewer of an optimized real world sences with our techniques:
 
 - *StructColorPainting* scene
-{{< video src="/man_16_891_imgs.mp4" controls="yes" >}}
+{{< youtube tZq4jsZ8WY8 >}}
 
 - *StructColorTaylorSwift* scene
-{{< video src="/taylor_simulation_2.mp4" controls="yes" >}}
+{{< youtube vnXgaGInYX0 >}}
 
 
 <br>
@@ -500,19 +503,19 @@ RGB renders of interactive visualization in SIBR viewer of an optimized real wor
 
 - Comparison between real structural color object views and respective synthesized views using just primaries for respective view directions:
   - *StructColorTaylorSwift* scene
-  {{< video src="/taylor_swift_synth_views_gsplat_compare_ 720p.mp4" controls="yes" >}}
+  {{< youtube IqN4TfwjbUg >}}
 
   - RGB renders of interactive visualization in SIBR viewer of an optimized synthetic scene, generated using synthesized images created just with primaries:
-  {{< video src="/taylor_synth_perspective_simulation.mp4" controls="yes" >}}
+  {{< youtube zgNw58280oE >}}
 
 <br>
 
 - Synthesizing views using only the earlier tracked primaries for respective view directions, before laser printing the structural color object:
   - Synthesized views using just primaries for respective view directions:
-  {{< video src="/cat_synth_views.mp4" controls="yes" >}}
+  {{< youtube rTgbTI3_wc4 >}}
 
   - RGB renders of interactive visualization in SIBR viewer of an optimized synthetic scene, generated using synthesized images created just with primaries:
-  {{< video src="/cat_synth_perspective_simulation.mp4" controls="yes" >}}
+  {{< youtube YFhxmVF7vNk >}}
 
 ### 3D Web Viewer
 
@@ -535,4 +538,4 @@ The webviewer is implemented with help of [gsplat.js](https://github.com/hugging
 4. [NeRFacto] Matthew Tancik, Ethan Weber, Evonne Ng, Ruilong Li, Brent Yi, Justin Kerr, Terrance Wang, Alexander Kristoffersen, Jake Austin, Kamyar Salahi, Abhik Ahuja, David McAllister, and Angjoo Kanazawa. Nerfstudio: A modular framework for neural radiance field development. ACM SIGGRAPH 2023.<br>
 5. [Ref-NeRF] Dor Verbin, Peter Hedman, Ben Mildenhall, Todd Zickler, Jonathan T. Barron, and Pratul P. Srinivasan. Ref-NeRF: Structured view-dependent appearance for neural radiance fields. CVPR, 2022.<br> 
 6. [3D-GS] Bernhard Kerbl, Georgios Kopanas, Thomas Leimkuehler, and George Drettakis. 3d gaussian splatting for real-time radiance field rendering. ACM Transactions on Graphics, July 2023.
-</p> 
+</p>  

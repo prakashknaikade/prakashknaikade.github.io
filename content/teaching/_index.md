@@ -1,6 +1,5 @@
 ---
 title: Teaching
-summary: My courses
 type: landing
 
 cascade:
@@ -11,18 +10,33 @@ cascade:
 
 design:
   # Section spacing
-  spacing: '0.5rem'
+  spacing: '1.5rem'
   
 sections:
   - block: collection
-    id: teaching
+    id: teaching-misc
     content:
-      title: Teaching
+      title: Research Papers I Read
+      count: 0
       filters:
         folders:
-          - teaching
+          - teaching-papers
     design:
       view: article-grid
       fill_image: true
       columns: 2
+  - block: collection
+    id: teaching-project-ideas
+    content:
+      title: Research Project Ideas
+      count: 0
+      filters:
+        folders:
+          - teaching-project-ideas
+    design:
+      view: article-grid
+      fill_image: true
+      columns: 2
+  
+  
 ---

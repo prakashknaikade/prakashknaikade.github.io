@@ -1,0 +1,173 @@
+---
+title: Research-Papers-I-Read
+summary: This blog contains summary of research papers I read and/or presented.
+date: 2025-06-01
+type: docs
+math: false
+tags:
+  - Research-Papers-I-Read
+# image:
+#   caption: 'Embed rich media such as videos and LaTeX math'
+---
+
+**1. Deep SDF: Learning Continuous Signed Distance Functions for Shape Rpresenation**  
+📊[Slides](https://docs.google.com/presentation/d/1udUH-WdQ4v0ppn-bfJ9z88fzgRsf-OLtVQiHN6-0J8U/edit?usp=sharing)  
+📄[Summary](https://docs.google.com/document/d/1XZ1gnhGe7bfzX2czAZD-mEdv1AO-ReeJZwjJS58WmV8/edit?usp=sharing)  
+📕[Slides PDF](https://github.com/prakashknaikade/Papers-I-Read/blob/main/DeepSDF-Paper.pdf)
+
+**2. AI for Sports: Human Pose Estimation**  
+📊[Slides](https://docs.google.com/presentation/d/1-VMXXwFR4J82L5layvPSJP0heatgAtK7K1EofiGqQMk/edit?usp=sharing)  
+📕[Slides PDF](https://github.com/prakashknaikade/Papers-I-Read/blob/main/Human-Pose-Estimation.pdf)
+
+**3. Long-term Human Motion Prediction with Scene Context**  
+📊[Slides](https://docs.google.com/presentation/d/10P0n_EZwk827FkWQeI44FV-Mlb6AuPsFLurdDrRx044/edit?usp=sharing)  
+📕[Slides PDF](https://github.com/prakashknaikade/Papers-I-Read/blob/main/Human-Motion-Prediction.pdf)
+
+**4. PoseFix: Correcting 3D Human Poses with Natural Language**  
+📊[Slides](https://docs.google.com/presentation/d/1jE2Zc8Ueu7j_OIatv_rX5NXx_ZDzOHFM-uT8zR0wXuE/edit?usp=sharing)  
+📕[Slides PDF](https://github.com/prakashknaikade/Papers-I-Read/blob/main/PoseFix_Correcting-3D-Human-Poses-with-Natural-Language.pdf)
+
+**5. Corrosion Detection and Progression Using Computer Vision**  
+📊[Slides](https://docs.google.com/presentation/d/1p5_GP-2I3Xcrr7mnqhqKObg4vnVu748Lj4mHklMTNmY/edit?usp=sharing)  
+📕[Slides PDF](https://github.com/prakashknaikade/Papers-I-Read/blob/main/Corrosion-Detection-Progression.pdf)
+
+**6. Tactics of Adversarial Attack on Deep Reinforcement Learning Agents**  
+📊[Slides](https://docs.google.com/presentation/d/1NUTt2sTfjFomFExOQq-drZO9952O-M3a1ZGqW_3T0yA/edit?usp=sharing)  
+📄[Summary](https://docs.google.com/document/d/15iwZdcUc9Hu-aFiqMJGGu1xa3VtuRQSsTXEX-lqQq7A/edit?usp=sharing)  
+📕[Slides PDF](https://github.com/prakashknaikade/Papers-I-Read/blob/main/Tactics-of-Adversarial-Attack-on-Deep-Reinforcement-Learning-Agents.pdf)
+
+**7. Novel View Synthesis using Radiance Field Methods: NeRF, Instant-NGP, and Point-NeRF**  
+📊[Slides](https://docs.google.com/presentation/d/1HAcz7obNXgOj83u2HZmXaANHG31Tw3cxV1-rgsaYjNU/edit?usp=sharing)  
+📄[Summary Point-NeRF](https://docs.google.com/document/d/17CSlwpDOUsOxYRQORyJD1kulTe65ThQrZurt7QAY4Sw/edit?usp=sharing)  
+📕[Slides PDF](https://github.com/prakashknaikade/Papers-I-Read/blob/main/NVS.pdf)
+
+**8. Image Segmentation**  
+📊[Slides](https://docs.google.com/presentation/d/1R2d0DbDtksIsuWOg0raSDoZ0KM9SRyISUG6hIzKynwA/edit?usp=sharing)  
+
+<!-- [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+
+**Embed videos, podcasts, code, LaTeX math, and even test students!**
+
+On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+
+## Video
+
+Teach your course by sharing videos with your students. Choose from one of the following approaches:
+
+{{< youtube D2vj0WcvH5c >}}
+
+**Youtube**:
+
+    {{</* youtube w7Ft2ymGmfc */>}}
+
+**Bilibili**:
+
+    {{</* bilibili id="BV1WV4y1r7DF" */>}}
+
+**Video file**
+
+Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
+
+    {{</* video src="my_video.mp4" controls="yes" */>}}
+
+## Podcast
+
+You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
+
+    {{</* audio src="ambient-piano.mp3" */>}}
+
+Try it out:
+
+{{< audio src="ambient-piano.mp3" >}}
+
+## Test students
+
+Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
+
+```markdown
+{{</* spoiler text="👉 Click to view the solution" */>}}
+You found me!
+{{</* /spoiler */>}}
+```
+
+renders as
+
+{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
+
+## Math
+
+Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
+
+To render _inline_ or _block_ math, wrap your LaTeX math with `{{</* math */>}}$...${{</* /math */>}}` or `{{</* math */>}}$$...$${{</* /math */>}}`, respectively.
+
+{{% callout note %}}
+We wrap the LaTeX math in the Hugo Blox _math_ shortcode to prevent Hugo rendering our math as Markdown.
+{{% /callout %}}
+
+Example **math block**:
+
+```latex
+{{</* math */>}}
+$$
+\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
+$$
+{{</* /math */>}}
+```
+
+renders as
+
+{{< math >}}
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+{{< /math >}}
+
+Example **inline math** `{{</* math */>}}$\nabla F(\mathbf{x}_{n})${{</* /math */>}}` renders as {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}.
+
+Example **multi-line math** using the math linebreak (`\\`):
+
+```latex
+{{</* math */>}}
+$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
+1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
+{{</* /math */>}}
+```
+
+renders as
+
+{{< math >}}
+
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
+1-p_{0}^{*} & \text{if }k=0.\end{cases}
+$$
+
+{{< /math >}}
+
+## Code
+
+Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
+
+    ```python
+    import pandas as pd
+    data = pd.read_csv("data.csv")
+    data.head()
+    ```
+
+renders as
+
+```python
+import pandas as pd
+data = pd.read_csv("data.csv")
+data.head()
+```
+
+## Inline Images
+
+```go
+{{</* icon name="python" */>}} Python
+```
+
+renders as
+
+{{< icon name="python" >}} Python
+
+## Did you find this page helpful? Consider sharing it 🙌 -->

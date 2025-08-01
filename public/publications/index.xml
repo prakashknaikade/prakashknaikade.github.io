@@ -451,48 +451,22 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 &lt;p&gt;&lt;em&gt;StructColorPainting&lt;/em&gt; scene
 
 
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-&lt;video controls  &gt;
-  &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/man_16_891_imgs.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/tZq4jsZ8WY8?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;em&gt;StructColorTaylorSwift&lt;/em&gt; scene
 
 
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-&lt;video controls  &gt;
-  &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/taylor_simulation_2.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/vnXgaGInYX0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -514,48 +488,22 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 &lt;p&gt;&lt;em&gt;StructColorTaylorSwift&lt;/em&gt; scene
 
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-    
-  
-  
-  
-  
-  
-  &lt;video controls  &gt;
-    &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/taylor_swift_synth_views_gsplat_compare_%20720p.mp4&#34; type=&#34;video/mp4&#34;&gt;
-  &lt;/video&gt;
+      
+      &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+        &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/IqN4TfwjbUg?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+        &gt;&lt;/iframe&gt;
+      &lt;/div&gt;
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;RGB renders of interactive visualization in SIBR viewer of an optimized synthetic scene, generated using synthesized images created just with primaries:
 
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-    
-  
-  
-  
-  
-  
-  &lt;video controls  &gt;
-    &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/taylor_synth_perspective_simulation.mp4&#34; type=&#34;video/mp4&#34;&gt;
-  &lt;/video&gt;
+      
+      &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+        &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/zgNw58280oE?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+        &gt;&lt;/iframe&gt;
+      &lt;/div&gt;
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -569,48 +517,22 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 &lt;p&gt;Synthesized views using just primaries for respective view directions:
 
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-    
-  
-  
-  
-  
-  
-  &lt;video controls  &gt;
-    &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/cat_synth_views.mp4&#34; type=&#34;video/mp4&#34;&gt;
-  &lt;/video&gt;
+      
+      &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+        &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/rTgbTI3_wc4?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+        &gt;&lt;/iframe&gt;
+      &lt;/div&gt;
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;RGB renders of interactive visualization in SIBR viewer of an optimized synthetic scene, generated using synthesized images created just with primaries:
 
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-    
-  
-  
-  
-  
-  
-  &lt;video controls  &gt;
-    &lt;source src=&#34;http://localhost:1313/publications/nvs_structural_color_object/cat_synth_perspective_simulation.mp4&#34; type=&#34;video/mp4&#34;&gt;
-  &lt;/video&gt;
+      
+      &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+        &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/YFhxmVF7vNk?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+        &gt;&lt;/iframe&gt;
+      &lt;/div&gt;
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -632,7 +554,7 @@ The webviewer is implemented with help of &lt;a href=&#34;https://github.com/hug
 4. [NeRFacto] Matthew Tancik, Ethan Weber, Evonne Ng, Ruilong Li, Brent Yi, Justin Kerr, Terrance Wang, Alexander Kristoffersen, Jake Austin, Kamyar Salahi, Abhik Ahuja, David McAllister, and Angjoo Kanazawa. Nerfstudio: A modular framework for neural radiance field development. ACM SIGGRAPH 2023.&lt;br&gt;
 5. [Ref-NeRF] Dor Verbin, Peter Hedman, Ben Mildenhall, Todd Zickler, Jonathan T. Barron, and Pratul P. Srinivasan. Ref-NeRF: Structured view-dependent appearance for neural radiance fields. CVPR, 2022.&lt;br&gt; 
 6. [3D-GS] Bernhard Kerbl, Georgios Kopanas, Thomas Leimkuehler, and George Drettakis. 3d gaussian splatting for real-time radiance field rendering. ACM Transactions on Graphics, July 2023.
-&lt;/p&gt; 
+&lt;/p&gt;  
 </description>
     </item>
     

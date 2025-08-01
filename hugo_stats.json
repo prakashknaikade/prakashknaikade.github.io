@@ -45,7 +45,6 @@
       "radialgradient",
       "script",
       "section",
-      "source",
       "span",
       "stop",
       "strong",
@@ -59,8 +58,7 @@
       "time",
       "title",
       "tr",
-      "ul",
-      "video"
+      "ul"
     ],
     "classes": [
       "!mb-4",
@@ -640,7 +638,8 @@
       "summaryoverview",
       "sun",
       "synthesized-scenes-using-just-primaries",
-      "teaching",
+      "teaching-misc",
+      "teaching-project-ideas",
       "test-time-attacks",
       "tldr",
       "top",
