@@ -13,10 +13,12 @@ tags:
 #   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-📄**Summary**  
+### 📄Summary  
 
+<p style='text-align: justify'> 
 Peripheral vision significantly influences a person’s hand-eye-foot coordination and overall motor coordination, both of which are critical for complex decision-making in contexts like sports and driving. As such, peripheral vision has a direct impact on athletic performance, driving skills, and overall road safety.
 
+<p style='text-align: justify'>
 To enhance an individual’s ability to effectively use peripheral vision, we can leverage cutting-edge technologies that complement traditional training methods:
 
 - Spatial Computing: VR/MR-based immersive training environments
@@ -25,4 +27,4 @@ To enhance an individual’s ability to effectively use peripheral vision, we ca
 - Personalized & Controlled Environments: Adaptive to individual skill levels
 - Remote & On-Demand Access: Training available anytime, anywhere
 
-📊**[Deatiled Proposal Slides](https://docs.google.com/presentation/d/1MQB-L_Nd0MLyxpcXMXVkwrib0Hv8wcCXG8sDKCQwnoY/edit?usp=sharing)** 👈
+### 📊[Deatiled Proposal Slides](https://docs.google.com/presentation/d/1MQB-L_Nd0MLyxpcXMXVkwrib0Hv8wcCXG8sDKCQwnoY/edit?usp=sharing)👈

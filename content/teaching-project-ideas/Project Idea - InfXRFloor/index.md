@@ -13,10 +13,12 @@ tags:
 #   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-📄**Summary**  
+### 📄Summary  
 
-We will begin by discussing the SwitchAR paper, followed by an analysis of its limitations and potential areas for improvement.
-
+<p style='text-align: justify'>
+We will begin by discussing the SwitchAR paper, followed by an analysis of its limitations and potential areas for improvement.  
+<p style='text-align: justify'>
 Then we will discuss, developing a digital version of Disney’s Omnidirectional Floor for Virtual Reality (VR), enabling users to freely navigate their virtual environments, even when their physical space is constrained. The goal is to enhance immersion and mobility in VR experiences by decoupling virtual movement from real-world spatial limitations.  
 
-📊**[Deatiled Proposal Slides](https://docs.google.com/presentation/d/1AIf-00YqzZmOqfivHD_-DH4mNExwASN5wiUOsdkGD_c/edit?usp=sharing)** 👈
+### 📊[Deatiled Proposal Slides](https://docs.google.com/presentation/d/1AIf-00YqzZmOqfivHD_-DH4mNExwASN5wiUOsdkGD_c/edit?usp=sharing)👈
+

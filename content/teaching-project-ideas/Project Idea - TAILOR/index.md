@@ -12,7 +12,9 @@ tags:
 ---
 
 
-📄**Summary**  
+### 📄Summary  
+
+<p style='text-align: justify'>
 AI-Driven Virtual Technician to Translate Therapeutic Intention into Therapeutically Meaningful Parameter Adaptations.  
 
-📊**[Deatiled Proposal Slides](https://docs.google.com/presentation/d/116MUbBq295yUbTXR9Xrg2IX0-JmvK1CvjhgPxtvdRwI/edit?usp=sharing)** 👈
+### 📊[Deatiled Proposal Slides](https://docs.google.com/presentation/d/116MUbBq295yUbTXR9Xrg2IX0-JmvK1CvjhgPxtvdRwI/edit?usp=sharing)👈
