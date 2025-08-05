@@ -1,6 +1,6 @@
 ---
 title: 🧠 Open to work
-summary: Looking for Computer Vision and Machine Learning Research Engineer Roles
+summary: Looking for Computer Vision and Machine Learning Research Engineer Roles 
 date: 2024-11-01
 authors:
   - admin
