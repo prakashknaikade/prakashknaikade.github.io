@@ -17,10 +17,12 @@
       <link>http://localhost:1313/teaching-project-ideas/project-idea---infxrfloor/</link>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching-project-ideas/project-idea---infxrfloor/</guid>
-      <description>&lt;p&gt;📄&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We will begin by discussing the SwitchAR paper, followed by an analysis of its limitations and potential areas for improvement.&lt;/p&gt;
-&lt;p&gt;Then we will discuss, developing a digital version of Disney’s Omnidirectional Floor for Virtual Reality (VR), enabling users to freely navigate their virtual environments, even when their physical space is constrained. The goal is to enhance immersion and mobility in VR experiences by decoupling virtual movement from real-world spatial limitations.&lt;/p&gt;
-&lt;p&gt;📊&lt;strong&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1AIf-00YqzZmOqfivHD_-DH4mNExwASN5wiUOsdkGD_c/edit?usp=sharing&#34;&gt;Deatiled Proposal Slides&lt;/a&gt;&lt;/strong&gt; 👈&lt;/p&gt;
+      <description>&lt;h3 id=&#34;summary&#34;&gt;📄Summary&lt;/h3&gt;
+&lt;p style=&#39;text-align: justify&#39;&gt;
+We will begin by discussing the SwitchAR paper, followed by an analysis of its limitations and potential areas for improvement.  
+&lt;p style=&#39;text-align: justify&#39;&gt;
+Then we will discuss, developing a digital version of Disney’s Omnidirectional Floor for Virtual Reality (VR), enabling users to freely navigate their virtual environments, even when their physical space is constrained. The goal is to enhance immersion and mobility in VR experiences by decoupling virtual movement from real-world spatial limitations.  
+&lt;h3 id=&#34;deatiled-proposal-slideshttpsdocsgooglecompresentationd1aif-00yqzzmoqfivhd_-dh4mnexwasn5wiuosdkgd_cedituspsharing&#34;&gt;📊&lt;a href=&#34;https://docs.google.com/presentation/d/1AIf-00YqzZmOqfivHD_-DH4mNExwASN5wiUOsdkGD_c/edit?usp=sharing&#34;&gt;Deatiled Proposal Slides&lt;/a&gt;👈&lt;/h3&gt;
 </description>
     </item>
     
@@ -29,14 +31,15 @@
       <link>http://localhost:1313/teaching-project-ideas/project-idea---mental-health/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching-project-ideas/project-idea---mental-health/</guid>
-      <description>&lt;p&gt;📄&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The research idea focuses on VR Exposure Therapy using Virtual Reality (VR), Large Language Models (LLMs), Vision-Language Models (VLMs), and Generative AI for 3D asset creation, while exploring the following research questions addressing &amp;ldquo;XR and GenAI for Mental Health (Behaviour Change)&amp;rdquo;:&lt;/p&gt;
+      <description>&lt;h3 id=&#34;summary&#34;&gt;📄Summary&lt;/h3&gt;
+&lt;p style=&#39;text-align: justify&#39;&gt;
+The research idea focuses on VR Exposure Therapy using Virtual Reality (VR), Large Language Models (LLMs), Vision-Language Models (VLMs), and Generative AI for 3D asset creation, while exploring the following research questions addressing &#34;XR and GenAI for Mental Health (Behaviour Change)&#34;:  
 &lt;ol&gt;
 &lt;li&gt;How effective is VR in inducing behaviour change, based on empirical studies?&lt;/li&gt;
 &lt;li&gt;Are current 3D Generative AI techniques useful for creating 3D virtual environments and assets for inducing behaviour change use cases? How can they be improved?&lt;/li&gt;
 &lt;li&gt;Are current LLM-based models suitable for creating Agentic Chatbots that help induce behaviour change? How can we enhance them to enable more empathetic and effective conversations for this purpose?&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;📊&lt;strong&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/18AOcgnSDz2j7O-xY58TjRvcce_RshNiBW6U-XBCSlfg/edit?usp=sharing&#34;&gt;Deatiled Proposal Slides&lt;/a&gt;&lt;/strong&gt;  👈&lt;/p&gt;
+&lt;h3 id=&#34;deatiled-proposal-slideshttpsdocsgooglecompresentationd18aocgnsdz2j7o-xy58tjrvcce_rshnibw6u-xbcslfgedituspsharing&#34;&gt;📊&lt;a href=&#34;https://docs.google.com/presentation/d/18AOcgnSDz2j7O-xY58TjRvcce_RshNiBW6U-XBCSlfg/edit?usp=sharing&#34;&gt;Deatiled Proposal Slides&lt;/a&gt;👈&lt;/h3&gt;
 </description>
     </item>
     
@@ -45,9 +48,11 @@
       <link>http://localhost:1313/teaching-project-ideas/project-idea---peripheral-vision/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching-project-ideas/project-idea---peripheral-vision/</guid>
-      <description>&lt;p&gt;📄&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Peripheral vision significantly influences a person’s hand-eye-foot coordination and overall motor coordination, both of which are critical for complex decision-making in contexts like sports and driving. As such, peripheral vision has a direct impact on athletic performance, driving skills, and overall road safety.&lt;/p&gt;
-&lt;p&gt;To enhance an individual’s ability to effectively use peripheral vision, we can leverage cutting-edge technologies that complement traditional training methods:&lt;/p&gt;
+      <description>&lt;h3 id=&#34;summary&#34;&gt;📄Summary&lt;/h3&gt;
+&lt;p style=&#39;text-align: justify&#39;&gt; 
+Peripheral vision significantly influences a person’s hand-eye-foot coordination and overall motor coordination, both of which are critical for complex decision-making in contexts like sports and driving. As such, peripheral vision has a direct impact on athletic performance, driving skills, and overall road safety.
+&lt;p style=&#39;text-align: justify&#39;&gt;
+To enhance an individual’s ability to effectively use peripheral vision, we can leverage cutting-edge technologies that complement traditional training methods:
 &lt;ul&gt;
 &lt;li&gt;Spatial Computing: VR/MR-based immersive training environments&lt;/li&gt;
 &lt;li&gt;Generative AI: LLMs, diffusion models, novel view synthesis, radiance field methods&lt;/li&gt;
@@ -55,7 +60,7 @@
 &lt;li&gt;Personalized &amp;amp; Controlled Environments: Adaptive to individual skill levels&lt;/li&gt;
 &lt;li&gt;Remote &amp;amp; On-Demand Access: Training available anytime, anywhere&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;📊&lt;strong&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1MQB-L_Nd0MLyxpcXMXVkwrib0Hv8wcCXG8sDKCQwnoY/edit?usp=sharing&#34;&gt;Deatiled Proposal Slides&lt;/a&gt;&lt;/strong&gt; 👈&lt;/p&gt;
+&lt;h3 id=&#34;deatiled-proposal-slideshttpsdocsgooglecompresentationd1mqb-l_nd0mlyxpcxmxvkwrib0hv8wccxg8sdkcqwnoyedituspsharing&#34;&gt;📊&lt;a href=&#34;https://docs.google.com/presentation/d/1MQB-L_Nd0MLyxpcXMXVkwrib0Hv8wcCXG8sDKCQwnoY/edit?usp=sharing&#34;&gt;Deatiled Proposal Slides&lt;/a&gt;👈&lt;/h3&gt;
 </description>
     </item>
     
