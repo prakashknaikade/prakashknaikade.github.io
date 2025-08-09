@@ -340,7 +340,7 @@ To enhance an individual’s ability to effectively use peripheral vision, we ca
     </item>
     
     <item>
-      <title>Master&#39;s Graduation</title>
+      <title>🎓 Master&#39;s Graduation</title>
       <link>http://localhost:1313/post/msc/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/msc/</guid>
@@ -401,6 +401,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 &lt;li&gt;Evaluation of selected SOTA methods on &lt;em&gt;StructColorToaster&lt;/em&gt; scene:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure style=&#34;width: 100%; max-width: 600px; margin: auto;&#34;&gt;
+&lt;div class=&#34;table-wrapper&#34;&gt;
   &lt;table style=&#34;font-size: 0.9rem; padding: 2px; margin: auto; border-collapse: collapse;&#34;&gt;
     &lt;thead&gt;
       &lt;tr&gt;
@@ -487,6 +488,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
       &lt;/tr&gt;
     &lt;/tbody&gt;
   &lt;/table&gt;
+  &lt;/div&gt;
   &lt;figcaption style=&#34;text-align: left; margin-top: 10px;&#34;&gt;
     Table 1: Quantitative evaluation of selected methods&#39; results computed over our &lt;em&gt;StructColorToaster&lt;/em&gt; Scene. &lt;br&gt; (The values for the Train time and FPS are approximate.)
   &lt;/figcaption&gt;
@@ -505,6 +507,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 &lt;li&gt;Evalution of different choices on &lt;em&gt;StructColorPainting&lt;/em&gt; and &lt;em&gt;StructColorPaintingOld&lt;/em&gt; Scenes&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure style=&#34;width: 100%; max-width: 600px; margin: auto;&#34;&gt;
+&lt;div class=&#34;table-wrapper&#34;&gt;
 &lt;table style=&#34;font-size: 0.9rem; padding: 2px; margin: auto; border-collapse: collapse;&#34;&gt;
     &lt;thead&gt;
         &lt;tr&gt;
@@ -601,12 +604,14 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
         &lt;/tr&gt;
     &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
 &lt;figcaption style=&#34;text-align: left; margin-top: 10px;&#34;&gt;Table 2: PSNR Score for ablation runs. Quantitative evaluation of results computed over our &lt;em&gt;StructColorPainting&lt;/em&gt; scene using different 3D-GS settings. (The values for FPS are approximate.)&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;ul&gt;
 &lt;li&gt;Evaluation of selected techniques’ results computed over our &lt;em&gt;StructColorPainting&lt;/em&gt; scene:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure style=&#34;width: 100%; max-width: 600px; margin: auto;&#34;&gt;
+    &lt;div class=&#34;table-wrapper&#34;&gt;
     &lt;table style=&#34;font-size: 0.9rem; padding: 2px; margin: auto; border-collapse: collapse;&#34;&gt;
         &lt;thead&gt;
             &lt;tr style=&#34;border-bottom: 3px solid grey;&#34;&gt;
@@ -683,6 +688,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
             &lt;/tr&gt;
         &lt;/tbody&gt;
     &lt;/table&gt;
+    &lt;/div&gt;
     &lt;figcaption style=&#34;text-align: left; margin-top: 10px;&#34;&gt;
             Table 3: Quantitative evaluation of selected techniques’ results computed over our &lt;em&gt;StructColorPainting&lt;/em&gt; scene. (The values for FPS are approximate).
         &lt;/figcaption&gt;
@@ -691,6 +697,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 &lt;li&gt;Evaluation of renderings using our techniques’ and gsplat with cleaned SfM and additional features computed over &lt;em&gt;StructColorTaylorSwift&lt;/em&gt; scene:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure style=&#34;width: 100%; max-width: 600px; margin: auto;&#34;&gt;
+&lt;div class=&#34;table-wrapper&#34;&gt;
     &lt;table style=&#34;font-size: 0.9rem; padding: 2px; margin: auto; border-collapse: collapse;&#34;&gt;
         &lt;thead&gt;
             &lt;tr style=&#34;border-bottom: 3px solid grey;&#34;&gt;
@@ -767,6 +774,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
             &lt;/tr&gt;
         &lt;/tbody&gt;
     &lt;/table&gt;
+    &lt;/div&gt;
     &lt;figcaption style=&#34;text-align: left; margin-top: 10px;&#34;&gt;
         Table 4: Quantitative evaluation of selected techniques’ results computed over our &lt;em&gt;StructColorPainting&lt;/em&gt; scene. (The values for FPS are approximate.)
     &lt;/figcaption&gt;
@@ -1044,7 +1052,7 @@ by K. Banihashem, A. Singla, and G. Radanovic, at arXiv preprint 2021.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Bachelor&#39;s Graduation</title>
+      <title>🎓 Bachelor&#39;s Graduation</title>
       <link>http://localhost:1313/post/beng/</link>
       <pubDate>Sat, 30 May 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/beng/</guid>
@@ -1057,6 +1065,38 @@ by K. Banihashem, A. Singla, and G. Radanovic, at arXiv preprint 2021.&lt;/p&gt;
       <link>http://localhost:1313/publications/dna_based_cryptography/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publications/dna_based_cryptography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/teaching/misc/adversarial---rl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/misc/adversarial---rl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/teaching/project_ideas/project-idea---mental-health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/project_ideas/project-idea---mental-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/teaching/project_ideas/project-idea---peripheral-vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/project_ideas/project-idea---peripheral-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/teaching/project_ideas/project-idea---tailor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/project_ideas/project-idea---tailor/</guid>
       <description></description>
     </item>
     

@@ -12,5 +12,37 @@
       <link>http://localhost:1313/teaching/</link>
     </image>
     
+    <item>
+      <title></title>
+      <link>http://localhost:1313/teaching/misc/adversarial---rl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/misc/adversarial---rl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/teaching/project_ideas/project-idea---mental-health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/project_ideas/project-idea---mental-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/teaching/project_ideas/project-idea---peripheral-vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/project_ideas/project-idea---peripheral-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/teaching/project_ideas/project-idea---tailor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/project_ideas/project-idea---tailor/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

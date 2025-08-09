@@ -118,6 +118,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 - Evaluation of selected SOTA methods on <em>StructColorToaster</em> scene:
 
 <figure style="width: 100%; max-width: 600px; margin: auto;">
+<div class="table-wrapper">
   <table style="font-size: 0.9rem; padding: 2px; margin: auto; border-collapse: collapse;">
     <thead>
       <tr>
@@ -204,6 +205,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
       </tr>
     </tbody>
   </table>
+  </div>
   <figcaption style="text-align: left; margin-top: 10px;">
     Table 1: Quantitative evaluation of selected methods' results computed over our <em>StructColorToaster</em> Scene. <br> (The values for the Train time and FPS are approximate.)
   </figcaption>
@@ -216,6 +218,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 - Evalution of different choices on <em>StructColorPainting</em> and <em>StructColorPaintingOld</em> Scenes
 
 <figure style="width: 100%; max-width: 600px; margin: auto;">
+<div class="table-wrapper">
 <table style="font-size: 0.9rem; padding: 2px; margin: auto; border-collapse: collapse;">
     <thead>
         <tr>
@@ -311,13 +314,14 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
             <td style="padding: 2px; font-weight: bold;  background-color: yellow; color: #000;">29.4191</td>
         </tr>
     </tbody>
-    
 </table>
+</div>
 <figcaption style="text-align: left; margin-top: 10px;">Table 2: PSNR Score for ablation runs. Quantitative evaluation of results computed over our <em>StructColorPainting</em> scene using different 3D-GS settings. (The values for FPS are approximate.)</figcaption>
 </figure>
 
 - Evaluation of selected techniques’ results computed over our <em>StructColorPainting</em> scene:
 <figure style="width: 100%; max-width: 600px; margin: auto;">
+    <div class="table-wrapper">
     <table style="font-size: 0.9rem; padding: 2px; margin: auto; border-collapse: collapse;">
         <thead>
             <tr style="border-bottom: 3px solid grey;">
@@ -394,6 +398,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
             </tr>
         </tbody>
     </table>
+    </div>
     <figcaption style="text-align: left; margin-top: 10px;">
             Table 3: Quantitative evaluation of selected techniques’ results computed over our <em>StructColorPainting</em> scene. (The values for FPS are approximate).
         </figcaption>
@@ -401,6 +406,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
 
 -  Evaluation of renderings using our techniques’ and gsplat with cleaned SfM and additional features computed over <em>StructColorTaylorSwift</em> scene:
 <figure style="width: 100%; max-width: 600px; margin: auto;">
+<div class="table-wrapper">
     <table style="font-size: 0.9rem; padding: 2px; margin: auto; border-collapse: collapse;">
         <thead>
             <tr style="border-bottom: 3px solid grey;">
@@ -477,6 +483,7 @@ This work marks the beginning of Novel View Synthesis (NVS) of structural color 
             </tr>
         </tbody>
     </table>
+    </div>
     <figcaption style="text-align: left; margin-top: 10px;">
         Table 4: Quantitative evaluation of selected techniques’ results computed over our <em>StructColorPainting</em> scene. (The values for FPS are approximate.)
     </figcaption>
