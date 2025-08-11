@@ -43,7 +43,7 @@ sections:
       subtitle: ''
       text: |-
           <div style="font-size: 1.1rem;">
-          I completed my Master’s in Media Computer Science from the Faculty of Mathematics and Computer Science, Saarland University, Germany, where my focus was on multimedia, (3D) computer vision and machine learning. I worked on my master thesis at Max Planck Institute for Informatics. During my masters, I was junior researcher at August-Wilhelm Scheer Institute and also interned as computer vision engineer in BASF and Fenris GmbH. Before moving to Europe, I received my bachelor’s degree in Computer Engineering from the Pune University in India.
+          I completed my Master’s in Media Computer Science from the Faculty of Mathematics and Computer Science, Saarland University, Germany, where my focus was on (3D) computer vision, machine learning, HCI, and computational multimedia. I worked on my master thesis at Max Planck Institute for Informatics. During my masters, I was junior researcher at August-Wilhelm Scheer Institute and also interned as computer vision engineer in BASF and Fenris GmbH. Before moving to Europe, I received my bachelor’s degree in Computer Engineering from the Pune University in India.
           
           My research interests span in the broad areas of 3D-Reconstruction, Neural Rendering, Radiance Field Methods, Novel View Synthesis, Motion Capture, Scene Understanding, Scene Interaction, LLMs, VLMs, Digital Twins, AR/VR, and generally (3D) Computer Vision, GenAI, XR, HCI, Data Science, and Deep/Machine Learning, to solve complex problems with impactful AI-driven solutions.
           

@@ -11,6 +11,7 @@ design:
 sections:
   - block: collection
     content:
+      count: 0
       title: Selected Projects
       text: Here are a selection of projects that I have worked on in the domains of CV, CG, LLMs, GenAI, and ML/DL.
       filters:
@@ -19,5 +20,5 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: 1
+      columns: 2
 ---

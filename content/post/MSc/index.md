@@ -10,4 +10,4 @@ image:
   caption: 
 ---
 
-Completed Bachelors in Computer Engineering from Pune University, India.
+Completed Master's in Media Computer Science from Saarland University, Germany.
