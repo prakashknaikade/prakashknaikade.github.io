@@ -20,14 +20,14 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Computer Vision and Machine Learning <br> Research Engineer
+role: XRAI Research Engineer 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Max Planck Institute for Informatics
-    url: https://www.mpi-inf.mpg.de/home
-  - name: Saarland University
-    url: https://saarland-informatics-campus.de/en/
+  - name: CREATE, Aalborg University
+    url: https://www.en.create.aau.dk/
+  - name: Pioneer Centre for Artificial Intelligence (P1)
+    url: https://www.aicentre.dk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
