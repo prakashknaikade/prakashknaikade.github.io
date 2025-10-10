@@ -43,25 +43,37 @@ sections:
       subtitle: ''
       text: |-
           <div style="font-size: 1.1rem;">
-          I completed my Master’s in Media Computer Science from the Faculty of Mathematics and Computer Science, Saarland University, Germany, where my focus was on (3D) computer vision, machine learning, HCI, and computational multimedia. I worked on my master thesis at Max Planck Institute for Informatics. During my masters, I was junior researcher at August-Wilhelm Scheer Institute and also interned as computer vision engineer in BASF and Fenris GmbH. Before moving to Europe, I received my bachelor’s degree in Computer Engineering from the Pune University in India.
+
+          I am a Doctoral Fellow at Aalborg University, working on XRAI4AEC, under the supervision of [Prof. Andreas Møgelmose](https://vbn.aau.dk/en/persons/anmo), [Prof. Kasper Elmholdt](https://vbn.aau.dk/en/persons/elm) and [Prof. Thomas Moeslund](https://vbn.aau.dk/en/persons/tbm).
+
+          Previously, I completed my Master’s in Media Computer Science from the Faculty of Mathematics and Computer Science, Saarland University, Germany, where my focus was on (3D) computer vision, machine learning, HCI, and computational multimedia. I worked on my master thesis at Max Planck Institute for Informatics. During my masters, I was junior researcher at August-Wilhelm Scheer Institute and also interned as computer vision engineer in BASF and Fenris GmbH. Before moving to Europe, I received my bachelor’s degree in Computer Engineering from the Pune University in India.  
+
+          My research interests span in the broad areas of 3D-Reconstruction, Neural Rendering, Radiance Field Methods, Novel View Synthesis, Motion Capture, Scene Understanding, Scene Interaction, LLMs, VLMs, Digital Twins, AR/VR, and generally (3D) Computer Vision, GenAI, XR, HCI, Data Science, and Deep/Machine Learning, to solve complex problems with impactful AI-driven solutions.  
           
-          My research interests span in the broad areas of 3D-Reconstruction, Neural Rendering, Radiance Field Methods, Novel View Synthesis, Motion Capture, Scene Understanding, Scene Interaction, LLMs, VLMs, Digital Twins, AR/VR, and generally (3D) Computer Vision, GenAI, XR, HCI, Data Science, and Deep/Machine Learning, to solve complex problems with impactful AI-driven solutions.
-          
+          Currently driving XRAI4AEC towards sustainability.  
           Please reach out to collaborate 😃
           </div>
 
-          <div class="mt-4 flex flex-wrap justify-center items-center gap-4 md:gap-6">
-            <div class="logo-container">
-              <img src="/uploads/logo_SPPU.png" class="h-16 md:h-20 object-contain transition-transform duration-300 hover:scale-125" alt="Pune University">
+          <div class="logo-section">
+            <div class="logo-row">
+              <img src="/uploads/aau.png" alt="Aalborg University">
+              <img src="/uploads/vap.png" alt="VAP Lab">
+              <img src="/uploads/PCAI.png" alt="PCAI">
             </div>
-            <div class="logo-container">
-              <img src="/uploads/Logo_UDS.png" class="h-12 md:h-16 object-contain transition-transform duration-300 hover:scale-125" alt="Saarland University">
-            </div>
-            <div class="logo-container">
-              <img src="/uploads/mpi_logo.svg" class="h-12 md:h-16 object-contain transition-transform duration-300 hover:scale-125 md:hover:scale-150" alt="Max Planck Institute">
-            </div>
-            <div class="logo-container">
-              <img src="/uploads/Logo_AWSi.svg" class="h-12 md:h-16 object-contain transition-transform duration-300 hover:scale-125 md:hover:scale-150" alt="August-Wilhelm Scheer Institute">
+
+            <div class="mt-6 flex flex-wrap justify-center items-center gap-4 md:gap-6">
+              <div class="logo-container">
+                <img src="/uploads/logo_SPPU.png" class="h-16 md:h-20 object-contain transition-transform duration-300 hover:scale-125" alt="Pune University">
+              </div>
+              <div class="logo-container">
+                <img src="/uploads/Logo_UDS.png" class="h-12 md:h-16 object-contain transition-transform duration-300 hover:scale-125" alt="Saarland University">
+              </div>
+              <div class="logo-container">
+                <img src="/uploads/mpi_logo.svg" class="h-12 md:h-16 object-contain transition-transform duration-300 hover:scale-125 md:hover:scale-150" alt="Max Planck Institute">
+              </div>
+              <div class="logo-container">
+                <img src="/uploads/Logo_AWSi.svg" class="h-12 md:h-16 object-contain transition-transform duration-300 hover:scale-125 md:hover:scale-150" alt="August-Wilhelm Scheer Institute">
+              </div>
             </div>
           </div>
 

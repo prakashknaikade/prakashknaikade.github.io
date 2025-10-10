@@ -36,7 +36,7 @@ profiles:
     url: 'mailto:prakashknaikade@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/VR_iPrakash
+    url: https://x.com/Prakash_XRAI
   - icon: brands/instagram
     url: https://www.instagram.com/insta.pkn/
   - icon: brands/github
@@ -55,6 +55,13 @@ interests:
   - Data Science, AI
 
 education:
+  - area: PhD - XRAI4AEC
+    institution: Aalborg University
+    date_start: 2025-08-15
+    date_end: 2028-08-14
+    summary: |
+      Researching new paradigms at the intersection of XRAI and AEC Industry (Buildings and Spaces) at the CREATE - Department of Architecture, Design and Media Technology (https://www.en.create.aau.dk/).
+
   - area: MSc - Media Computer Science
     institution: Saarland University
     date_start: 2020-10-01
@@ -90,6 +97,13 @@ education:
       url: 'https://github.com/prakashknaikade/Bachelor-Thesis'
 
 work:
+  - position: XRAI Researcher - XRAI4AEC
+    company_name: AAU CREATE Department of Architecture, Design & Media Technology
+    date_start: 2025-08-15
+    date_end: 2028-08-14
+    summary: |
+      Researching new paradigms at the intersection of XRAI and AEC Industry (Buildings and Spaces) as part of <a href=https://www.en.aix.aau.dk/>AI:X Labs</a>, within the AI:Xpertise Lab, <a href=https://vap.aau.dk/>VAP Lab</a>, and <a href=https://www.aicentre.dk/>Pioneer Centre for AI (P1)</a>, at AAU.
+
   - position: Junior Researcher (HiWi)
     company_name: August-Wilhelm Scheer Institute
     company_url: https://www.aws-institut.de/
@@ -162,7 +176,7 @@ work:
     date_end: 2019-07-30
     summary: |
       - During the preparation of this <a href=https://en.wikipedia.org/wiki/Civil_Services_Examination>exam</a>, I gained Under-Graduate level knowledge of Anthropology, Polity, Governance, Indian Constitution, Social Justice, International Relations, Economics (Macro), Indian & World Geography, Indian & World History, Indian Culture & Society, Environment, and Ethics. <a href=https://byjus.com/free-ias-prep/upsc-exam-success-rate-statistics-to-crack-the-exam-easily/>(Overall pass percentage of candidates ≈ 0.1%)</a>
-      - This knowledge offers me a unique perspective on socio-cultural-economic, industrial, and environmental challenges, as well as human behaviour, management and leadership. This background, coupled with my technical expertise, enables me to make meaningful contributions to achieve Sustainable Development Goals (SDGs) outlined by United Nations(UN). 
+      - This knowledge offers me a unique perspective on socio-cultural-economic, industrial, and environmental challenges, as well as human behaviour, management and leadership. This background, coupled with my technical expertise, enables me to make meaningful contributions to achieve Sustainable Development Goals (SDGs) outlined by United Nations (UN). 
 
 
 # Skills
