@@ -44,7 +44,7 @@ sections:
       text: |-
           <div style="font-size: 1.1rem;">
 
-          I am a Doctoral Fellow at Aalborg University, working on XRAI4AEC, under the supervision of [Prof. Andreas Møgelmose](https://vbn.aau.dk/en/persons/anmo), [Prof. Kasper Elmholdt](https://vbn.aau.dk/en/persons/elm) and [Prof. Thomas Moeslund](https://vbn.aau.dk/en/persons/tbm).
+          I am a Doctoral Fellow at Aalborg University, working on XRAI4AEC, under the supervision of <a href=https://vbn.aau.dk/en/persons/anmo>Prof. Andreas Møgelmose</a>, <a href=https://vbn.aau.dk/en/persons/elm>Prof. Kasper Elmholdt</a> and <a href=https://vbn.aau.dk/en/persons/tbm>Prof. Thomas Moeslund</a>.
 
           Previously, I completed my Master’s in Media Computer Science from the Faculty of Mathematics and Computer Science, Saarland University, Germany, where my focus was on (3D) computer vision, machine learning, HCI, and computational multimedia. I worked on my master thesis at Max Planck Institute for Informatics. During my masters, I was junior researcher at August-Wilhelm Scheer Institute and also interned as computer vision engineer in BASF and Fenris GmbH. Before moving to Europe, I received my bachelor’s degree in Computer Engineering from the Pune University in India.  
 

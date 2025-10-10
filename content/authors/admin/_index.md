@@ -60,7 +60,7 @@ education:
     date_start: 2025-08-15
     date_end: 2028-08-14
     summary: |
-      Researching new paradigms at the intersection of XRAI and AEC Industry (Buildings and Spaces) at the CREATE - Department of Architecture, Design and Media Technology (https://www.en.create.aau.dk/).
+      Researching new paradigms at the intersection of XRAI and AEC Industry (Buildings and Spaces) at the <a href=https://www.en.create.aau.dk/> CREATE - Department of Architecture, Design and Media Technology </a>.
 
   - area: MSc - Media Computer Science
     institution: Saarland University
