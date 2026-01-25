@@ -56,8 +56,9 @@ sections:
 
           <div class="logo-section">
             <div class="logo-row">
-              <img src="/uploads/aau.png" alt="Aalborg University">
+              <img src="/uploads/AX_Logo.png" alt="AI Xpertise Lab">
               <img src="/uploads/vap.png" alt="VAP Lab">
+              <img src="/uploads/aau.png" alt="Aalborg University">
               <img src="/uploads/PCAI.png" alt="PCAI">
             </div>
 

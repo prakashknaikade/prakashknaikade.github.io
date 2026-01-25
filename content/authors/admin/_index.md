@@ -102,7 +102,7 @@ work:
     date_start: 2025-08-15
     date_end: 2028-08-14
     summary: |
-      Researching new paradigms at the intersection of XRAI and AEC Industry (Buildings and Spaces) as part of <a href=https://www.en.aix.aau.dk/>AI:X Labs</a>, within the AI:Xpertise Lab, <a href=https://vap.aau.dk/>VAP Lab</a>, and <a href=https://www.aicentre.dk/>Pioneer Centre for AI (P1)</a>, at Aalborg University (AAU).
+      Researching new paradigms at the intersection of XRAI and AEC Industry (Buildings and Spaces) at the AI:Xpertise Lab, as part of <a href=https://www.en.aix.aau.dk/>AI:X Labs</a>, <a href=https://vap.aau.dk/>VAP Lab</a>, and <a href=https://www.aicentre.dk/>Pioneer Centre for AI (P1)</a>, at Aalborg University (AAU).
 
   - position: Junior Researcher (HiWi)
     company_name: August-Wilhelm Scheer Institute
