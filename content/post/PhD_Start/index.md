@@ -5,7 +5,7 @@ date: 2025-08-15
 authors:
   - admin
 tags:
-  - Graduation
+  - PhD
 image:
   caption: 
 ---
