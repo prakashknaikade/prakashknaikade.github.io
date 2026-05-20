@@ -27,7 +27,9 @@ Instead of looking at XR (spatial computing) and AI (intelligence) as isolated t
 🚀 Our ultimate goal is to provide researchers, practitioners, and policymakers at the intersection of AEC, AI, and XR with a definitive guide to advance integrated XRAI-driven AEC workflows toward more intelligent, sustainable, circular, and human-centered built environments across the full building lifecycle.
 
 🔗 Preprint: [https://zenodo.org/records/20283895](https://zenodo.org/records/20283895)
+
 💻 GitHub Repo: [https://github.com/prakashknaikade/Awesome-XRAI-for-Architecture](https://github.com/prakashknaikade/Awesome-XRAI-for-Architecture)
+
 🌐 Project Page: [https://prakashknaikade.github.io/Awesome-XRAI-for-Architecture/](https://prakashknaikade.github.io/Awesome-XRAI-for-Architecture/)
 
 🗣️ Feedback, discussions, and collaboration opportunities are very welcome.
