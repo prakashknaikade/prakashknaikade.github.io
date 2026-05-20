@@ -30,7 +30,21 @@ summary: This survey aims to guide researchers, practitioners, and policymakers 
 
 tags:
 - 'XRAI4AEC'
-featured: false
+- XR 
+- AI
+- AEC 
+- DigitalTwins 
+- BIM 
+- GenerativeAI 
+- LLM 
+- ComputerVision 
+- SmartBuildings 
+- Sustainability 
+- HumanCenteredAI 
+- Architecture 
+- Construction 
+- SpatialComputing
+featured: true
 
 # links:
 # - name: ""

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GenerativeAI | Prakash Naikade</title>
+    <link>http://localhost:1313/tags/generativeai/</link>
+      <atom:link href="http://localhost:1313/tags/generativeai/index.xml" rel="self" type="application/rss+xml" />
+    <description>GenerativeAI</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu5efb93123565b269d61ea7706dd6c107_780703_512x512_fill_lanczos_center_3.png</url>
+      <title>GenerativeAI</title>
+      <link>http://localhost:1313/tags/generativeai/</link>
+    </image>
+    
+    <item>
+      <title>🌐🏗️ XRAI4AEC Survey Paper Preprint</title>
+      <link>http://localhost:1313/post/survey_preprint/</link>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/survey_preprint/</guid>
+      <description>&lt;p&gt;The Architecture, Engineering, and Construction (AEC) industry is at a massive tipping point. Traditional workflows are struggling to keep up with the demands of sustainability, complex building lifecycles, and human-centric design.&lt;/p&gt;
+&lt;p&gt;To bridge this gap, our work investigates the powerful convergence of Extended Reality (XR) and Artificial Intelligence (AI) — a synergy we define as XRAI — alongside advanced 3D scene representation, BIM, Digital Twins, and IoT.&lt;/p&gt;
+&lt;p&gt;💡 TL;DR — Why this matters:
+Instead of looking at XR (spatial computing) and AI (intelligence) as isolated tools, this paper provides a unified blueprint for merging them. By combining the immersive power of XR with the analytical, generative power of AI, we can transition from static digital models to truly autonomous, sustainable, and human-centered built environments.&lt;/p&gt;
+&lt;p&gt;📌 Key Contributions &amp;amp; Takeaways:
+ᯅ 🤖 The XRAI Taxonomy: A structured breakdown of how XR and AI integrate, emphasizing advanced 3D scene representation for precise digital building reconstruction.
+🏬 Next-Gen Digital Twins: XRAI-enhanced BIM and Digital Twin workflows designed for intelligent, closed-loop building lifecycle management.
+🏬↔️🧑‍💻↔️🖥️ The HCI–HBI Framework: Introduction of a novel framework spanning Human-Computer Interaction (HCI) to Human-Building Interaction (HBI) to keep cognitive comfort and human needs at the center of smart buildings.
+֎ Cutting-Edge Tech Integration: A deep dive into how Large Language Models (LLMs), Vision-Language Models (VLMs), Generative AI, and autonomous agents are transforming intelligent building systems.
+♻️ Sustainability &amp;amp; Circularity: Frameworks to utilize intelligent systems for reducing carbon footprints and designing for circular AEC ecosystems.&lt;/p&gt;
+&lt;p&gt;🚀 Our ultimate goal is to provide researchers, practitioners, and policymakers at the intersection of AEC, AI, and XR with a definitive guide to advance integrated XRAI-driven AEC workflows toward more intelligent, sustainable, circular, and human-centered built environments across the full building lifecycle.&lt;/p&gt;
+&lt;p&gt;🔗 Preprint: &lt;a href=&#34;https://zenodo.org/records/20283895&#34;&gt;https://zenodo.org/records/20283895&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;💻 GitHub Repo: &lt;a href=&#34;https://github.com/prakashknaikade/Awesome-XRAI-for-Architecture&#34;&gt;https://github.com/prakashknaikade/Awesome-XRAI-for-Architecture&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🌐 Project Page: &lt;a href=&#34;https://prakashknaikade.github.io/Awesome-XRAI-for-Architecture/&#34;&gt;https://prakashknaikade.github.io/Awesome-XRAI-for-Architecture/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🗣️ Feedback, discussions, and collaboration opportunities are very welcome.&lt;/p&gt;
+&lt;p&gt;#XRAI4AEC&lt;/p&gt;
+&lt;p&gt;#XR #AI #AEC #DigitalTwins #BIM #GenerativeAI #LLM #ComputerVision #SmartBuildings #Sustainability #HumanCenteredAI #Architecture #Construction #SpatialComputing&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

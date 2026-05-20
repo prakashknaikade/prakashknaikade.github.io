@@ -5,7 +5,22 @@ date: 2026-05-16
 authors:
   - admin
 tags:
-  - PhD
+  - XRAI4AEC
+  - XR 
+  - AI
+  - AEC 
+  - DigitalTwins 
+  - BIM 
+  - GenerativeAI 
+  - LLM 
+  - ComputerVision 
+  - SmartBuildings 
+  - Sustainability 
+  - HumanCenteredAI 
+  - Architecture 
+  - Construction 
+  - SpatialComputing
+
 image:
   caption: 
 ---
