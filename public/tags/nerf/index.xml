@@ -546,6 +546,17 @@ The webviewer is implemented with help of &lt;a href=&#34;https://github.com/hug
         style=&#34;border: none;&#34;&gt;
 &lt;/iframe&gt;
 &lt;h3 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h3&gt;
+&lt;p&gt;@misc{naikade_2024_20258767,
+author       = {Naikade, Prakash},
+title        = {Novel View Synthesis of Structural Color Objects
+Created by Laser Markings
+},
+month        = aug,
+year         = 2024,
+publisher    = {Zenodo},
+doi          = {10.5281/zenodo.20258767},
+url          = {https://doi.org/10.5281/zenodo.20258767},
+}&lt;/p&gt;
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 &lt;p style=&#34;font-size: 1.1rem;&#34;&gt;
 1. [NeRF] Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, and Ren Ng. Nerf: Representing scenes as neural radiance fields for view synthesis. ECCV, 2020.&lt;br&gt;  
